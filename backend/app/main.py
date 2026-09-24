@@ -30,6 +30,24 @@ app.include_router(notifications.router, prefix=f"{settings.API_V1_STR}/notifica
 app.include_router(admin.router, prefix=f"{settings.API_V1_STR}/admin", tags=["Admin & Impact"])
 app.include_router(dashboards.router, prefix=f"{settings.API_V1_STR}/dashboard", tags=["Dashboards"])
 
+@app.on_event("startup")
+def on_startup():
+    try:
+        from app.core.database import engine, Base, SessionLocal
+        Base.metadata.create_all(bind=engine)
+        db = SessionLocal()
+        try:
+            from app.db.models import User
+            if db.query(User).count() == 0:
+                from app.db.seed import seed_database
+                seed_database()
+        except Exception as seed_err:
+            print("Auto-seed info:", seed_err)
+        finally:
+            db.close()
+    except Exception as e:
+        print("Startup DB init error:", e)
+
 @app.get("/api/health")
 def health_check():
     return {

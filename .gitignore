@@ -1,9 +1,11 @@
 # Dependencies & Virtual Envs
 node_modules/
+**/node_modules/
 backend/venv/
-venv/
+**/venv/
 .venv/
 __pycache__/
+**/__pycache__/
 *.pyc
 
 # Databases & Local Logs
@@ -13,6 +15,7 @@ __pycache__/
 
 # Build outputs & caches
 frontend/dist/
+dist/
 .pytest_cache/
 .coverage
 htmlcov/

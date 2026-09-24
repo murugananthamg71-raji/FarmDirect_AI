@@ -1,0 +1,2601 @@
+week_start,week_of_year,category,district,season_factor,demand_kg,is_demo_sample
+2024-01-01,1,Vegetables,Coimbatore,1.04,1512.7,True
+2024-01-01,1,Vegetables,Madurai,1.04,1371.0,True
+2024-01-01,1,Vegetables,Chennai,1.04,2125.1,True
+2024-01-01,1,Vegetables,Erode,1.04,1516.6,True
+2024-01-01,1,Vegetables,Thanjavur,1.04,1913.5,True
+2024-01-01,1,Fruits,Coimbatore,1.04,1341.3,True
+2024-01-01,1,Fruits,Madurai,1.04,1202.0,True
+2024-01-01,1,Fruits,Chennai,1.04,1436.7,True
+2024-01-01,1,Fruits,Erode,1.04,992.9,True
+2024-01-01,1,Fruits,Thanjavur,1.04,1249.4,True
+2024-01-01,1,Grains & Pulses,Coimbatore,1.04,2628.6,True
+2024-01-01,1,Grains & Pulses,Madurai,1.04,2480.9,True
+2024-01-01,1,Grains & Pulses,Chennai,1.04,3166.3,True
+2024-01-01,1,Grains & Pulses,Erode,1.04,2541.5,True
+2024-01-01,1,Grains & Pulses,Thanjavur,1.04,2523.1,True
+2024-01-01,1,Spices & Herbs,Coimbatore,1.04,526.9,True
+2024-01-01,1,Spices & Herbs,Madurai,1.04,513.0,True
+2024-01-01,1,Spices & Herbs,Chennai,1.04,576.6,True
+2024-01-01,1,Spices & Herbs,Erode,1.04,485.5,True
+2024-01-01,1,Spices & Herbs,Thanjavur,1.04,566.4,True
+2024-01-01,1,Nuts & Oilseeds,Coimbatore,1.04,704.6,True
+2024-01-01,1,Nuts & Oilseeds,Madurai,1.04,701.2,True
+2024-01-01,1,Nuts & Oilseeds,Chennai,1.04,1062.2,True
+2024-01-01,1,Nuts & Oilseeds,Erode,1.04,665.0,True
+2024-01-01,1,Nuts & Oilseeds,Thanjavur,1.04,840.2,True
+2024-01-08,2,Vegetables,Coimbatore,1.07,1828.1,True
+2024-01-08,2,Vegetables,Madurai,1.07,1857.1,True
+2024-01-08,2,Vegetables,Chennai,1.07,1890.0,True
+2024-01-08,2,Vegetables,Erode,1.07,1407.8,True
+2024-01-08,2,Vegetables,Thanjavur,1.07,1633.2,True
+2024-01-08,2,Fruits,Coimbatore,1.07,1313.7,True
+2024-01-08,2,Fruits,Madurai,1.07,1017.4,True
+2024-01-08,2,Fruits,Chennai,1.07,1412.9,True
+2024-01-08,2,Fruits,Erode,1.07,1066.5,True
+2024-01-08,2,Fruits,Thanjavur,1.07,1191.1,True
+2024-01-08,2,Grains & Pulses,Coimbatore,1.07,2415.5,True
+2024-01-08,2,Grains & Pulses,Madurai,1.07,2475.4,True
+2024-01-08,2,Grains & Pulses,Chennai,1.07,3038.8,True
+2024-01-08,2,Grains & Pulses,Erode,1.07,2552.6,True
+2024-01-08,2,Grains & Pulses,Thanjavur,1.07,2991.4,True
+2024-01-08,2,Spices & Herbs,Coimbatore,1.07,588.4,True
+2024-01-08,2,Spices & Herbs,Madurai,1.07,462.8,True
+2024-01-08,2,Spices & Herbs,Chennai,1.07,767.4,True
+2024-01-08,2,Spices & Herbs,Erode,1.07,450.2,True
+2024-01-08,2,Spices & Herbs,Thanjavur,1.07,488.6,True
+2024-01-08,2,Nuts & Oilseeds,Coimbatore,1.07,909.2,True
+2024-01-08,2,Nuts & Oilseeds,Madurai,1.07,852.5,True
+2024-01-08,2,Nuts & Oilseeds,Chennai,1.07,912.4,True
+2024-01-08,2,Nuts & Oilseeds,Erode,1.07,768.9,True
+2024-01-08,2,Nuts & Oilseeds,Thanjavur,1.07,895.8,True
+2024-01-15,3,Vegetables,Coimbatore,1.11,1992.4,True
+2024-01-15,3,Vegetables,Madurai,1.11,1562.6,True
+2024-01-15,3,Vegetables,Chennai,1.11,1969.6,True
+2024-01-15,3,Vegetables,Erode,1.11,1543.7,True
+2024-01-15,3,Vegetables,Thanjavur,1.11,1736.7,True
+2024-01-15,3,Fruits,Coimbatore,1.11,1427.4,True
+2024-01-15,3,Fruits,Madurai,1.11,1137.6,True
+2024-01-15,3,Fruits,Chennai,1.11,1461.9,True
+2024-01-15,3,Fruits,Erode,1.11,979.8,True
+2024-01-15,3,Fruits,Thanjavur,1.11,1041.0,True
+2024-01-15,3,Grains & Pulses,Coimbatore,1.11,3169.0,True
+2024-01-15,3,Grains & Pulses,Madurai,1.11,2496.1,True
+2024-01-15,3,Grains & Pulses,Chennai,1.11,2928.0,True
+2024-01-15,3,Grains & Pulses,Erode,1.11,2731.9,True
+2024-01-15,3,Grains & Pulses,Thanjavur,1.11,2691.8,True
+2024-01-15,3,Spices & Herbs,Coimbatore,1.11,574.5,True
+2024-01-15,3,Spices & Herbs,Madurai,1.11,502.3,True
+2024-01-15,3,Spices & Herbs,Chennai,1.11,788.6,True
+2024-01-15,3,Spices & Herbs,Erode,1.11,527.7,True
+2024-01-15,3,Spices & Herbs,Thanjavur,1.11,504.2,True
+2024-01-15,3,Nuts & Oilseeds,Coimbatore,1.11,892.3,True
+2024-01-15,3,Nuts & Oilseeds,Madurai,1.11,720.0,True
+2024-01-15,3,Nuts & Oilseeds,Chennai,1.11,883.9,True
+2024-01-15,3,Nuts & Oilseeds,Erode,1.11,628.9,True
+2024-01-15,3,Nuts & Oilseeds,Thanjavur,1.11,913.6,True
+2024-01-22,4,Vegetables,Coimbatore,1.14,2019.3,True
+2024-01-22,4,Vegetables,Madurai,1.14,1827.2,True
+2024-01-22,4,Vegetables,Chennai,1.14,2052.4,True
+2024-01-22,4,Vegetables,Erode,1.14,1463.2,True
+2024-01-22,4,Vegetables,Thanjavur,1.14,1610.9,True
+2024-01-22,4,Fruits,Coimbatore,1.14,1371.5,True
+2024-01-22,4,Fruits,Madurai,1.14,1133.3,True
+2024-01-22,4,Fruits,Chennai,1.14,1417.7,True
+2024-01-22,4,Fruits,Erode,1.14,1136.7,True
+2024-01-22,4,Fruits,Thanjavur,1.14,1139.4,True
+2024-01-22,4,Grains & Pulses,Coimbatore,1.14,3073.5,True
+2024-01-22,4,Grains & Pulses,Madurai,1.14,2935.2,True
+2024-01-22,4,Grains & Pulses,Chennai,1.14,3839.0,True
+2024-01-22,4,Grains & Pulses,Erode,1.14,2781.1,True
+2024-01-22,4,Grains & Pulses,Thanjavur,1.14,2762.8,True
+2024-01-22,4,Spices & Herbs,Coimbatore,1.14,700.9,True
+2024-01-22,4,Spices & Herbs,Madurai,1.14,628.9,True
+2024-01-22,4,Spices & Herbs,Chennai,1.14,777.8,True
+2024-01-22,4,Spices & Herbs,Erode,1.14,500.9,True
+2024-01-22,4,Spices & Herbs,Thanjavur,1.14,504.4,True
+2024-01-22,4,Nuts & Oilseeds,Coimbatore,1.14,1018.1,True
+2024-01-22,4,Nuts & Oilseeds,Madurai,1.14,863.0,True
+2024-01-22,4,Nuts & Oilseeds,Chennai,1.14,904.3,True
+2024-01-22,4,Nuts & Oilseeds,Erode,1.14,778.3,True
+2024-01-22,4,Nuts & Oilseeds,Thanjavur,1.14,973.7,True
+2024-01-29,5,Vegetables,Coimbatore,1.17,2233.8,True
+2024-01-29,5,Vegetables,Madurai,1.17,1930.5,True
+2024-01-29,5,Vegetables,Chennai,1.17,2359.1,True
+2024-01-29,5,Vegetables,Erode,1.17,1737.9,True
+2024-01-29,5,Vegetables,Thanjavur,1.17,1839.6,True
+2024-01-29,5,Fruits,Coimbatore,1.17,1340.3,True
+2024-01-29,5,Fruits,Madurai,1.17,1089.5,True
+2024-01-29,5,Fruits,Chennai,1.17,1383.1,True
+2024-01-29,5,Fruits,Erode,1.17,1195.6,True
+2024-01-29,5,Fruits,Thanjavur,1.17,1142.4,True
+2024-01-29,5,Grains & Pulses,Coimbatore,1.17,2884.3,True
+2024-01-29,5,Grains & Pulses,Madurai,1.17,2436.9,True
+2024-01-29,5,Grains & Pulses,Chennai,1.17,3961.0,True
+2024-01-29,5,Grains & Pulses,Erode,1.17,2343.7,True
+2024-01-29,5,Grains & Pulses,Thanjavur,1.17,2603.4,True
+2024-01-29,5,Spices & Herbs,Coimbatore,1.17,558.6,True
+2024-01-29,5,Spices & Herbs,Madurai,1.17,631.4,True
+2024-01-29,5,Spices & Herbs,Chennai,1.17,672.2,True
+2024-01-29,5,Spices & Herbs,Erode,1.17,458.4,True
+2024-01-29,5,Spices & Herbs,Thanjavur,1.17,648.1,True
+2024-01-29,5,Nuts & Oilseeds,Coimbatore,1.17,1046.3,True
+2024-01-29,5,Nuts & Oilseeds,Madurai,1.17,856.3,True
+2024-01-29,5,Nuts & Oilseeds,Chennai,1.17,946.3,True
+2024-01-29,5,Nuts & Oilseeds,Erode,1.17,745.4,True
+2024-01-29,5,Nuts & Oilseeds,Thanjavur,1.17,747.0,True
+2024-02-05,6,Vegetables,Coimbatore,1.2,1914.0,True
+2024-02-05,6,Vegetables,Madurai,1.2,2014.7,True
+2024-02-05,6,Vegetables,Chennai,1.2,2288.8,True
+2024-02-05,6,Vegetables,Erode,1.2,1831.1,True
+2024-02-05,6,Vegetables,Thanjavur,1.2,2016.2,True
+2024-02-05,6,Fruits,Coimbatore,1.2,1504.4,True
+2024-02-05,6,Fruits,Madurai,1.2,1244.4,True
+2024-02-05,6,Fruits,Chennai,1.2,1406.0,True
+2024-02-05,6,Fruits,Erode,1.2,1013.6,True
+2024-02-05,6,Fruits,Thanjavur,1.2,1367.2,True
+2024-02-05,6,Grains & Pulses,Coimbatore,1.2,3525.6,True
+2024-02-05,6,Grains & Pulses,Madurai,1.2,2881.9,True
+2024-02-05,6,Grains & Pulses,Chennai,1.2,4077.9,True
+2024-02-05,6,Grains & Pulses,Erode,1.2,3021.9,True
+2024-02-05,6,Grains & Pulses,Thanjavur,1.2,3378.2,True
+2024-02-05,6,Spices & Herbs,Coimbatore,1.2,642.5,True
+2024-02-05,6,Spices & Herbs,Madurai,1.2,600.5,True
+2024-02-05,6,Spices & Herbs,Chennai,1.2,866.6,True
+2024-02-05,6,Spices & Herbs,Erode,1.2,587.0,True
+2024-02-05,6,Spices & Herbs,Thanjavur,1.2,582.1,True
+2024-02-05,6,Nuts & Oilseeds,Coimbatore,1.2,991.8,True
+2024-02-05,6,Nuts & Oilseeds,Madurai,1.2,890.3,True
+2024-02-05,6,Nuts & Oilseeds,Chennai,1.2,1106.8,True
+2024-02-05,6,Nuts & Oilseeds,Erode,1.2,760.2,True
+2024-02-05,6,Nuts & Oilseeds,Thanjavur,1.2,951.4,True
+2024-02-12,7,Vegetables,Coimbatore,1.22,2092.9,True
+2024-02-12,7,Vegetables,Madurai,1.22,2076.3,True
+2024-02-12,7,Vegetables,Chennai,1.22,2148.8,True
+2024-02-12,7,Vegetables,Erode,1.22,1929.2,True
+2024-02-12,7,Vegetables,Thanjavur,1.22,2132.7,True
+2024-02-12,7,Fruits,Coimbatore,1.22,1364.3,True
+2024-02-12,7,Fruits,Madurai,1.22,1377.5,True
+2024-02-12,7,Fruits,Chennai,1.22,1592.9,True
+2024-02-12,7,Fruits,Erode,1.22,1059.7,True
+2024-02-12,7,Fruits,Thanjavur,1.22,1435.0,True
+2024-02-12,7,Grains & Pulses,Coimbatore,1.22,2755.8,True
+2024-02-12,7,Grains & Pulses,Madurai,1.22,3245.2,True
+2024-02-12,7,Grains & Pulses,Chennai,1.22,3884.9,True
+2024-02-12,7,Grains & Pulses,Erode,1.22,2352.4,True
+2024-02-12,7,Grains & Pulses,Thanjavur,1.22,3515.1,True
+2024-02-12,7,Spices & Herbs,Coimbatore,1.22,607.2,True
+2024-02-12,7,Spices & Herbs,Madurai,1.22,593.9,True
+2024-02-12,7,Spices & Herbs,Chennai,1.22,877.2,True
+2024-02-12,7,Spices & Herbs,Erode,1.22,623.8,True
+2024-02-12,7,Spices & Herbs,Thanjavur,1.22,558.6,True
+2024-02-12,7,Nuts & Oilseeds,Coimbatore,1.22,1050.9,True
+2024-02-12,7,Nuts & Oilseeds,Madurai,1.22,840.0,True
+2024-02-12,7,Nuts & Oilseeds,Chennai,1.22,958.2,True
+2024-02-12,7,Nuts & Oilseeds,Erode,1.22,740.6,True
+2024-02-12,7,Nuts & Oilseeds,Thanjavur,1.22,870.2,True
+2024-02-19,8,Vegetables,Coimbatore,1.25,2356.1,True
+2024-02-19,8,Vegetables,Madurai,1.25,1937.5,True
+2024-02-19,8,Vegetables,Chennai,1.25,2685.3,True
+2024-02-19,8,Vegetables,Erode,1.25,1496.9,True
+2024-02-19,8,Vegetables,Thanjavur,1.25,2143.7,True
+2024-02-19,8,Fruits,Coimbatore,1.25,1602.4,True
+2024-02-19,8,Fruits,Madurai,1.25,1439.1,True
+2024-02-19,8,Fruits,Chennai,1.25,1810.4,True
+2024-02-19,8,Fruits,Erode,1.25,1047.3,True
+2024-02-19,8,Fruits,Thanjavur,1.25,1278.8,True
+2024-02-19,8,Grains & Pulses,Coimbatore,1.25,2830.2,True
+2024-02-19,8,Grains & Pulses,Madurai,1.25,3445.2,True
+2024-02-19,8,Grains & Pulses,Chennai,1.25,3713.0,True
+2024-02-19,8,Grains & Pulses,Erode,1.25,2693.2,True
+2024-02-19,8,Grains & Pulses,Thanjavur,1.25,3044.7,True
+2024-02-19,8,Spices & Herbs,Coimbatore,1.25,577.5,True
+2024-02-19,8,Spices & Herbs,Madurai,1.25,589.1,True
+2024-02-19,8,Spices & Herbs,Chennai,1.25,720.3,True
+2024-02-19,8,Spices & Herbs,Erode,1.25,495.0,True
+2024-02-19,8,Spices & Herbs,Thanjavur,1.25,573.7,True
+2024-02-19,8,Nuts & Oilseeds,Coimbatore,1.25,957.5,True
+2024-02-19,8,Nuts & Oilseeds,Madurai,1.25,1006.2,True
+2024-02-19,8,Nuts & Oilseeds,Chennai,1.25,994.7,True
+2024-02-19,8,Nuts & Oilseeds,Erode,1.25,840.6,True
+2024-02-19,8,Nuts & Oilseeds,Thanjavur,1.25,812.6,True
+2024-02-26,9,Vegetables,Coimbatore,1.27,2170.7,True
+2024-02-26,9,Vegetables,Madurai,1.27,2000.2,True
+2024-02-26,9,Vegetables,Chennai,1.27,2250.7,True
+2024-02-26,9,Vegetables,Erode,1.27,1800.3,True
+2024-02-26,9,Vegetables,Thanjavur,1.27,2211.6,True
+2024-02-26,9,Fruits,Coimbatore,1.27,1235.3,True
+2024-02-26,9,Fruits,Madurai,1.27,1204.5,True
+2024-02-26,9,Fruits,Chennai,1.27,1929.8,True
+2024-02-26,9,Fruits,Erode,1.27,1259.7,True
+2024-02-26,9,Fruits,Thanjavur,1.27,1534.5,True
+2024-02-26,9,Grains & Pulses,Coimbatore,1.27,2884.9,True
+2024-02-26,9,Grains & Pulses,Madurai,1.27,2788.2,True
+2024-02-26,9,Grains & Pulses,Chennai,1.27,3748.6,True
+2024-02-26,9,Grains & Pulses,Erode,1.27,2562.3,True
+2024-02-26,9,Grains & Pulses,Thanjavur,1.27,2856.3,True
+2024-02-26,9,Spices & Herbs,Coimbatore,1.27,749.6,True
+2024-02-26,9,Spices & Herbs,Madurai,1.27,545.4,True
+2024-02-26,9,Spices & Herbs,Chennai,1.27,888.3,True
+2024-02-26,9,Spices & Herbs,Erode,1.27,496.7,True
+2024-02-26,9,Spices & Herbs,Thanjavur,1.27,703.1,True
+2024-02-26,9,Nuts & Oilseeds,Coimbatore,1.27,898.9,True
+2024-02-26,9,Nuts & Oilseeds,Madurai,1.27,827.4,True
+2024-02-26,9,Nuts & Oilseeds,Chennai,1.27,1008.2,True
+2024-02-26,9,Nuts & Oilseeds,Erode,1.27,839.3,True
+2024-02-26,9,Nuts & Oilseeds,Thanjavur,1.27,845.0,True
+2024-03-04,10,Vegetables,Coimbatore,1.28,1837.8,True
+2024-03-04,10,Vegetables,Madurai,1.28,2228.6,True
+2024-03-04,10,Vegetables,Chennai,1.28,2854.8,True
+2024-03-04,10,Vegetables,Erode,1.28,1643.2,True
+2024-03-04,10,Vegetables,Thanjavur,1.28,1938.4,True
+2024-03-04,10,Fruits,Coimbatore,1.28,1316.3,True
+2024-03-04,10,Fruits,Madurai,1.28,1265.6,True
+2024-03-04,10,Fruits,Chennai,1.28,1749.3,True
+2024-03-04,10,Fruits,Erode,1.28,1253.1,True
+2024-03-04,10,Fruits,Thanjavur,1.28,1431.0,True
+2024-03-04,10,Grains & Pulses,Coimbatore,1.28,3472.9,True
+2024-03-04,10,Grains & Pulses,Madurai,1.28,2679.5,True
+2024-03-04,10,Grains & Pulses,Chennai,1.28,4048.7,True
+2024-03-04,10,Grains & Pulses,Erode,1.28,2591.7,True
+2024-03-04,10,Grains & Pulses,Thanjavur,1.28,3714.4,True
+2024-03-04,10,Spices & Herbs,Coimbatore,1.28,591.7,True
+2024-03-04,10,Spices & Herbs,Madurai,1.28,618.6,True
+2024-03-04,10,Spices & Herbs,Chennai,1.28,732.7,True
+2024-03-04,10,Spices & Herbs,Erode,1.28,618.4,True
+2024-03-04,10,Spices & Herbs,Thanjavur,1.28,689.6,True
+2024-03-04,10,Nuts & Oilseeds,Coimbatore,1.28,861.3,True
+2024-03-04,10,Nuts & Oilseeds,Madurai,1.28,882.5,True
+2024-03-04,10,Nuts & Oilseeds,Chennai,1.28,1323.3,True
+2024-03-04,10,Nuts & Oilseeds,Erode,1.28,782.4,True
+2024-03-04,10,Nuts & Oilseeds,Thanjavur,1.28,966.0,True
+2024-03-11,11,Vegetables,Coimbatore,1.29,2000.5,True
+2024-03-11,11,Vegetables,Madurai,1.29,2265.7,True
+2024-03-11,11,Vegetables,Chennai,1.29,2674.9,True
+2024-03-11,11,Vegetables,Erode,1.29,1909.8,True
+2024-03-11,11,Vegetables,Thanjavur,1.29,2259.6,True
+2024-03-11,11,Fruits,Coimbatore,1.29,1623.8,True
+2024-03-11,11,Fruits,Madurai,1.29,1264.9,True
+2024-03-11,11,Fruits,Chennai,1.29,1650.0,True
+2024-03-11,11,Fruits,Erode,1.29,1095.6,True
+2024-03-11,11,Fruits,Thanjavur,1.29,1496.1,True
+2024-03-11,11,Grains & Pulses,Coimbatore,1.29,3753.5,True
+2024-03-11,11,Grains & Pulses,Madurai,1.29,3584.4,True
+2024-03-11,11,Grains & Pulses,Chennai,1.29,3692.6,True
+2024-03-11,11,Grains & Pulses,Erode,1.29,3252.0,True
+2024-03-11,11,Grains & Pulses,Thanjavur,1.29,3627.4,True
+2024-03-11,11,Spices & Herbs,Coimbatore,1.29,700.3,True
+2024-03-11,11,Spices & Herbs,Madurai,1.29,663.8,True
+2024-03-11,11,Spices & Herbs,Chennai,1.29,729.4,True
+2024-03-11,11,Spices & Herbs,Erode,1.29,591.4,True
+2024-03-11,11,Spices & Herbs,Thanjavur,1.29,763.9,True
+2024-03-11,11,Nuts & Oilseeds,Coimbatore,1.29,1113.2,True
+2024-03-11,11,Nuts & Oilseeds,Madurai,1.29,800.6,True
+2024-03-11,11,Nuts & Oilseeds,Chennai,1.29,1278.7,True
+2024-03-11,11,Nuts & Oilseeds,Erode,1.29,938.0,True
+2024-03-11,11,Nuts & Oilseeds,Thanjavur,1.29,1091.1,True
+2024-03-18,12,Vegetables,Coimbatore,1.3,1882.4,True
+2024-03-18,12,Vegetables,Madurai,1.3,1741.2,True
+2024-03-18,12,Vegetables,Chennai,1.3,2775.5,True
+2024-03-18,12,Vegetables,Erode,1.3,1744.9,True
+2024-03-18,12,Vegetables,Thanjavur,1.3,2087.8,True
+2024-03-18,12,Fruits,Coimbatore,1.3,1450.6,True
+2024-03-18,12,Fruits,Madurai,1.3,1227.1,True
+2024-03-18,12,Fruits,Chennai,1.3,1859.8,True
+2024-03-18,12,Fruits,Erode,1.3,1406.5,True
+2024-03-18,12,Fruits,Thanjavur,1.3,1424.9,True
+2024-03-18,12,Grains & Pulses,Coimbatore,1.3,3073.7,True
+2024-03-18,12,Grains & Pulses,Madurai,1.3,2852.2,True
+2024-03-18,12,Grains & Pulses,Chennai,1.3,3801.8,True
+2024-03-18,12,Grains & Pulses,Erode,1.3,2618.8,True
+2024-03-18,12,Grains & Pulses,Thanjavur,1.3,3398.7,True
+2024-03-18,12,Spices & Herbs,Coimbatore,1.3,784.4,True
+2024-03-18,12,Spices & Herbs,Madurai,1.3,632.3,True
+2024-03-18,12,Spices & Herbs,Chennai,1.3,853.8,True
+2024-03-18,12,Spices & Herbs,Erode,1.3,621.1,True
+2024-03-18,12,Spices & Herbs,Thanjavur,1.3,574.0,True
+2024-03-18,12,Nuts & Oilseeds,Coimbatore,1.3,976.1,True
+2024-03-18,12,Nuts & Oilseeds,Madurai,1.3,827.8,True
+2024-03-18,12,Nuts & Oilseeds,Chennai,1.3,1044.0,True
+2024-03-18,12,Nuts & Oilseeds,Erode,1.3,825.2,True
+2024-03-18,12,Nuts & Oilseeds,Thanjavur,1.3,867.2,True
+2024-03-25,13,Vegetables,Coimbatore,1.3,2475.3,True
+2024-03-25,13,Vegetables,Madurai,1.3,1821.0,True
+2024-03-25,13,Vegetables,Chennai,1.3,2347.8,True
+2024-03-25,13,Vegetables,Erode,1.3,1600.4,True
+2024-03-25,13,Vegetables,Thanjavur,1.3,2014.3,True
+2024-03-25,13,Fruits,Coimbatore,1.3,1306.2,True
+2024-03-25,13,Fruits,Madurai,1.3,1470.8,True
+2024-03-25,13,Fruits,Chennai,1.3,1491.4,True
+2024-03-25,13,Fruits,Erode,1.3,1270.2,True
+2024-03-25,13,Fruits,Thanjavur,1.3,1624.8,True
+2024-03-25,13,Grains & Pulses,Coimbatore,1.3,2945.3,True
+2024-03-25,13,Grains & Pulses,Madurai,1.3,3358.0,True
+2024-03-25,13,Grains & Pulses,Chennai,1.3,3699.8,True
+2024-03-25,13,Grains & Pulses,Erode,1.3,2744.1,True
+2024-03-25,13,Grains & Pulses,Thanjavur,1.3,3214.4,True
+2024-03-25,13,Spices & Herbs,Coimbatore,1.3,622.7,True
+2024-03-25,13,Spices & Herbs,Madurai,1.3,633.7,True
+2024-03-25,13,Spices & Herbs,Chennai,1.3,878.7,True
+2024-03-25,13,Spices & Herbs,Erode,1.3,646.2,True
+2024-03-25,13,Spices & Herbs,Thanjavur,1.3,574.5,True
+2024-03-25,13,Nuts & Oilseeds,Coimbatore,1.3,1038.8,True
+2024-03-25,13,Nuts & Oilseeds,Madurai,1.3,885.8,True
+2024-03-25,13,Nuts & Oilseeds,Chennai,1.3,1243.3,True
+2024-03-25,13,Nuts & Oilseeds,Erode,1.3,880.0,True
+2024-03-25,13,Nuts & Oilseeds,Thanjavur,1.3,846.3,True
+2024-04-01,14,Vegetables,Coimbatore,1.3,2150.7,True
+2024-04-01,14,Vegetables,Madurai,1.3,1846.0,True
+2024-04-01,14,Vegetables,Chennai,1.3,2778.3,True
+2024-04-01,14,Vegetables,Erode,1.3,2008.3,True
+2024-04-01,14,Vegetables,Thanjavur,1.3,1999.4,True
+2024-04-01,14,Fruits,Coimbatore,1.3,1278.7,True
+2024-04-01,14,Fruits,Madurai,1.3,1176.6,True
+2024-04-01,14,Fruits,Chennai,1.3,1753.4,True
+2024-04-01,14,Fruits,Erode,1.3,1233.4,True
+2024-04-01,14,Fruits,Thanjavur,1.3,1490.0,True
+2024-04-01,14,Grains & Pulses,Coimbatore,1.3,3518.9,True
+2024-04-01,14,Grains & Pulses,Madurai,1.3,2714.5,True
+2024-04-01,14,Grains & Pulses,Chennai,1.3,4539.5,True
+2024-04-01,14,Grains & Pulses,Erode,1.3,2602.2,True
+2024-04-01,14,Grains & Pulses,Thanjavur,1.3,3626.5,True
+2024-04-01,14,Spices & Herbs,Coimbatore,1.3,641.9,True
+2024-04-01,14,Spices & Herbs,Madurai,1.3,736.7,True
+2024-04-01,14,Spices & Herbs,Chennai,1.3,737.3,True
+2024-04-01,14,Spices & Herbs,Erode,1.3,652.9,True
+2024-04-01,14,Spices & Herbs,Thanjavur,1.3,600.1,True
+2024-04-01,14,Nuts & Oilseeds,Coimbatore,1.3,999.6,True
+2024-04-01,14,Nuts & Oilseeds,Madurai,1.3,833.7,True
+2024-04-01,14,Nuts & Oilseeds,Chennai,1.3,1311.0,True
+2024-04-01,14,Nuts & Oilseeds,Erode,1.3,892.8,True
+2024-04-01,14,Nuts & Oilseeds,Thanjavur,1.3,825.0,True
+2024-04-08,15,Vegetables,Coimbatore,1.29,2408.4,True
+2024-04-08,15,Vegetables,Madurai,1.29,2124.7,True
+2024-04-08,15,Vegetables,Chennai,1.29,2256.0,True
+2024-04-08,15,Vegetables,Erode,1.29,1860.3,True
+2024-04-08,15,Vegetables,Thanjavur,1.29,2257.5,True
+2024-04-08,15,Fruits,Coimbatore,1.29,1688.3,True
+2024-04-08,15,Fruits,Madurai,1.29,1409.3,True
+2024-04-08,15,Fruits,Chennai,1.29,1628.8,True
+2024-04-08,15,Fruits,Erode,1.29,1304.8,True
+2024-04-08,15,Fruits,Thanjavur,1.29,1309.4,True
+2024-04-08,15,Grains & Pulses,Coimbatore,1.29,2989.6,True
+2024-04-08,15,Grains & Pulses,Madurai,1.29,3291.2,True
+2024-04-08,15,Grains & Pulses,Chennai,1.29,3415.6,True
+2024-04-08,15,Grains & Pulses,Erode,1.29,3205.8,True
+2024-04-08,15,Grains & Pulses,Thanjavur,1.29,2815.2,True
+2024-04-08,15,Spices & Herbs,Coimbatore,1.29,799.0,True
+2024-04-08,15,Spices & Herbs,Madurai,1.29,709.9,True
+2024-04-08,15,Spices & Herbs,Chennai,1.29,717.3,True
+2024-04-08,15,Spices & Herbs,Erode,1.29,625.1,True
+2024-04-08,15,Spices & Herbs,Thanjavur,1.29,675.7,True
+2024-04-08,15,Nuts & Oilseeds,Coimbatore,1.29,1012.9,True
+2024-04-08,15,Nuts & Oilseeds,Madurai,1.29,1026.9,True
+2024-04-08,15,Nuts & Oilseeds,Chennai,1.29,1187.3,True
+2024-04-08,15,Nuts & Oilseeds,Erode,1.29,930.5,True
+2024-04-08,15,Nuts & Oilseeds,Thanjavur,1.29,1064.9,True
+2024-04-15,16,Vegetables,Coimbatore,1.28,2439.0,True
+2024-04-15,16,Vegetables,Madurai,1.28,1827.0,True
+2024-04-15,16,Vegetables,Chennai,1.28,2789.3,True
+2024-04-15,16,Vegetables,Erode,1.28,1812.3,True
+2024-04-15,16,Vegetables,Thanjavur,1.28,1776.0,True
+2024-04-15,16,Fruits,Coimbatore,1.28,1549.4,True
+2024-04-15,16,Fruits,Madurai,1.28,1364.5,True
+2024-04-15,16,Fruits,Chennai,1.28,1489.4,True
+2024-04-15,16,Fruits,Erode,1.28,1122.5,True
+2024-04-15,16,Fruits,Thanjavur,1.28,1210.4,True
+2024-04-15,16,Grains & Pulses,Coimbatore,1.28,3485.4,True
+2024-04-15,16,Grains & Pulses,Madurai,1.28,3206.4,True
+2024-04-15,16,Grains & Pulses,Chennai,1.28,4185.4,True
+2024-04-15,16,Grains & Pulses,Erode,1.28,2965.6,True
+2024-04-15,16,Grains & Pulses,Thanjavur,1.28,3272.6,True
+2024-04-15,16,Spices & Herbs,Coimbatore,1.28,737.0,True
+2024-04-15,16,Spices & Herbs,Madurai,1.28,608.0,True
+2024-04-15,16,Spices & Herbs,Chennai,1.28,814.3,True
+2024-04-15,16,Spices & Herbs,Erode,1.28,655.9,True
+2024-04-15,16,Spices & Herbs,Thanjavur,1.28,589.7,True
+2024-04-15,16,Nuts & Oilseeds,Coimbatore,1.28,949.5,True
+2024-04-15,16,Nuts & Oilseeds,Madurai,1.28,911.7,True
+2024-04-15,16,Nuts & Oilseeds,Chennai,1.28,1170.3,True
+2024-04-15,16,Nuts & Oilseeds,Erode,1.28,923.3,True
+2024-04-15,16,Nuts & Oilseeds,Thanjavur,1.28,897.3,True
+2024-04-22,17,Vegetables,Coimbatore,1.27,2242.7,True
+2024-04-22,17,Vegetables,Madurai,1.27,2188.4,True
+2024-04-22,17,Vegetables,Chennai,1.27,2605.1,True
+2024-04-22,17,Vegetables,Erode,1.27,1757.5,True
+2024-04-22,17,Vegetables,Thanjavur,1.27,2270.2,True
+2024-04-22,17,Fruits,Coimbatore,1.27,1337.9,True
+2024-04-22,17,Fruits,Madurai,1.27,1127.1,True
+2024-04-22,17,Fruits,Chennai,1.27,1813.8,True
+2024-04-22,17,Fruits,Erode,1.27,1237.7,True
+2024-04-22,17,Fruits,Thanjavur,1.27,1193.1,True
+2024-04-22,17,Grains & Pulses,Coimbatore,1.27,3015.1,True
+2024-04-22,17,Grains & Pulses,Madurai,1.27,2708.7,True
+2024-04-22,17,Grains & Pulses,Chennai,1.27,3442.9,True
+2024-04-22,17,Grains & Pulses,Erode,1.27,3147.2,True
+2024-04-22,17,Grains & Pulses,Thanjavur,1.27,3216.8,True
+2024-04-22,17,Spices & Herbs,Coimbatore,1.27,666.3,True
+2024-04-22,17,Spices & Herbs,Madurai,1.27,636.3,True
+2024-04-22,17,Spices & Herbs,Chennai,1.27,884.2,True
+2024-04-22,17,Spices & Herbs,Erode,1.27,642.9,True
+2024-04-22,17,Spices & Herbs,Thanjavur,1.27,585.6,True
+2024-04-22,17,Nuts & Oilseeds,Coimbatore,1.27,850.6,True
+2024-04-22,17,Nuts & Oilseeds,Madurai,1.27,779.8,True
+2024-04-22,17,Nuts & Oilseeds,Chennai,1.27,1117.4,True
+2024-04-22,17,Nuts & Oilseeds,Erode,1.27,799.2,True
+2024-04-22,17,Nuts & Oilseeds,Thanjavur,1.27,972.3,True
+2024-04-29,18,Vegetables,Coimbatore,1.25,1895.1,True
+2024-04-29,18,Vegetables,Madurai,1.25,2205.1,True
+2024-04-29,18,Vegetables,Chennai,1.25,2753.4,True
+2024-04-29,18,Vegetables,Erode,1.25,1583.4,True
+2024-04-29,18,Vegetables,Thanjavur,1.25,1835.1,True
+2024-04-29,18,Fruits,Coimbatore,1.25,1279.8,True
+2024-04-29,18,Fruits,Madurai,1.25,1156.1,True
+2024-04-29,18,Fruits,Chennai,1.25,1819.9,True
+2024-04-29,18,Fruits,Erode,1.25,1188.7,True
+2024-04-29,18,Fruits,Thanjavur,1.25,1455.9,True
+2024-04-29,18,Grains & Pulses,Coimbatore,1.25,3231.4,True
+2024-04-29,18,Grains & Pulses,Madurai,1.25,2778.7,True
+2024-04-29,18,Grains & Pulses,Chennai,1.25,4382.7,True
+2024-04-29,18,Grains & Pulses,Erode,1.25,2907.5,True
+2024-04-29,18,Grains & Pulses,Thanjavur,1.25,2970.8,True
+2024-04-29,18,Spices & Herbs,Coimbatore,1.25,603.6,True
+2024-04-29,18,Spices & Herbs,Madurai,1.25,660.1,True
+2024-04-29,18,Spices & Herbs,Chennai,1.25,702.8,True
+2024-04-29,18,Spices & Herbs,Erode,1.25,542.6,True
+2024-04-29,18,Spices & Herbs,Thanjavur,1.25,667.9,True
+2024-04-29,18,Nuts & Oilseeds,Coimbatore,1.25,956.9,True
+2024-04-29,18,Nuts & Oilseeds,Madurai,1.25,944.2,True
+2024-04-29,18,Nuts & Oilseeds,Chennai,1.25,1266.3,True
+2024-04-29,18,Nuts & Oilseeds,Erode,1.25,877.2,True
+2024-04-29,18,Nuts & Oilseeds,Thanjavur,1.25,995.9,True
+2024-05-06,19,Vegetables,Coimbatore,1.22,1885.7,True
+2024-05-06,19,Vegetables,Madurai,1.22,1645.5,True
+2024-05-06,19,Vegetables,Chennai,1.22,2367.9,True
+2024-05-06,19,Vegetables,Erode,1.22,1570.6,True
+2024-05-06,19,Vegetables,Thanjavur,1.22,1831.4,True
+2024-05-06,19,Fruits,Coimbatore,1.22,1280.5,True
+2024-05-06,19,Fruits,Madurai,1.22,1113.5,True
+2024-05-06,19,Fruits,Chennai,1.22,1518.2,True
+2024-05-06,19,Fruits,Erode,1.22,1262.2,True
+2024-05-06,19,Fruits,Thanjavur,1.22,1516.1,True
+2024-05-06,19,Grains & Pulses,Coimbatore,1.22,3484.9,True
+2024-05-06,19,Grains & Pulses,Madurai,1.22,2771.2,True
+2024-05-06,19,Grains & Pulses,Chennai,1.22,3677.0,True
+2024-05-06,19,Grains & Pulses,Erode,1.22,2901.0,True
+2024-05-06,19,Grains & Pulses,Thanjavur,1.22,3202.1,True
+2024-05-06,19,Spices & Herbs,Coimbatore,1.22,716.4,True
+2024-05-06,19,Spices & Herbs,Madurai,1.22,690.5,True
+2024-05-06,19,Spices & Herbs,Chennai,1.22,788.6,True
+2024-05-06,19,Spices & Herbs,Erode,1.22,562.4,True
+2024-05-06,19,Spices & Herbs,Thanjavur,1.22,690.5,True
+2024-05-06,19,Nuts & Oilseeds,Coimbatore,1.22,1032.2,True
+2024-05-06,19,Nuts & Oilseeds,Madurai,1.22,838.8,True
+2024-05-06,19,Nuts & Oilseeds,Chennai,1.22,1223.7,True
+2024-05-06,19,Nuts & Oilseeds,Erode,1.22,700.0,True
+2024-05-06,19,Nuts & Oilseeds,Thanjavur,1.22,862.2,True
+2024-05-13,20,Vegetables,Coimbatore,1.2,1891.1,True
+2024-05-13,20,Vegetables,Madurai,1.2,1778.0,True
+2024-05-13,20,Vegetables,Chennai,1.2,2665.8,True
+2024-05-13,20,Vegetables,Erode,1.2,1500.3,True
+2024-05-13,20,Vegetables,Thanjavur,1.2,1650.0,True
+2024-05-13,20,Fruits,Coimbatore,1.2,1339.9,True
+2024-05-13,20,Fruits,Madurai,1.2,1295.3,True
+2024-05-13,20,Fruits,Chennai,1.2,1797.1,True
+2024-05-13,20,Fruits,Erode,1.2,1302.0,True
+2024-05-13,20,Fruits,Thanjavur,1.2,1346.1,True
+2024-05-13,20,Grains & Pulses,Coimbatore,1.2,3424.5,True
+2024-05-13,20,Grains & Pulses,Madurai,1.2,2872.7,True
+2024-05-13,20,Grains & Pulses,Chennai,1.2,3348.4,True
+2024-05-13,20,Grains & Pulses,Erode,1.2,2830.5,True
+2024-05-13,20,Grains & Pulses,Thanjavur,1.2,3466.4,True
+2024-05-13,20,Spices & Herbs,Coimbatore,1.2,700.4,True
+2024-05-13,20,Spices & Herbs,Madurai,1.2,589.2,True
+2024-05-13,20,Spices & Herbs,Chennai,1.2,704.3,True
+2024-05-13,20,Spices & Herbs,Erode,1.2,469.8,True
+2024-05-13,20,Spices & Herbs,Thanjavur,1.2,704.0,True
+2024-05-13,20,Nuts & Oilseeds,Coimbatore,1.2,843.3,True
+2024-05-13,20,Nuts & Oilseeds,Madurai,1.2,825.0,True
+2024-05-13,20,Nuts & Oilseeds,Chennai,1.2,1140.3,True
+2024-05-13,20,Nuts & Oilseeds,Erode,1.2,784.6,True
+2024-05-13,20,Nuts & Oilseeds,Thanjavur,1.2,855.7,True
+2024-05-20,21,Vegetables,Coimbatore,1.17,1725.6,True
+2024-05-20,21,Vegetables,Madurai,1.17,1792.2,True
+2024-05-20,21,Vegetables,Chennai,1.17,2591.3,True
+2024-05-20,21,Vegetables,Erode,1.17,1835.5,True
+2024-05-20,21,Vegetables,Thanjavur,1.17,1764.1,True
+2024-05-20,21,Fruits,Coimbatore,1.17,1228.7,True
+2024-05-20,21,Fruits,Madurai,1.17,1173.4,True
+2024-05-20,21,Fruits,Chennai,1.17,1780.8,True
+2024-05-20,21,Fruits,Erode,1.17,1124.3,True
+2024-05-20,21,Fruits,Thanjavur,1.17,1338.2,True
+2024-05-20,21,Grains & Pulses,Coimbatore,1.17,3195.8,True
+2024-05-20,21,Grains & Pulses,Madurai,1.17,2510.4,True
+2024-05-20,21,Grains & Pulses,Chennai,1.17,3554.9,True
+2024-05-20,21,Grains & Pulses,Erode,1.17,2725.3,True
+2024-05-20,21,Grains & Pulses,Thanjavur,1.17,3119.3,True
+2024-05-20,21,Spices & Herbs,Coimbatore,1.17,658.2,True
+2024-05-20,21,Spices & Herbs,Madurai,1.17,495.0,True
+2024-05-20,21,Spices & Herbs,Chennai,1.17,807.5,True
+2024-05-20,21,Spices & Herbs,Erode,1.17,512.7,True
+2024-05-20,21,Spices & Herbs,Thanjavur,1.17,648.1,True
+2024-05-20,21,Nuts & Oilseeds,Coimbatore,1.17,927.3,True
+2024-05-20,21,Nuts & Oilseeds,Madurai,1.17,834.3,True
+2024-05-20,21,Nuts & Oilseeds,Chennai,1.17,1197.7,True
+2024-05-20,21,Nuts & Oilseeds,Erode,1.17,769.2,True
+2024-05-20,21,Nuts & Oilseeds,Thanjavur,1.17,876.9,True
+2024-05-27,22,Vegetables,Coimbatore,1.14,1793.6,True
+2024-05-27,22,Vegetables,Madurai,1.14,1860.5,True
+2024-05-27,22,Vegetables,Chennai,1.14,2098.1,True
+2024-05-27,22,Vegetables,Erode,1.14,1510.6,True
+2024-05-27,22,Vegetables,Thanjavur,1.14,1702.3,True
+2024-05-27,22,Fruits,Coimbatore,1.14,1301.3,True
+2024-05-27,22,Fruits,Madurai,1.14,1027.1,True
+2024-05-27,22,Fruits,Chennai,1.14,1448.2,True
+2024-05-27,22,Fruits,Erode,1.14,1092.5,True
+2024-05-27,22,Fruits,Thanjavur,1.14,1151.7,True
+2024-05-27,22,Grains & Pulses,Coimbatore,1.14,3418.2,True
+2024-05-27,22,Grains & Pulses,Madurai,1.14,3030.8,True
+2024-05-27,22,Grains & Pulses,Chennai,1.14,3421.8,True
+2024-05-27,22,Grains & Pulses,Erode,1.14,2514.6,True
+2024-05-27,22,Grains & Pulses,Thanjavur,1.14,3268.5,True
+2024-05-27,22,Spices & Herbs,Coimbatore,1.14,645.0,True
+2024-05-27,22,Spices & Herbs,Madurai,1.14,510.5,True
+2024-05-27,22,Spices & Herbs,Chennai,1.14,610.3,True
+2024-05-27,22,Spices & Herbs,Erode,1.14,549.0,True
+2024-05-27,22,Spices & Herbs,Thanjavur,1.14,527.3,True
+2024-05-27,22,Nuts & Oilseeds,Coimbatore,1.14,1000.0,True
+2024-05-27,22,Nuts & Oilseeds,Madurai,1.14,927.3,True
+2024-05-27,22,Nuts & Oilseeds,Chennai,1.14,1167.9,True
+2024-05-27,22,Nuts & Oilseeds,Erode,1.14,807.0,True
+2024-05-27,22,Nuts & Oilseeds,Thanjavur,1.14,726.3,True
+2024-06-03,23,Vegetables,Coimbatore,1.11,1891.1,True
+2024-06-03,23,Vegetables,Madurai,1.11,1813.9,True
+2024-06-03,23,Vegetables,Chennai,1.11,2456.3,True
+2024-06-03,23,Vegetables,Erode,1.11,1595.5,True
+2024-06-03,23,Vegetables,Thanjavur,1.11,1699.7,True
+2024-06-03,23,Fruits,Coimbatore,1.11,1168.9,True
+2024-06-03,23,Fruits,Madurai,1.11,1146.6,True
+2024-06-03,23,Fruits,Chennai,1.11,1258.0,True
+2024-06-03,23,Fruits,Erode,1.11,1096.2,True
+2024-06-03,23,Fruits,Thanjavur,1.11,1159.8,True
+2024-06-03,23,Grains & Pulses,Coimbatore,1.11,2738.1,True
+2024-06-03,23,Grains & Pulses,Madurai,1.11,2384.7,True
+2024-06-03,23,Grains & Pulses,Chennai,1.11,2961.2,True
+2024-06-03,23,Grains & Pulses,Erode,1.11,2290.2,True
+2024-06-03,23,Grains & Pulses,Thanjavur,1.11,2956.4,True
+2024-06-03,23,Spices & Herbs,Coimbatore,1.11,651.5,True
+2024-06-03,23,Spices & Herbs,Madurai,1.11,604.5,True
+2024-06-03,23,Spices & Herbs,Chennai,1.11,757.4,True
+2024-06-03,23,Spices & Herbs,Erode,1.11,529.5,True
+2024-06-03,23,Spices & Herbs,Thanjavur,1.11,591.6,True
+2024-06-03,23,Nuts & Oilseeds,Coimbatore,1.11,953.5,True
+2024-06-03,23,Nuts & Oilseeds,Madurai,1.11,888.5,True
+2024-06-03,23,Nuts & Oilseeds,Chennai,1.11,1046.8,True
+2024-06-03,23,Nuts & Oilseeds,Erode,1.11,625.1,True
+2024-06-03,23,Nuts & Oilseeds,Thanjavur,1.11,912.4,True
+2024-06-10,24,Vegetables,Coimbatore,1.07,1973.3,True
+2024-06-10,24,Vegetables,Madurai,1.07,1857.6,True
+2024-06-10,24,Vegetables,Chennai,1.07,2054.7,True
+2024-06-10,24,Vegetables,Erode,1.07,1419.7,True
+2024-06-10,24,Vegetables,Thanjavur,1.07,1613.1,True
+2024-06-10,24,Fruits,Coimbatore,1.07,1319.9,True
+2024-06-10,24,Fruits,Madurai,1.07,1231.4,True
+2024-06-10,24,Fruits,Chennai,1.07,1214.4,True
+2024-06-10,24,Fruits,Erode,1.07,965.3,True
+2024-06-10,24,Fruits,Thanjavur,1.07,1159.5,True
+2024-06-10,24,Grains & Pulses,Coimbatore,1.07,3223.9,True
+2024-06-10,24,Grains & Pulses,Madurai,1.07,2892.2,True
+2024-06-10,24,Grains & Pulses,Chennai,1.07,3018.1,True
+2024-06-10,24,Grains & Pulses,Erode,1.07,2350.3,True
+2024-06-10,24,Grains & Pulses,Thanjavur,1.07,2741.1,True
+2024-06-10,24,Spices & Herbs,Coimbatore,1.07,618.3,True
+2024-06-10,24,Spices & Herbs,Madurai,1.07,581.5,True
+2024-06-10,24,Spices & Herbs,Chennai,1.07,727.4,True
+2024-06-10,24,Spices & Herbs,Erode,1.07,464.5,True
+2024-06-10,24,Spices & Herbs,Thanjavur,1.07,539.2,True
+2024-06-10,24,Nuts & Oilseeds,Coimbatore,1.07,893.2,True
+2024-06-10,24,Nuts & Oilseeds,Madurai,1.07,716.8,True
+2024-06-10,24,Nuts & Oilseeds,Chennai,1.07,1051.7,True
+2024-06-10,24,Nuts & Oilseeds,Erode,1.07,706.7,True
+2024-06-10,24,Nuts & Oilseeds,Thanjavur,1.07,746.8,True
+2024-06-17,25,Vegetables,Coimbatore,1.04,1877.1,True
+2024-06-17,25,Vegetables,Madurai,1.04,1481.1,True
+2024-06-17,25,Vegetables,Chennai,1.04,2140.4,True
+2024-06-17,25,Vegetables,Erode,1.04,1624.4,True
+2024-06-17,25,Vegetables,Thanjavur,1.04,1478.4,True
+2024-06-17,25,Fruits,Coimbatore,1.04,1353.3,True
+2024-06-17,25,Fruits,Madurai,1.04,1106.7,True
+2024-06-17,25,Fruits,Chennai,1.04,1528.4,True
+2024-06-17,25,Fruits,Erode,1.04,844.7,True
+2024-06-17,25,Fruits,Thanjavur,1.04,1066.5,True
+2024-06-17,25,Grains & Pulses,Coimbatore,1.04,2734.7,True
+2024-06-17,25,Grains & Pulses,Madurai,1.04,2375.4,True
+2024-06-17,25,Grains & Pulses,Chennai,1.04,3080.0,True
+2024-06-17,25,Grains & Pulses,Erode,1.04,2610.4,True
+2024-06-17,25,Grains & Pulses,Thanjavur,1.04,2760.0,True
+2024-06-17,25,Spices & Herbs,Coimbatore,1.04,587.6,True
+2024-06-17,25,Spices & Herbs,Madurai,1.04,539.2,True
+2024-06-17,25,Spices & Herbs,Chennai,1.04,660.9,True
+2024-06-17,25,Spices & Herbs,Erode,1.04,475.4,True
+2024-06-17,25,Spices & Herbs,Thanjavur,1.04,531.8,True
+2024-06-17,25,Nuts & Oilseeds,Coimbatore,1.04,868.5,True
+2024-06-17,25,Nuts & Oilseeds,Madurai,1.04,665.3,True
+2024-06-17,25,Nuts & Oilseeds,Chennai,1.04,901.5,True
+2024-06-17,25,Nuts & Oilseeds,Erode,1.04,724.9,True
+2024-06-17,25,Nuts & Oilseeds,Thanjavur,1.04,875.7,True
+2024-06-24,26,Vegetables,Coimbatore,1.0,1729.0,True
+2024-06-24,26,Vegetables,Madurai,1.0,1715.2,True
+2024-06-24,26,Vegetables,Chennai,1.0,1866.3,True
+2024-06-24,26,Vegetables,Erode,1.0,1245.8,True
+2024-06-24,26,Vegetables,Thanjavur,1.0,1729.5,True
+2024-06-24,26,Fruits,Coimbatore,1.0,1118.9,True
+2024-06-24,26,Fruits,Madurai,1.0,1126.2,True
+2024-06-24,26,Fruits,Chennai,1.0,1346.8,True
+2024-06-24,26,Fruits,Erode,1.0,1067.1,True
+2024-06-24,26,Fruits,Thanjavur,1.0,1069.6,True
+2024-06-24,26,Grains & Pulses,Coimbatore,1.0,2384.1,True
+2024-06-24,26,Grains & Pulses,Madurai,1.0,2528.4,True
+2024-06-24,26,Grains & Pulses,Chennai,1.0,2685.5,True
+2024-06-24,26,Grains & Pulses,Erode,1.0,2404.2,True
+2024-06-24,26,Grains & Pulses,Thanjavur,1.0,2720.6,True
+2024-06-24,26,Spices & Herbs,Coimbatore,1.0,540.5,True
+2024-06-24,26,Spices & Herbs,Madurai,1.0,501.0,True
+2024-06-24,26,Spices & Herbs,Chennai,1.0,538.5,True
+2024-06-24,26,Spices & Herbs,Erode,1.0,459.4,True
+2024-06-24,26,Spices & Herbs,Thanjavur,1.0,527.2,True
+2024-06-24,26,Nuts & Oilseeds,Coimbatore,1.0,722.1,True
+2024-06-24,26,Nuts & Oilseeds,Madurai,1.0,676.8,True
+2024-06-24,26,Nuts & Oilseeds,Chennai,1.0,975.8,True
+2024-06-24,26,Nuts & Oilseeds,Erode,1.0,658.7,True
+2024-06-24,26,Nuts & Oilseeds,Thanjavur,1.0,812.9,True
+2024-07-01,27,Vegetables,Coimbatore,0.96,1803.3,True
+2024-07-01,27,Vegetables,Madurai,0.96,1469.2,True
+2024-07-01,27,Vegetables,Chennai,0.96,2047.6,True
+2024-07-01,27,Vegetables,Erode,0.96,1524.4,True
+2024-07-01,27,Vegetables,Thanjavur,0.96,1749.7,True
+2024-07-01,27,Fruits,Coimbatore,0.96,1203.7,True
+2024-07-01,27,Fruits,Madurai,0.96,1016.4,True
+2024-07-01,27,Fruits,Chennai,0.96,1360.4,True
+2024-07-01,27,Fruits,Erode,0.96,794.5,True
+2024-07-01,27,Fruits,Thanjavur,0.96,1051.2,True
+2024-07-01,27,Grains & Pulses,Coimbatore,0.96,2917.7,True
+2024-07-01,27,Grains & Pulses,Madurai,0.96,2597.0,True
+2024-07-01,27,Grains & Pulses,Chennai,0.96,2585.5,True
+2024-07-01,27,Grains & Pulses,Erode,0.96,1873.1,True
+2024-07-01,27,Grains & Pulses,Thanjavur,0.96,2530.1,True
+2024-07-01,27,Spices & Herbs,Coimbatore,0.96,562.6,True
+2024-07-01,27,Spices & Herbs,Madurai,0.96,485.5,True
+2024-07-01,27,Spices & Herbs,Chennai,0.96,606.9,True
+2024-07-01,27,Spices & Herbs,Erode,0.96,477.3,True
+2024-07-01,27,Spices & Herbs,Thanjavur,0.96,458.1,True
+2024-07-01,27,Nuts & Oilseeds,Coimbatore,0.96,717.0,True
+2024-07-01,27,Nuts & Oilseeds,Madurai,0.96,756.0,True
+2024-07-01,27,Nuts & Oilseeds,Chennai,0.96,887.4,True
+2024-07-01,27,Nuts & Oilseeds,Erode,0.96,629.0,True
+2024-07-01,27,Nuts & Oilseeds,Thanjavur,0.96,692.0,True
+2024-07-08,28,Vegetables,Coimbatore,0.93,1365.9,True
+2024-07-08,28,Vegetables,Madurai,0.93,1386.9,True
+2024-07-08,28,Vegetables,Chennai,0.93,1766.1,True
+2024-07-08,28,Vegetables,Erode,0.93,1209.8,True
+2024-07-08,28,Vegetables,Thanjavur,0.93,1539.3,True
+2024-07-08,28,Fruits,Coimbatore,0.93,1008.6,True
+2024-07-08,28,Fruits,Madurai,0.93,1112.8,True
+2024-07-08,28,Fruits,Chennai,0.93,1355.1,True
+2024-07-08,28,Fruits,Erode,0.93,751.6,True
+2024-07-08,28,Fruits,Thanjavur,0.93,936.4,True
+2024-07-08,28,Grains & Pulses,Coimbatore,0.93,2519.3,True
+2024-07-08,28,Grains & Pulses,Madurai,0.93,2126.9,True
+2024-07-08,28,Grains & Pulses,Chennai,0.93,2483.6,True
+2024-07-08,28,Grains & Pulses,Erode,0.93,2335.2,True
+2024-07-08,28,Grains & Pulses,Thanjavur,0.93,2025.0,True
+2024-07-08,28,Spices & Herbs,Coimbatore,0.93,443.5,True
+2024-07-08,28,Spices & Herbs,Madurai,0.93,465.4,True
+2024-07-08,28,Spices & Herbs,Chennai,0.93,624.4,True
+2024-07-08,28,Spices & Herbs,Erode,0.93,401.6,True
+2024-07-08,28,Spices & Herbs,Thanjavur,0.93,468.0,True
+2024-07-08,28,Nuts & Oilseeds,Coimbatore,0.93,821.2,True
+2024-07-08,28,Nuts & Oilseeds,Madurai,0.93,651.8,True
+2024-07-08,28,Nuts & Oilseeds,Chennai,0.93,817.9,True
+2024-07-08,28,Nuts & Oilseeds,Erode,0.93,651.7,True
+2024-07-08,28,Nuts & Oilseeds,Thanjavur,0.93,663.1,True
+2024-07-15,29,Vegetables,Coimbatore,0.89,1679.9,True
+2024-07-15,29,Vegetables,Madurai,0.89,1225.3,True
+2024-07-15,29,Vegetables,Chennai,0.89,1653.8,True
+2024-07-15,29,Vegetables,Erode,0.89,1108.0,True
+2024-07-15,29,Vegetables,Thanjavur,0.89,1498.3,True
+2024-07-15,29,Fruits,Coimbatore,0.89,944.4,True
+2024-07-15,29,Fruits,Madurai,0.89,804.1,True
+2024-07-15,29,Fruits,Chennai,0.89,1228.4,True
+2024-07-15,29,Fruits,Erode,0.89,893.2,True
+2024-07-15,29,Fruits,Thanjavur,0.89,907.3,True
+2024-07-15,29,Grains & Pulses,Coimbatore,0.89,2164.4,True
+2024-07-15,29,Grains & Pulses,Madurai,0.89,2229.8,True
+2024-07-15,29,Grains & Pulses,Chennai,0.89,3112.2,True
+2024-07-15,29,Grains & Pulses,Erode,0.89,1672.1,True
+2024-07-15,29,Grains & Pulses,Thanjavur,0.89,2508.3,True
+2024-07-15,29,Spices & Herbs,Coimbatore,0.89,427.1,True
+2024-07-15,29,Spices & Herbs,Madurai,0.89,491.1,True
+2024-07-15,29,Spices & Herbs,Chennai,0.89,597.2,True
+2024-07-15,29,Spices & Herbs,Erode,0.89,457.2,True
+2024-07-15,29,Spices & Herbs,Thanjavur,0.89,529.8,True
+2024-07-15,29,Nuts & Oilseeds,Coimbatore,0.89,715.2,True
+2024-07-15,29,Nuts & Oilseeds,Madurai,0.89,618.3,True
+2024-07-15,29,Nuts & Oilseeds,Chennai,0.89,884.8,True
+2024-07-15,29,Nuts & Oilseeds,Erode,0.89,658.4,True
+2024-07-15,29,Nuts & Oilseeds,Thanjavur,0.89,608.0,True
+2024-07-22,30,Vegetables,Coimbatore,0.86,1392.7,True
+2024-07-22,30,Vegetables,Madurai,0.86,1401.1,True
+2024-07-22,30,Vegetables,Chennai,0.86,1452.8,True
+2024-07-22,30,Vegetables,Erode,0.86,1355.0,True
+2024-07-22,30,Vegetables,Thanjavur,0.86,1275.1,True
+2024-07-22,30,Fruits,Coimbatore,0.86,918.6,True
+2024-07-22,30,Fruits,Madurai,0.86,881.3,True
+2024-07-22,30,Fruits,Chennai,0.86,1253.5,True
+2024-07-22,30,Fruits,Erode,0.86,740.9,True
+2024-07-22,30,Fruits,Thanjavur,0.86,950.0,True
+2024-07-22,30,Grains & Pulses,Coimbatore,0.86,2416.6,True
+2024-07-22,30,Grains & Pulses,Madurai,0.86,2215.7,True
+2024-07-22,30,Grains & Pulses,Chennai,0.86,2549.3,True
+2024-07-22,30,Grains & Pulses,Erode,0.86,1878.5,True
+2024-07-22,30,Grains & Pulses,Thanjavur,0.86,2286.0,True
+2024-07-22,30,Spices & Herbs,Coimbatore,0.86,418.4,True
+2024-07-22,30,Spices & Herbs,Madurai,0.86,395.5,True
+2024-07-22,30,Spices & Herbs,Chennai,0.86,487.9,True
+2024-07-22,30,Spices & Herbs,Erode,0.86,438.7,True
+2024-07-22,30,Spices & Herbs,Thanjavur,0.86,503.0,True
+2024-07-22,30,Nuts & Oilseeds,Coimbatore,0.86,627.3,True
+2024-07-22,30,Nuts & Oilseeds,Madurai,0.86,585.8,True
+2024-07-22,30,Nuts & Oilseeds,Chennai,0.86,779.9,True
+2024-07-22,30,Nuts & Oilseeds,Erode,0.86,520.0,True
+2024-07-22,30,Nuts & Oilseeds,Thanjavur,0.86,566.2,True
+2024-07-29,31,Vegetables,Coimbatore,0.83,1360.8,True
+2024-07-29,31,Vegetables,Madurai,0.83,1284.8,True
+2024-07-29,31,Vegetables,Chennai,0.83,1401.2,True
+2024-07-29,31,Vegetables,Erode,0.83,1164.2,True
+2024-07-29,31,Vegetables,Thanjavur,0.83,1186.7,True
+2024-07-29,31,Fruits,Coimbatore,0.83,903.7,True
+2024-07-29,31,Fruits,Madurai,0.83,959.0,True
+2024-07-29,31,Fruits,Chennai,0.83,1225.9,True
+2024-07-29,31,Fruits,Erode,0.83,690.0,True
+2024-07-29,31,Fruits,Thanjavur,0.83,1015.1,True
+2024-07-29,31,Grains & Pulses,Coimbatore,0.83,1919.6,True
+2024-07-29,31,Grains & Pulses,Madurai,0.83,2160.1,True
+2024-07-29,31,Grains & Pulses,Chennai,0.83,2381.1,True
+2024-07-29,31,Grains & Pulses,Erode,0.83,1944.1,True
+2024-07-29,31,Grains & Pulses,Thanjavur,0.83,2044.1,True
+2024-07-29,31,Spices & Herbs,Coimbatore,0.83,404.5,True
+2024-07-29,31,Spices & Herbs,Madurai,0.83,422.7,True
+2024-07-29,31,Spices & Herbs,Chennai,0.83,449.8,True
+2024-07-29,31,Spices & Herbs,Erode,0.83,349.5,True
+2024-07-29,31,Spices & Herbs,Thanjavur,0.83,402.9,True
+2024-07-29,31,Nuts & Oilseeds,Coimbatore,0.83,606.8,True
+2024-07-29,31,Nuts & Oilseeds,Madurai,0.83,632.7,True
+2024-07-29,31,Nuts & Oilseeds,Chennai,0.83,695.9,True
+2024-07-29,31,Nuts & Oilseeds,Erode,0.83,616.1,True
+2024-07-29,31,Nuts & Oilseeds,Thanjavur,0.83,588.0,True
+2024-08-05,32,Vegetables,Coimbatore,0.8,1517.8,True
+2024-08-05,32,Vegetables,Madurai,0.8,1208.4,True
+2024-08-05,32,Vegetables,Chennai,0.8,1431.2,True
+2024-08-05,32,Vegetables,Erode,0.8,975.1,True
+2024-08-05,32,Vegetables,Thanjavur,0.8,1171.1,True
+2024-08-05,32,Fruits,Coimbatore,0.8,946.0,True
+2024-08-05,32,Fruits,Madurai,0.8,737.9,True
+2024-08-05,32,Fruits,Chennai,0.8,1216.1,True
+2024-08-05,32,Fruits,Erode,0.8,829.0,True
+2024-08-05,32,Fruits,Thanjavur,0.8,974.8,True
+2024-08-05,32,Grains & Pulses,Coimbatore,0.8,1929.8,True
+2024-08-05,32,Grains & Pulses,Madurai,0.8,1887.6,True
+2024-08-05,32,Grains & Pulses,Chennai,0.8,2391.0,True
+2024-08-05,32,Grains & Pulses,Erode,0.8,1818.8,True
+2024-08-05,32,Grains & Pulses,Thanjavur,0.8,2080.0,True
+2024-08-05,32,Spices & Herbs,Coimbatore,0.8,396.4,True
+2024-08-05,32,Spices & Herbs,Madurai,0.8,355.0,True
+2024-08-05,32,Spices & Herbs,Chennai,0.8,523.9,True
+2024-08-05,32,Spices & Herbs,Erode,0.8,385.5,True
+2024-08-05,32,Spices & Herbs,Thanjavur,0.8,461.3,True
+2024-08-05,32,Nuts & Oilseeds,Coimbatore,0.8,643.6,True
+2024-08-05,32,Nuts & Oilseeds,Madurai,0.8,527.1,True
+2024-08-05,32,Nuts & Oilseeds,Chennai,0.8,629.5,True
+2024-08-05,32,Nuts & Oilseeds,Erode,0.8,593.9,True
+2024-08-05,32,Nuts & Oilseeds,Thanjavur,0.8,594.3,True
+2024-08-12,33,Vegetables,Coimbatore,0.78,1272.4,True
+2024-08-12,33,Vegetables,Madurai,0.78,1187.0,True
+2024-08-12,33,Vegetables,Chennai,0.78,1745.8,True
+2024-08-12,33,Vegetables,Erode,0.78,1233.7,True
+2024-08-12,33,Vegetables,Thanjavur,0.78,1171.2,True
+2024-08-12,33,Fruits,Coimbatore,0.78,768.9,True
+2024-08-12,33,Fruits,Madurai,0.78,706.9,True
+2024-08-12,33,Fruits,Chennai,0.78,911.6,True
+2024-08-12,33,Fruits,Erode,0.78,826.9,True
+2024-08-12,33,Fruits,Thanjavur,0.78,887.8,True
+2024-08-12,33,Grains & Pulses,Coimbatore,0.78,2028.6,True
+2024-08-12,33,Grains & Pulses,Madurai,0.78,2110.9,True
+2024-08-12,33,Grains & Pulses,Chennai,0.78,2125.3,True
+2024-08-12,33,Grains & Pulses,Erode,0.78,1516.8,True
+2024-08-12,33,Grains & Pulses,Thanjavur,0.78,2094.8,True
+2024-08-12,33,Spices & Herbs,Coimbatore,0.78,434.0,True
+2024-08-12,33,Spices & Herbs,Madurai,0.78,402.1,True
+2024-08-12,33,Spices & Herbs,Chennai,0.78,519.5,True
+2024-08-12,33,Spices & Herbs,Erode,0.78,302.6,True
+2024-08-12,33,Spices & Herbs,Thanjavur,0.78,381.8,True
+2024-08-12,33,Nuts & Oilseeds,Coimbatore,0.78,617.4,True
+2024-08-12,33,Nuts & Oilseeds,Madurai,0.78,606.5,True
+2024-08-12,33,Nuts & Oilseeds,Chennai,0.78,653.8,True
+2024-08-12,33,Nuts & Oilseeds,Erode,0.78,549.1,True
+2024-08-12,33,Nuts & Oilseeds,Thanjavur,0.78,547.0,True
+2024-08-19,34,Vegetables,Coimbatore,0.75,1419.7,True
+2024-08-19,34,Vegetables,Madurai,0.75,1130.1,True
+2024-08-19,34,Vegetables,Chennai,0.75,1590.6,True
+2024-08-19,34,Vegetables,Erode,0.75,1061.9,True
+2024-08-19,34,Vegetables,Thanjavur,0.75,1326.9,True
+2024-08-19,34,Fruits,Coimbatore,0.75,823.9,True
+2024-08-19,34,Fruits,Madurai,0.75,795.2,True
+2024-08-19,34,Fruits,Chennai,0.75,1106.0,True
+2024-08-19,34,Fruits,Erode,0.75,710.2,True
+2024-08-19,34,Fruits,Thanjavur,0.75,789.5,True
+2024-08-19,34,Grains & Pulses,Coimbatore,0.75,2286.1,True
+2024-08-19,34,Grains & Pulses,Madurai,0.75,1853.8,True
+2024-08-19,34,Grains & Pulses,Chennai,0.75,2354.2,True
+2024-08-19,34,Grains & Pulses,Erode,0.75,1568.0,True
+2024-08-19,34,Grains & Pulses,Thanjavur,0.75,1821.9,True
+2024-08-19,34,Spices & Herbs,Coimbatore,0.75,466.3,True
+2024-08-19,34,Spices & Herbs,Madurai,0.75,369.6,True
+2024-08-19,34,Spices & Herbs,Chennai,0.75,403.9,True
+2024-08-19,34,Spices & Herbs,Erode,0.75,306.9,True
+2024-08-19,34,Spices & Herbs,Thanjavur,0.75,400.9,True
+2024-08-19,34,Nuts & Oilseeds,Coimbatore,0.75,532.7,True
+2024-08-19,34,Nuts & Oilseeds,Madurai,0.75,474.6,True
+2024-08-19,34,Nuts & Oilseeds,Chennai,0.75,734.8,True
+2024-08-19,34,Nuts & Oilseeds,Erode,0.75,502.0,True
+2024-08-19,34,Nuts & Oilseeds,Thanjavur,0.75,558.4,True
+2024-08-26,35,Vegetables,Coimbatore,0.73,1053.5,True
+2024-08-26,35,Vegetables,Madurai,0.73,1037.1,True
+2024-08-26,35,Vegetables,Chennai,0.73,1350.1,True
+2024-08-26,35,Vegetables,Erode,0.73,891.9,True
+2024-08-26,35,Vegetables,Thanjavur,0.73,1317.9,True
+2024-08-26,35,Fruits,Coimbatore,0.73,738.5,True
+2024-08-26,35,Fruits,Madurai,0.73,755.2,True
+2024-08-26,35,Fruits,Chennai,0.73,1081.8,True
+2024-08-26,35,Fruits,Erode,0.73,646.4,True
+2024-08-26,35,Fruits,Thanjavur,0.73,862.6,True
+2024-08-26,35,Grains & Pulses,Coimbatore,0.73,2170.1,True
+2024-08-26,35,Grains & Pulses,Madurai,0.73,1861.2,True
+2024-08-26,35,Grains & Pulses,Chennai,0.73,2096.0,True
+2024-08-26,35,Grains & Pulses,Erode,0.73,1716.4,True
+2024-08-26,35,Grains & Pulses,Thanjavur,0.73,2042.0,True
+2024-08-26,35,Spices & Herbs,Coimbatore,0.73,371.0,True
+2024-08-26,35,Spices & Herbs,Madurai,0.73,408.5,True
+2024-08-26,35,Spices & Herbs,Chennai,0.73,444.0,True
+2024-08-26,35,Spices & Herbs,Erode,0.73,285.1,True
+2024-08-26,35,Spices & Herbs,Thanjavur,0.73,428.1,True
+2024-08-26,35,Nuts & Oilseeds,Coimbatore,0.73,552.2,True
+2024-08-26,35,Nuts & Oilseeds,Madurai,0.73,527.9,True
+2024-08-26,35,Nuts & Oilseeds,Chennai,0.73,688.9,True
+2024-08-26,35,Nuts & Oilseeds,Erode,0.73,541.9,True
+2024-08-26,35,Nuts & Oilseeds,Thanjavur,0.73,528.0,True
+2024-09-02,36,Vegetables,Coimbatore,0.72,1366.8,True
+2024-09-02,36,Vegetables,Madurai,0.72,1003.7,True
+2024-09-02,36,Vegetables,Chennai,0.72,1264.8,True
+2024-09-02,36,Vegetables,Erode,0.72,991.6,True
+2024-09-02,36,Vegetables,Thanjavur,0.72,1140.2,True
+2024-09-02,36,Fruits,Coimbatore,0.72,795.3,True
+2024-09-02,36,Fruits,Madurai,0.72,689.7,True
+2024-09-02,36,Fruits,Chennai,0.72,916.7,True
+2024-09-02,36,Fruits,Erode,0.72,694.3,True
+2024-09-02,36,Fruits,Thanjavur,0.72,799.9,True
+2024-09-02,36,Grains & Pulses,Coimbatore,0.72,2156.4,True
+2024-09-02,36,Grains & Pulses,Madurai,0.72,1873.7,True
+2024-09-02,36,Grains & Pulses,Chennai,0.72,2209.6,True
+2024-09-02,36,Grains & Pulses,Erode,0.72,1649.8,True
+2024-09-02,36,Grains & Pulses,Thanjavur,0.72,1559.1,True
+2024-09-02,36,Spices & Herbs,Coimbatore,0.72,365.2,True
+2024-09-02,36,Spices & Herbs,Madurai,0.72,350.3,True
+2024-09-02,36,Spices & Herbs,Chennai,0.72,520.1,True
+2024-09-02,36,Spices & Herbs,Erode,0.72,347.8,True
+2024-09-02,36,Spices & Herbs,Thanjavur,0.72,328.3,True
+2024-09-02,36,Nuts & Oilseeds,Coimbatore,0.72,583.0,True
+2024-09-02,36,Nuts & Oilseeds,Madurai,0.72,515.4,True
+2024-09-02,36,Nuts & Oilseeds,Chennai,0.72,720.1,True
+2024-09-02,36,Nuts & Oilseeds,Erode,0.72,453.1,True
+2024-09-02,36,Nuts & Oilseeds,Thanjavur,0.72,480.9,True
+2024-09-09,37,Vegetables,Coimbatore,0.71,1240.7,True
+2024-09-09,37,Vegetables,Madurai,0.71,1131.4,True
+2024-09-09,37,Vegetables,Chennai,0.71,1523.8,True
+2024-09-09,37,Vegetables,Erode,0.71,889.4,True
+2024-09-09,37,Vegetables,Thanjavur,0.71,1032.5,True
+2024-09-09,37,Fruits,Coimbatore,0.71,900.5,True
+2024-09-09,37,Fruits,Madurai,0.71,630.1,True
+2024-09-09,37,Fruits,Chennai,0.71,840.2,True
+2024-09-09,37,Fruits,Erode,0.71,588.6,True
+2024-09-09,37,Fruits,Thanjavur,0.71,733.9,True
+2024-09-09,37,Grains & Pulses,Coimbatore,0.71,2112.6,True
+2024-09-09,37,Grains & Pulses,Madurai,0.71,1642.1,True
+2024-09-09,37,Grains & Pulses,Chennai,0.71,2509.7,True
+2024-09-09,37,Grains & Pulses,Erode,0.71,1354.4,True
+2024-09-09,37,Grains & Pulses,Thanjavur,0.71,1865.5,True
+2024-09-09,37,Spices & Herbs,Coimbatore,0.71,362.6,True
+2024-09-09,37,Spices & Herbs,Madurai,0.71,301.2,True
+2024-09-09,37,Spices & Herbs,Chennai,0.71,438.0,True
+2024-09-09,37,Spices & Herbs,Erode,0.71,314.1,True
+2024-09-09,37,Spices & Herbs,Thanjavur,0.71,351.9,True
+2024-09-09,37,Nuts & Oilseeds,Coimbatore,0.71,607.4,True
+2024-09-09,37,Nuts & Oilseeds,Madurai,0.71,574.1,True
+2024-09-09,37,Nuts & Oilseeds,Chennai,0.71,652.5,True
+2024-09-09,37,Nuts & Oilseeds,Erode,0.71,426.1,True
+2024-09-09,37,Nuts & Oilseeds,Thanjavur,0.71,528.9,True
+2024-09-16,38,Vegetables,Coimbatore,0.7,1143.4,True
+2024-09-16,38,Vegetables,Madurai,0.7,1169.4,True
+2024-09-16,38,Vegetables,Chennai,0.7,1273.7,True
+2024-09-16,38,Vegetables,Erode,0.7,856.9,True
+2024-09-16,38,Vegetables,Thanjavur,0.7,1223.7,True
+2024-09-16,38,Fruits,Coimbatore,0.7,707.5,True
+2024-09-16,38,Fruits,Madurai,0.7,630.5,True
+2024-09-16,38,Fruits,Chennai,0.7,989.1,True
+2024-09-16,38,Fruits,Erode,0.7,720.3,True
+2024-09-16,38,Fruits,Thanjavur,0.7,798.5,True
+2024-09-16,38,Grains & Pulses,Coimbatore,0.7,1772.0,True
+2024-09-16,38,Grains & Pulses,Madurai,0.7,1853.3,True
+2024-09-16,38,Grains & Pulses,Chennai,0.7,2452.6,True
+2024-09-16,38,Grains & Pulses,Erode,0.7,1315.7,True
+2024-09-16,38,Grains & Pulses,Thanjavur,0.7,2037.3,True
+2024-09-16,38,Spices & Herbs,Coimbatore,0.7,370.9,True
+2024-09-16,38,Spices & Herbs,Madurai,0.7,306.3,True
+2024-09-16,38,Spices & Herbs,Chennai,0.7,476.1,True
+2024-09-16,38,Spices & Herbs,Erode,0.7,323.6,True
+2024-09-16,38,Spices & Herbs,Thanjavur,0.7,334.5,True
+2024-09-16,38,Nuts & Oilseeds,Coimbatore,0.7,513.4,True
+2024-09-16,38,Nuts & Oilseeds,Madurai,0.7,452.9,True
+2024-09-16,38,Nuts & Oilseeds,Chennai,0.7,725.1,True
+2024-09-16,38,Nuts & Oilseeds,Erode,0.7,426.7,True
+2024-09-16,38,Nuts & Oilseeds,Thanjavur,0.7,520.6,True
+2024-09-23,39,Vegetables,Coimbatore,0.7,1115.4,True
+2024-09-23,39,Vegetables,Madurai,0.7,1069.4,True
+2024-09-23,39,Vegetables,Chennai,0.7,1265.5,True
+2024-09-23,39,Vegetables,Erode,0.7,1105.9,True
+2024-09-23,39,Vegetables,Thanjavur,0.7,1099.1,True
+2024-09-23,39,Fruits,Coimbatore,0.7,897.0,True
+2024-09-23,39,Fruits,Madurai,0.7,738.3,True
+2024-09-23,39,Fruits,Chennai,0.7,821.0,True
+2024-09-23,39,Fruits,Erode,0.7,648.9,True
+2024-09-23,39,Fruits,Thanjavur,0.7,685.4,True
+2024-09-23,39,Grains & Pulses,Coimbatore,0.7,1659.1,True
+2024-09-23,39,Grains & Pulses,Madurai,0.7,1461.2,True
+2024-09-23,39,Grains & Pulses,Chennai,0.7,2475.1,True
+2024-09-23,39,Grains & Pulses,Erode,0.7,1516.7,True
+2024-09-23,39,Grains & Pulses,Thanjavur,0.7,1918.1,True
+2024-09-23,39,Spices & Herbs,Coimbatore,0.7,410.2,True
+2024-09-23,39,Spices & Herbs,Madurai,0.7,397.8,True
+2024-09-23,39,Spices & Herbs,Chennai,0.7,425.8,True
+2024-09-23,39,Spices & Herbs,Erode,0.7,354.0,True
+2024-09-23,39,Spices & Herbs,Thanjavur,0.7,385.2,True
+2024-09-23,39,Nuts & Oilseeds,Coimbatore,0.7,495.4,True
+2024-09-23,39,Nuts & Oilseeds,Madurai,0.7,511.9,True
+2024-09-23,39,Nuts & Oilseeds,Chennai,0.7,651.0,True
+2024-09-23,39,Nuts & Oilseeds,Erode,0.7,464.2,True
+2024-09-23,39,Nuts & Oilseeds,Thanjavur,0.7,553.5,True
+2024-09-30,40,Vegetables,Coimbatore,0.7,1319.5,True
+2024-09-30,40,Vegetables,Madurai,0.7,984.1,True
+2024-09-30,40,Vegetables,Chennai,0.7,1498.6,True
+2024-09-30,40,Vegetables,Erode,0.7,1034.3,True
+2024-09-30,40,Vegetables,Thanjavur,0.7,1280.3,True
+2024-09-30,40,Fruits,Coimbatore,0.7,889.0,True
+2024-09-30,40,Fruits,Madurai,0.7,780.0,True
+2024-09-30,40,Fruits,Chennai,0.7,963.7,True
+2024-09-30,40,Fruits,Erode,0.7,590.1,True
+2024-09-30,40,Fruits,Thanjavur,0.7,655.0,True
+2024-09-30,40,Grains & Pulses,Coimbatore,0.7,2122.2,True
+2024-09-30,40,Grains & Pulses,Madurai,0.7,1609.6,True
+2024-09-30,40,Grains & Pulses,Chennai,0.7,2016.7,True
+2024-09-30,40,Grains & Pulses,Erode,0.7,1564.2,True
+2024-09-30,40,Grains & Pulses,Thanjavur,0.7,1565.4,True
+2024-09-30,40,Spices & Herbs,Coimbatore,0.7,390.9,True
+2024-09-30,40,Spices & Herbs,Madurai,0.7,344.5,True
+2024-09-30,40,Spices & Herbs,Chennai,0.7,406.0,True
+2024-09-30,40,Spices & Herbs,Erode,0.7,272.2,True
+2024-09-30,40,Spices & Herbs,Thanjavur,0.7,377.1,True
+2024-09-30,40,Nuts & Oilseeds,Coimbatore,0.7,603.2,True
+2024-09-30,40,Nuts & Oilseeds,Madurai,0.7,527.2,True
+2024-09-30,40,Nuts & Oilseeds,Chennai,0.7,592.6,True
+2024-09-30,40,Nuts & Oilseeds,Erode,0.7,418.2,True
+2024-09-30,40,Nuts & Oilseeds,Thanjavur,0.7,579.3,True
+2024-10-07,41,Vegetables,Coimbatore,0.71,1211.2,True
+2024-10-07,41,Vegetables,Madurai,0.71,1106.4,True
+2024-10-07,41,Vegetables,Chennai,0.71,1359.1,True
+2024-10-07,41,Vegetables,Erode,0.71,872.0,True
+2024-10-07,41,Vegetables,Thanjavur,0.71,1263.2,True
+2024-10-07,41,Fruits,Coimbatore,0.71,812.4,True
+2024-10-07,41,Fruits,Madurai,0.71,700.8,True
+2024-10-07,41,Fruits,Chennai,0.71,920.1,True
+2024-10-07,41,Fruits,Erode,0.71,625.8,True
+2024-10-07,41,Fruits,Thanjavur,0.71,750.0,True
+2024-10-07,41,Grains & Pulses,Coimbatore,0.71,1844.5,True
+2024-10-07,41,Grains & Pulses,Madurai,0.71,1900.6,True
+2024-10-07,41,Grains & Pulses,Chennai,0.71,2114.0,True
+2024-10-07,41,Grains & Pulses,Erode,0.71,1727.0,True
+2024-10-07,41,Grains & Pulses,Thanjavur,0.71,1566.0,True
+2024-10-07,41,Spices & Herbs,Coimbatore,0.71,368.2,True
+2024-10-07,41,Spices & Herbs,Madurai,0.71,299.1,True
+2024-10-07,41,Spices & Herbs,Chennai,0.71,424.1,True
+2024-10-07,41,Spices & Herbs,Erode,0.71,335.1,True
+2024-10-07,41,Spices & Herbs,Thanjavur,0.71,318.1,True
+2024-10-07,41,Nuts & Oilseeds,Coimbatore,0.71,579.4,True
+2024-10-07,41,Nuts & Oilseeds,Madurai,0.71,569.0,True
+2024-10-07,41,Nuts & Oilseeds,Chennai,0.71,639.1,True
+2024-10-07,41,Nuts & Oilseeds,Erode,0.71,513.4,True
+2024-10-07,41,Nuts & Oilseeds,Thanjavur,0.71,532.0,True
+2024-10-14,42,Vegetables,Coimbatore,0.72,1212.0,True
+2024-10-14,42,Vegetables,Madurai,0.72,1034.1,True
+2024-10-14,42,Vegetables,Chennai,0.72,1503.3,True
+2024-10-14,42,Vegetables,Erode,0.72,979.7,True
+2024-10-14,42,Vegetables,Thanjavur,0.72,1278.9,True
+2024-10-14,42,Fruits,Coimbatore,0.72,827.6,True
+2024-10-14,42,Fruits,Madurai,0.72,800.8,True
+2024-10-14,42,Fruits,Chennai,0.72,1089.2,True
+2024-10-14,42,Fruits,Erode,0.72,772.6,True
+2024-10-14,42,Fruits,Thanjavur,0.72,724.7,True
+2024-10-14,42,Grains & Pulses,Coimbatore,0.72,1984.2,True
+2024-10-14,42,Grains & Pulses,Madurai,0.72,1520.6,True
+2024-10-14,42,Grains & Pulses,Chennai,0.72,2530.0,True
+2024-10-14,42,Grains & Pulses,Erode,0.72,1397.1,True
+2024-10-14,42,Grains & Pulses,Thanjavur,0.72,1881.7,True
+2024-10-14,42,Spices & Herbs,Coimbatore,0.72,439.6,True
+2024-10-14,42,Spices & Herbs,Madurai,0.72,376.9,True
+2024-10-14,42,Spices & Herbs,Chennai,0.72,502.8,True
+2024-10-14,42,Spices & Herbs,Erode,0.72,323.8,True
+2024-10-14,42,Spices & Herbs,Thanjavur,0.72,325.4,True
+2024-10-14,42,Nuts & Oilseeds,Coimbatore,0.72,601.4,True
+2024-10-14,42,Nuts & Oilseeds,Madurai,0.72,565.8,True
+2024-10-14,42,Nuts & Oilseeds,Chennai,0.72,571.5,True
+2024-10-14,42,Nuts & Oilseeds,Erode,0.72,494.4,True
+2024-10-14,42,Nuts & Oilseeds,Thanjavur,0.72,598.2,True
+2024-10-21,43,Vegetables,Coimbatore,0.73,1169.7,True
+2024-10-21,43,Vegetables,Madurai,0.73,1213.0,True
+2024-10-21,43,Vegetables,Chennai,0.73,1594.9,True
+2024-10-21,43,Vegetables,Erode,0.73,897.5,True
+2024-10-21,43,Vegetables,Thanjavur,0.73,1020.4,True
+2024-10-21,43,Fruits,Coimbatore,0.73,853.4,True
+2024-10-21,43,Fruits,Madurai,0.73,881.5,True
+2024-10-21,43,Fruits,Chennai,0.73,1069.8,True
+2024-10-21,43,Fruits,Erode,0.73,697.1,True
+2024-10-21,43,Fruits,Thanjavur,0.73,706.9,True
+2024-10-21,43,Grains & Pulses,Coimbatore,0.73,1684.2,True
+2024-10-21,43,Grains & Pulses,Madurai,0.73,1550.6,True
+2024-10-21,43,Grains & Pulses,Chennai,0.73,2343.6,True
+2024-10-21,43,Grains & Pulses,Erode,0.73,1767.3,True
+2024-10-21,43,Grains & Pulses,Thanjavur,0.73,2008.9,True
+2024-10-21,43,Spices & Herbs,Coimbatore,0.73,425.0,True
+2024-10-21,43,Spices & Herbs,Madurai,0.73,347.6,True
+2024-10-21,43,Spices & Herbs,Chennai,0.73,470.0,True
+2024-10-21,43,Spices & Herbs,Erode,0.73,356.1,True
+2024-10-21,43,Spices & Herbs,Thanjavur,0.73,427.5,True
+2024-10-21,43,Nuts & Oilseeds,Coimbatore,0.73,607.8,True
+2024-10-21,43,Nuts & Oilseeds,Madurai,0.73,467.5,True
+2024-10-21,43,Nuts & Oilseeds,Chennai,0.73,576.4,True
+2024-10-21,43,Nuts & Oilseeds,Erode,0.73,434.7,True
+2024-10-21,43,Nuts & Oilseeds,Thanjavur,0.73,621.6,True
+2024-10-28,44,Vegetables,Coimbatore,0.75,1312.2,True
+2024-10-28,44,Vegetables,Madurai,0.75,1158.2,True
+2024-10-28,44,Vegetables,Chennai,0.75,1355.1,True
+2024-10-28,44,Vegetables,Erode,0.75,1108.3,True
+2024-10-28,44,Vegetables,Thanjavur,0.75,1295.6,True
+2024-10-28,44,Fruits,Coimbatore,0.75,841.4,True
+2024-10-28,44,Fruits,Madurai,0.75,805.2,True
+2024-10-28,44,Fruits,Chennai,0.75,852.7,True
+2024-10-28,44,Fruits,Erode,0.75,638.6,True
+2024-10-28,44,Fruits,Thanjavur,0.75,892.4,True
+2024-10-28,44,Grains & Pulses,Coimbatore,0.75,1915.6,True
+2024-10-28,44,Grains & Pulses,Madurai,0.75,1610.5,True
+2024-10-28,44,Grains & Pulses,Chennai,0.75,2491.6,True
+2024-10-28,44,Grains & Pulses,Erode,0.75,1785.2,True
+2024-10-28,44,Grains & Pulses,Thanjavur,0.75,1627.6,True
+2024-10-28,44,Spices & Herbs,Coimbatore,0.75,380.4,True
+2024-10-28,44,Spices & Herbs,Madurai,0.75,400.6,True
+2024-10-28,44,Spices & Herbs,Chennai,0.75,531.8,True
+2024-10-28,44,Spices & Herbs,Erode,0.75,313.7,True
+2024-10-28,44,Spices & Herbs,Thanjavur,0.75,410.5,True
+2024-10-28,44,Nuts & Oilseeds,Coimbatore,0.75,615.3,True
+2024-10-28,44,Nuts & Oilseeds,Madurai,0.75,614.7,True
+2024-10-28,44,Nuts & Oilseeds,Chennai,0.75,703.7,True
+2024-10-28,44,Nuts & Oilseeds,Erode,0.75,562.5,True
+2024-10-28,44,Nuts & Oilseeds,Thanjavur,0.75,635.2,True
+2024-11-04,45,Vegetables,Coimbatore,0.78,1258.4,True
+2024-11-04,45,Vegetables,Madurai,0.78,1155.6,True
+2024-11-04,45,Vegetables,Chennai,0.78,1426.8,True
+2024-11-04,45,Vegetables,Erode,0.78,951.6,True
+2024-11-04,45,Vegetables,Thanjavur,0.78,1073.2,True
+2024-11-04,45,Fruits,Coimbatore,0.78,788.7,True
+2024-11-04,45,Fruits,Madurai,0.78,789.5,True
+2024-11-04,45,Fruits,Chennai,0.78,938.2,True
+2024-11-04,45,Fruits,Erode,0.78,671.6,True
+2024-11-04,45,Fruits,Thanjavur,0.78,894.1,True
+2024-11-04,45,Grains & Pulses,Coimbatore,0.78,1974.2,True
+2024-11-04,45,Grains & Pulses,Madurai,0.78,1815.0,True
+2024-11-04,45,Grains & Pulses,Chennai,0.78,2515.9,True
+2024-11-04,45,Grains & Pulses,Erode,0.78,1776.9,True
+2024-11-04,45,Grains & Pulses,Thanjavur,0.78,2152.3,True
+2024-11-04,45,Spices & Herbs,Coimbatore,0.78,396.0,True
+2024-11-04,45,Spices & Herbs,Madurai,0.78,329.1,True
+2024-11-04,45,Spices & Herbs,Chennai,0.78,508.4,True
+2024-11-04,45,Spices & Herbs,Erode,0.78,310.5,True
+2024-11-04,45,Spices & Herbs,Thanjavur,0.78,371.5,True
+2024-11-04,45,Nuts & Oilseeds,Coimbatore,0.78,686.7,True
+2024-11-04,45,Nuts & Oilseeds,Madurai,0.78,576.8,True
+2024-11-04,45,Nuts & Oilseeds,Chennai,0.78,697.7,True
+2024-11-04,45,Nuts & Oilseeds,Erode,0.78,553.2,True
+2024-11-04,45,Nuts & Oilseeds,Thanjavur,0.78,558.9,True
+2024-11-11,46,Vegetables,Coimbatore,0.8,1417.6,True
+2024-11-11,46,Vegetables,Madurai,0.8,1237.4,True
+2024-11-11,46,Vegetables,Chennai,0.8,1731.9,True
+2024-11-11,46,Vegetables,Erode,0.8,989.1,True
+2024-11-11,46,Vegetables,Thanjavur,0.8,1302.9,True
+2024-11-11,46,Fruits,Coimbatore,0.8,881.7,True
+2024-11-11,46,Fruits,Madurai,0.8,835.5,True
+2024-11-11,46,Fruits,Chennai,0.8,960.3,True
+2024-11-11,46,Fruits,Erode,0.8,856.5,True
+2024-11-11,46,Fruits,Thanjavur,0.8,917.1,True
+2024-11-11,46,Grains & Pulses,Coimbatore,0.8,2178.4,True
+2024-11-11,46,Grains & Pulses,Madurai,0.8,1690.3,True
+2024-11-11,46,Grains & Pulses,Chennai,0.8,2207.2,True
+2024-11-11,46,Grains & Pulses,Erode,0.8,1949.9,True
+2024-11-11,46,Grains & Pulses,Thanjavur,0.8,2286.8,True
+2024-11-11,46,Spices & Herbs,Coimbatore,0.8,491.3,True
+2024-11-11,46,Spices & Herbs,Madurai,0.8,339.0,True
+2024-11-11,46,Spices & Herbs,Chennai,0.8,479.8,True
+2024-11-11,46,Spices & Herbs,Erode,0.8,365.0,True
+2024-11-11,46,Spices & Herbs,Thanjavur,0.8,423.4,True
+2024-11-11,46,Nuts & Oilseeds,Coimbatore,0.8,600.0,True
+2024-11-11,46,Nuts & Oilseeds,Madurai,0.8,514.3,True
+2024-11-11,46,Nuts & Oilseeds,Chennai,0.8,673.0,True
+2024-11-11,46,Nuts & Oilseeds,Erode,0.8,529.7,True
+2024-11-11,46,Nuts & Oilseeds,Thanjavur,0.8,649.3,True
+2024-11-18,47,Vegetables,Coimbatore,0.83,1386.7,True
+2024-11-18,47,Vegetables,Madurai,0.83,1207.5,True
+2024-11-18,47,Vegetables,Chennai,0.83,1628.8,True
+2024-11-18,47,Vegetables,Erode,0.83,1154.0,True
+2024-11-18,47,Vegetables,Thanjavur,0.83,1495.9,True
+2024-11-18,47,Fruits,Coimbatore,0.83,1060.0,True
+2024-11-18,47,Fruits,Madurai,0.83,921.7,True
+2024-11-18,47,Fruits,Chennai,0.83,1075.5,True
+2024-11-18,47,Fruits,Erode,0.83,696.3,True
+2024-11-18,47,Fruits,Thanjavur,0.83,850.6,True
+2024-11-18,47,Grains & Pulses,Coimbatore,0.83,2500.8,True
+2024-11-18,47,Grains & Pulses,Madurai,0.83,1754.8,True
+2024-11-18,47,Grains & Pulses,Chennai,0.83,2566.3,True
+2024-11-18,47,Grains & Pulses,Erode,0.83,1712.8,True
+2024-11-18,47,Grains & Pulses,Thanjavur,0.83,2136.8,True
+2024-11-18,47,Spices & Herbs,Coimbatore,0.83,448.5,True
+2024-11-18,47,Spices & Herbs,Madurai,0.83,375.9,True
+2024-11-18,47,Spices & Herbs,Chennai,0.83,553.2,True
+2024-11-18,47,Spices & Herbs,Erode,0.83,375.8,True
+2024-11-18,47,Spices & Herbs,Thanjavur,0.83,375.9,True
+2024-11-18,47,Nuts & Oilseeds,Coimbatore,0.83,682.6,True
+2024-11-18,47,Nuts & Oilseeds,Madurai,0.83,557.1,True
+2024-11-18,47,Nuts & Oilseeds,Chennai,0.83,728.5,True
+2024-11-18,47,Nuts & Oilseeds,Erode,0.83,580.7,True
+2024-11-18,47,Nuts & Oilseeds,Thanjavur,0.83,645.3,True
+2024-11-25,48,Vegetables,Coimbatore,0.86,1588.1,True
+2024-11-25,48,Vegetables,Madurai,0.86,1376.7,True
+2024-11-25,48,Vegetables,Chennai,0.86,1477.2,True
+2024-11-25,48,Vegetables,Erode,0.86,1030.8,True
+2024-11-25,48,Vegetables,Thanjavur,0.86,1480.0,True
+2024-11-25,48,Fruits,Coimbatore,0.86,1113.9,True
+2024-11-25,48,Fruits,Madurai,0.86,1002.3,True
+2024-11-25,48,Fruits,Chennai,0.86,1019.8,True
+2024-11-25,48,Fruits,Erode,0.86,885.4,True
+2024-11-25,48,Fruits,Thanjavur,0.86,948.1,True
+2024-11-25,48,Grains & Pulses,Coimbatore,0.86,2574.4,True
+2024-11-25,48,Grains & Pulses,Madurai,0.86,1771.7,True
+2024-11-25,48,Grains & Pulses,Chennai,0.86,2759.3,True
+2024-11-25,48,Grains & Pulses,Erode,0.86,1990.5,True
+2024-11-25,48,Grains & Pulses,Thanjavur,0.86,1923.5,True
+2024-11-25,48,Spices & Herbs,Coimbatore,0.86,467.0,True
+2024-11-25,48,Spices & Herbs,Madurai,0.86,440.8,True
+2024-11-25,48,Spices & Herbs,Chennai,0.86,617.6,True
+2024-11-25,48,Spices & Herbs,Erode,0.86,380.3,True
+2024-11-25,48,Spices & Herbs,Thanjavur,0.86,486.2,True
+2024-11-25,48,Nuts & Oilseeds,Coimbatore,0.86,679.4,True
+2024-11-25,48,Nuts & Oilseeds,Madurai,0.86,554.2,True
+2024-11-25,48,Nuts & Oilseeds,Chennai,0.86,832.3,True
+2024-11-25,48,Nuts & Oilseeds,Erode,0.86,606.2,True
+2024-11-25,48,Nuts & Oilseeds,Thanjavur,0.86,578.0,True
+2024-12-02,49,Vegetables,Coimbatore,0.89,1711.8,True
+2024-12-02,49,Vegetables,Madurai,0.89,1237.6,True
+2024-12-02,49,Vegetables,Chennai,0.89,1530.9,True
+2024-12-02,49,Vegetables,Erode,0.89,1294.9,True
+2024-12-02,49,Vegetables,Thanjavur,0.89,1395.7,True
+2024-12-02,49,Fruits,Coimbatore,0.89,1035.7,True
+2024-12-02,49,Fruits,Madurai,0.89,885.9,True
+2024-12-02,49,Fruits,Chennai,0.89,1200.5,True
+2024-12-02,49,Fruits,Erode,0.89,944.5,True
+2024-12-02,49,Fruits,Thanjavur,0.89,963.6,True
+2024-12-02,49,Grains & Pulses,Coimbatore,0.89,2492.7,True
+2024-12-02,49,Grains & Pulses,Madurai,0.89,2345.0,True
+2024-12-02,49,Grains & Pulses,Chennai,0.89,2894.5,True
+2024-12-02,49,Grains & Pulses,Erode,0.89,2228.7,True
+2024-12-02,49,Grains & Pulses,Thanjavur,0.89,2194.8,True
+2024-12-02,49,Spices & Herbs,Coimbatore,0.89,483.6,True
+2024-12-02,49,Spices & Herbs,Madurai,0.89,479.9,True
+2024-12-02,49,Spices & Herbs,Chennai,0.89,527.6,True
+2024-12-02,49,Spices & Herbs,Erode,0.89,453.0,True
+2024-12-02,49,Spices & Herbs,Thanjavur,0.89,446.1,True
+2024-12-02,49,Nuts & Oilseeds,Coimbatore,0.89,741.5,True
+2024-12-02,49,Nuts & Oilseeds,Madurai,0.89,660.0,True
+2024-12-02,49,Nuts & Oilseeds,Chennai,0.89,714.6,True
+2024-12-02,49,Nuts & Oilseeds,Erode,0.89,617.3,True
+2024-12-02,49,Nuts & Oilseeds,Thanjavur,0.89,747.6,True
+2024-12-09,50,Vegetables,Coimbatore,0.93,1550.8,True
+2024-12-09,50,Vegetables,Madurai,0.93,1393.2,True
+2024-12-09,50,Vegetables,Chennai,0.93,1555.6,True
+2024-12-09,50,Vegetables,Erode,0.93,1303.1,True
+2024-12-09,50,Vegetables,Thanjavur,0.93,1408.1,True
+2024-12-09,50,Fruits,Coimbatore,0.93,1012.2,True
+2024-12-09,50,Fruits,Madurai,0.93,1062.2,True
+2024-12-09,50,Fruits,Chennai,0.93,1284.0,True
+2024-12-09,50,Fruits,Erode,0.93,901.5,True
+2024-12-09,50,Fruits,Thanjavur,0.93,1087.6,True
+2024-12-09,50,Grains & Pulses,Coimbatore,0.93,2522.4,True
+2024-12-09,50,Grains & Pulses,Madurai,0.93,2462.4,True
+2024-12-09,50,Grains & Pulses,Chennai,0.93,2703.0,True
+2024-12-09,50,Grains & Pulses,Erode,0.93,2196.5,True
+2024-12-09,50,Grains & Pulses,Thanjavur,0.93,2263.5,True
+2024-12-09,50,Spices & Herbs,Coimbatore,0.93,545.5,True
+2024-12-09,50,Spices & Herbs,Madurai,0.93,478.4,True
+2024-12-09,50,Spices & Herbs,Chennai,0.93,652.2,True
+2024-12-09,50,Spices & Herbs,Erode,0.93,356.4,True
+2024-12-09,50,Spices & Herbs,Thanjavur,0.93,504.5,True
+2024-12-09,50,Nuts & Oilseeds,Coimbatore,0.93,654.4,True
+2024-12-09,50,Nuts & Oilseeds,Madurai,0.93,713.9,True
+2024-12-09,50,Nuts & Oilseeds,Chennai,0.93,801.0,True
+2024-12-09,50,Nuts & Oilseeds,Erode,0.93,658.7,True
+2024-12-09,50,Nuts & Oilseeds,Thanjavur,0.93,705.5,True
+2024-12-16,51,Vegetables,Coimbatore,0.96,1585.4,True
+2024-12-16,51,Vegetables,Madurai,0.96,1482.7,True
+2024-12-16,51,Vegetables,Chennai,0.96,1763.0,True
+2024-12-16,51,Vegetables,Erode,0.96,1261.5,True
+2024-12-16,51,Vegetables,Thanjavur,0.96,1342.6,True
+2024-12-16,51,Fruits,Coimbatore,0.96,1135.4,True
+2024-12-16,51,Fruits,Madurai,0.96,1100.9,True
+2024-12-16,51,Fruits,Chennai,0.96,1235.9,True
+2024-12-16,51,Fruits,Erode,0.96,824.5,True
+2024-12-16,51,Fruits,Thanjavur,0.96,1115.1,True
+2024-12-16,51,Grains & Pulses,Coimbatore,0.96,2453.4,True
+2024-12-16,51,Grains & Pulses,Madurai,0.96,2485.6,True
+2024-12-16,51,Grains & Pulses,Chennai,0.96,2556.9,True
+2024-12-16,51,Grains & Pulses,Erode,0.96,1884.5,True
+2024-12-16,51,Grains & Pulses,Thanjavur,0.96,2676.0,True
+2024-12-16,51,Spices & Herbs,Coimbatore,0.96,563.6,True
+2024-12-16,51,Spices & Herbs,Madurai,0.96,509.3,True
+2024-12-16,51,Spices & Herbs,Chennai,0.96,693.2,True
+2024-12-16,51,Spices & Herbs,Erode,0.96,453.9,True
+2024-12-16,51,Spices & Herbs,Thanjavur,0.96,486.5,True
+2024-12-16,51,Nuts & Oilseeds,Coimbatore,0.96,817.1,True
+2024-12-16,51,Nuts & Oilseeds,Madurai,0.96,658.8,True
+2024-12-16,51,Nuts & Oilseeds,Chennai,0.96,791.7,True
+2024-12-16,51,Nuts & Oilseeds,Erode,0.96,677.1,True
+2024-12-16,51,Nuts & Oilseeds,Thanjavur,0.96,708.8,True
+2024-12-23,52,Vegetables,Coimbatore,1.0,1926.8,True
+2024-12-23,52,Vegetables,Madurai,1.0,1503.8,True
+2024-12-23,52,Vegetables,Chennai,1.0,1964.6,True
+2024-12-23,52,Vegetables,Erode,1.0,1431.1,True
+2024-12-23,52,Vegetables,Thanjavur,1.0,1604.8,True
+2024-12-23,52,Fruits,Coimbatore,1.0,984.7,True
+2024-12-23,52,Fruits,Madurai,1.0,1042.3,True
+2024-12-23,52,Fruits,Chennai,1.0,1476.8,True
+2024-12-23,52,Fruits,Erode,1.0,873.8,True
+2024-12-23,52,Fruits,Thanjavur,1.0,935.3,True
+2024-12-23,52,Grains & Pulses,Coimbatore,1.0,2543.5,True
+2024-12-23,52,Grains & Pulses,Madurai,1.0,2291.3,True
+2024-12-23,52,Grains & Pulses,Chennai,1.0,3234.4,True
+2024-12-23,52,Grains & Pulses,Erode,1.0,2244.6,True
+2024-12-23,52,Grains & Pulses,Thanjavur,1.0,2305.4,True
+2024-12-23,52,Spices & Herbs,Coimbatore,1.0,528.4,True
+2024-12-23,52,Spices & Herbs,Madurai,1.0,554.3,True
+2024-12-23,52,Spices & Herbs,Chennai,1.0,616.1,True
+2024-12-23,52,Spices & Herbs,Erode,1.0,422.0,True
+2024-12-23,52,Spices & Herbs,Thanjavur,1.0,482.2,True
+2024-12-23,52,Nuts & Oilseeds,Coimbatore,1.0,746.9,True
+2024-12-23,52,Nuts & Oilseeds,Madurai,1.0,717.4,True
+2024-12-23,52,Nuts & Oilseeds,Chennai,1.0,999.7,True
+2024-12-23,52,Nuts & Oilseeds,Erode,1.0,643.5,True
+2024-12-23,52,Nuts & Oilseeds,Thanjavur,1.0,824.3,True
+2024-12-30,1,Vegetables,Coimbatore,1.04,1704.3,True
+2024-12-30,1,Vegetables,Madurai,1.04,1789.6,True
+2024-12-30,1,Vegetables,Chennai,1.04,1929.9,True
+2024-12-30,1,Vegetables,Erode,1.04,1626.5,True
+2024-12-30,1,Vegetables,Thanjavur,1.04,1584.4,True
+2024-12-30,1,Fruits,Coimbatore,1.04,1010.4,True
+2024-12-30,1,Fruits,Madurai,1.04,929.5,True
+2024-12-30,1,Fruits,Chennai,1.04,1201.6,True
+2024-12-30,1,Fruits,Erode,1.04,940.8,True
+2024-12-30,1,Fruits,Thanjavur,1.04,1024.7,True
+2024-12-30,1,Grains & Pulses,Coimbatore,1.04,2533.2,True
+2024-12-30,1,Grains & Pulses,Madurai,1.04,2336.9,True
+2024-12-30,1,Grains & Pulses,Chennai,1.04,3272.1,True
+2024-12-30,1,Grains & Pulses,Erode,1.04,2299.3,True
+2024-12-30,1,Grains & Pulses,Thanjavur,1.04,2293.4,True
+2024-12-30,1,Spices & Herbs,Coimbatore,1.04,578.6,True
+2024-12-30,1,Spices & Herbs,Madurai,1.04,517.1,True
+2024-12-30,1,Spices & Herbs,Chennai,1.04,583.9,True
+2024-12-30,1,Spices & Herbs,Erode,1.04,399.3,True
+2024-12-30,1,Spices & Herbs,Thanjavur,1.04,507.8,True
+2024-12-30,1,Nuts & Oilseeds,Coimbatore,1.04,780.9,True
+2024-12-30,1,Nuts & Oilseeds,Madurai,1.04,701.2,True
+2024-12-30,1,Nuts & Oilseeds,Chennai,1.04,847.9,True
+2024-12-30,1,Nuts & Oilseeds,Erode,1.04,673.0,True
+2024-12-30,1,Nuts & Oilseeds,Thanjavur,1.04,888.7,True
+2025-01-06,2,Vegetables,Coimbatore,1.07,1620.9,True
+2025-01-06,2,Vegetables,Madurai,1.07,1625.1,True
+2025-01-06,2,Vegetables,Chennai,1.07,2221.4,True
+2025-01-06,2,Vegetables,Erode,1.07,1336.2,True
+2025-01-06,2,Vegetables,Thanjavur,1.07,1602.8,True
+2025-01-06,2,Fruits,Coimbatore,1.07,1218.9,True
+2025-01-06,2,Fruits,Madurai,1.07,1042.8,True
+2025-01-06,2,Fruits,Chennai,1.07,1227.0,True
+2025-01-06,2,Fruits,Erode,1.07,971.3,True
+2025-01-06,2,Fruits,Thanjavur,1.07,1328.9,True
+2025-01-06,2,Grains & Pulses,Coimbatore,1.07,2703.9,True
+2025-01-06,2,Grains & Pulses,Madurai,1.07,2686.3,True
+2025-01-06,2,Grains & Pulses,Chennai,1.07,3415.4,True
+2025-01-06,2,Grains & Pulses,Erode,1.07,2372.1,True
+2025-01-06,2,Grains & Pulses,Thanjavur,1.07,2922.4,True
+2025-01-06,2,Spices & Herbs,Coimbatore,1.07,575.4,True
+2025-01-06,2,Spices & Herbs,Madurai,1.07,533.5,True
+2025-01-06,2,Spices & Herbs,Chennai,1.07,699.7,True
+2025-01-06,2,Spices & Herbs,Erode,1.07,495.9,True
+2025-01-06,2,Spices & Herbs,Thanjavur,1.07,602.4,True
+2025-01-06,2,Nuts & Oilseeds,Coimbatore,1.07,857.0,True
+2025-01-06,2,Nuts & Oilseeds,Madurai,1.07,866.1,True
+2025-01-06,2,Nuts & Oilseeds,Chennai,1.07,1051.0,True
+2025-01-06,2,Nuts & Oilseeds,Erode,1.07,703.8,True
+2025-01-06,2,Nuts & Oilseeds,Thanjavur,1.07,889.3,True
+2025-01-13,3,Vegetables,Coimbatore,1.11,1586.9,True
+2025-01-13,3,Vegetables,Madurai,1.11,1880.4,True
+2025-01-13,3,Vegetables,Chennai,1.11,2013.8,True
+2025-01-13,3,Vegetables,Erode,1.11,1463.5,True
+2025-01-13,3,Vegetables,Thanjavur,1.11,1990.7,True
+2025-01-13,3,Fruits,Coimbatore,1.11,1181.4,True
+2025-01-13,3,Fruits,Madurai,1.11,1106.0,True
+2025-01-13,3,Fruits,Chennai,1.11,1363.7,True
+2025-01-13,3,Fruits,Erode,1.11,1024.0,True
+2025-01-13,3,Fruits,Thanjavur,1.11,1189.3,True
+2025-01-13,3,Grains & Pulses,Coimbatore,1.11,3046.7,True
+2025-01-13,3,Grains & Pulses,Madurai,1.11,2532.4,True
+2025-01-13,3,Grains & Pulses,Chennai,1.11,3381.6,True
+2025-01-13,3,Grains & Pulses,Erode,1.11,2325.2,True
+2025-01-13,3,Grains & Pulses,Thanjavur,1.11,2912.1,True
+2025-01-13,3,Spices & Herbs,Coimbatore,1.11,620.9,True
+2025-01-13,3,Spices & Herbs,Madurai,1.11,626.4,True
+2025-01-13,3,Spices & Herbs,Chennai,1.11,710.6,True
+2025-01-13,3,Spices & Herbs,Erode,1.11,454.8,True
+2025-01-13,3,Spices & Herbs,Thanjavur,1.11,505.5,True
+2025-01-13,3,Nuts & Oilseeds,Coimbatore,1.11,811.7,True
+2025-01-13,3,Nuts & Oilseeds,Madurai,1.11,753.7,True
+2025-01-13,3,Nuts & Oilseeds,Chennai,1.11,1108.6,True
+2025-01-13,3,Nuts & Oilseeds,Erode,1.11,688.1,True
+2025-01-13,3,Nuts & Oilseeds,Thanjavur,1.11,733.4,True
+2025-01-20,4,Vegetables,Coimbatore,1.14,1883.5,True
+2025-01-20,4,Vegetables,Madurai,1.14,1966.6,True
+2025-01-20,4,Vegetables,Chennai,1.14,2538.7,True
+2025-01-20,4,Vegetables,Erode,1.14,1444.6,True
+2025-01-20,4,Vegetables,Thanjavur,1.14,1593.0,True
+2025-01-20,4,Fruits,Coimbatore,1.14,1259.3,True
+2025-01-20,4,Fruits,Madurai,1.14,1059.0,True
+2025-01-20,4,Fruits,Chennai,1.14,1367.1,True
+2025-01-20,4,Fruits,Erode,1.14,945.6,True
+2025-01-20,4,Fruits,Thanjavur,1.14,1170.4,True
+2025-01-20,4,Grains & Pulses,Coimbatore,1.14,2712.2,True
+2025-01-20,4,Grains & Pulses,Madurai,1.14,2758.2,True
+2025-01-20,4,Grains & Pulses,Chennai,1.14,3181.6,True
+2025-01-20,4,Grains & Pulses,Erode,1.14,2733.4,True
+2025-01-20,4,Grains & Pulses,Thanjavur,1.14,2823.4,True
+2025-01-20,4,Spices & Herbs,Coimbatore,1.14,607.7,True
+2025-01-20,4,Spices & Herbs,Madurai,1.14,593.5,True
+2025-01-20,4,Spices & Herbs,Chennai,1.14,634.2,True
+2025-01-20,4,Spices & Herbs,Erode,1.14,520.1,True
+2025-01-20,4,Spices & Herbs,Thanjavur,1.14,608.0,True
+2025-01-20,4,Nuts & Oilseeds,Coimbatore,1.14,788.5,True
+2025-01-20,4,Nuts & Oilseeds,Madurai,1.14,716.2,True
+2025-01-20,4,Nuts & Oilseeds,Chennai,1.14,1169.3,True
+2025-01-20,4,Nuts & Oilseeds,Erode,1.14,786.0,True
+2025-01-20,4,Nuts & Oilseeds,Thanjavur,1.14,901.2,True
+2025-01-27,5,Vegetables,Coimbatore,1.17,1774.0,True
+2025-01-27,5,Vegetables,Madurai,1.17,1670.5,True
+2025-01-27,5,Vegetables,Chennai,1.17,2463.1,True
+2025-01-27,5,Vegetables,Erode,1.17,1722.7,True
+2025-01-27,5,Vegetables,Thanjavur,1.17,1976.0,True
+2025-01-27,5,Fruits,Coimbatore,1.17,1409.8,True
+2025-01-27,5,Fruits,Madurai,1.17,1183.3,True
+2025-01-27,5,Fruits,Chennai,1.17,1418.4,True
+2025-01-27,5,Fruits,Erode,1.17,1273.7,True
+2025-01-27,5,Fruits,Thanjavur,1.17,1449.4,True
+2025-01-27,5,Grains & Pulses,Coimbatore,1.17,2928.8,True
+2025-01-27,5,Grains & Pulses,Madurai,1.17,3192.8,True
+2025-01-27,5,Grains & Pulses,Chennai,1.17,3997.9,True
+2025-01-27,5,Grains & Pulses,Erode,1.17,2523.1,True
+2025-01-27,5,Grains & Pulses,Thanjavur,1.17,2779.1,True
+2025-01-27,5,Spices & Herbs,Coimbatore,1.17,581.6,True
+2025-01-27,5,Spices & Herbs,Madurai,1.17,651.1,True
+2025-01-27,5,Spices & Herbs,Chennai,1.17,665.0,True
+2025-01-27,5,Spices & Herbs,Erode,1.17,469.3,True
+2025-01-27,5,Spices & Herbs,Thanjavur,1.17,666.6,True
+2025-01-27,5,Nuts & Oilseeds,Coimbatore,1.17,935.8,True
+2025-01-27,5,Nuts & Oilseeds,Madurai,1.17,939.5,True
+2025-01-27,5,Nuts & Oilseeds,Chennai,1.17,1083.2,True
+2025-01-27,5,Nuts & Oilseeds,Erode,1.17,773.8,True
+2025-01-27,5,Nuts & Oilseeds,Thanjavur,1.17,937.1,True
+2025-02-03,6,Vegetables,Coimbatore,1.2,1736.4,True
+2025-02-03,6,Vegetables,Madurai,1.2,2091.6,True
+2025-02-03,6,Vegetables,Chennai,1.2,2024.5,True
+2025-02-03,6,Vegetables,Erode,1.2,1880.4,True
+2025-02-03,6,Vegetables,Thanjavur,1.2,1895.5,True
+2025-02-03,6,Fruits,Coimbatore,1.2,1362.9,True
+2025-02-03,6,Fruits,Madurai,1.2,1080.4,True
+2025-02-03,6,Fruits,Chennai,1.2,1706.7,True
+2025-02-03,6,Fruits,Erode,1.2,1273.6,True
+2025-02-03,6,Fruits,Thanjavur,1.2,1372.6,True
+2025-02-03,6,Grains & Pulses,Coimbatore,1.2,3316.6,True
+2025-02-03,6,Grains & Pulses,Madurai,1.2,3070.2,True
+2025-02-03,6,Grains & Pulses,Chennai,1.2,3456.4,True
+2025-02-03,6,Grains & Pulses,Erode,1.2,2858.5,True
+2025-02-03,6,Grains & Pulses,Thanjavur,1.2,2902.8,True
+2025-02-03,6,Spices & Herbs,Coimbatore,1.2,715.4,True
+2025-02-03,6,Spices & Herbs,Madurai,1.2,679.8,True
+2025-02-03,6,Spices & Herbs,Chennai,1.2,850.8,True
+2025-02-03,6,Spices & Herbs,Erode,1.2,482.0,True
+2025-02-03,6,Spices & Herbs,Thanjavur,1.2,671.4,True
+2025-02-03,6,Nuts & Oilseeds,Coimbatore,1.2,814.3,True
+2025-02-03,6,Nuts & Oilseeds,Madurai,1.2,801.5,True
+2025-02-03,6,Nuts & Oilseeds,Chennai,1.2,1146.7,True
+2025-02-03,6,Nuts & Oilseeds,Erode,1.2,704.9,True
+2025-02-03,6,Nuts & Oilseeds,Thanjavur,1.2,831.5,True
+2025-02-10,7,Vegetables,Coimbatore,1.22,2065.5,True
+2025-02-10,7,Vegetables,Madurai,1.22,1886.6,True
+2025-02-10,7,Vegetables,Chennai,1.22,2427.3,True
+2025-02-10,7,Vegetables,Erode,1.22,1675.1,True
+2025-02-10,7,Vegetables,Thanjavur,1.22,2023.1,True
+2025-02-10,7,Fruits,Coimbatore,1.22,1232.0,True
+2025-02-10,7,Fruits,Madurai,1.22,1139.8,True
+2025-02-10,7,Fruits,Chennai,1.22,1775.3,True
+2025-02-10,7,Fruits,Erode,1.22,1039.7,True
+2025-02-10,7,Fruits,Thanjavur,1.22,1251.1,True
+2025-02-10,7,Grains & Pulses,Coimbatore,1.22,3686.7,True
+2025-02-10,7,Grains & Pulses,Madurai,1.22,3264.9,True
+2025-02-10,7,Grains & Pulses,Chennai,1.22,3872.0,True
+2025-02-10,7,Grains & Pulses,Erode,1.22,2346.0,True
+2025-02-10,7,Grains & Pulses,Thanjavur,1.22,3250.0,True
+2025-02-10,7,Spices & Herbs,Coimbatore,1.22,718.7,True
+2025-02-10,7,Spices & Herbs,Madurai,1.22,690.9,True
+2025-02-10,7,Spices & Herbs,Chennai,1.22,829.7,True
+2025-02-10,7,Spices & Herbs,Erode,1.22,631.3,True
+2025-02-10,7,Spices & Herbs,Thanjavur,1.22,637.3,True
+2025-02-10,7,Nuts & Oilseeds,Coimbatore,1.22,953.5,True
+2025-02-10,7,Nuts & Oilseeds,Madurai,1.22,960.0,True
+2025-02-10,7,Nuts & Oilseeds,Chennai,1.22,1138.4,True
+2025-02-10,7,Nuts & Oilseeds,Erode,1.22,724.6,True
+2025-02-10,7,Nuts & Oilseeds,Thanjavur,1.22,785.9,True
+2025-02-17,8,Vegetables,Coimbatore,1.25,2044.6,True
+2025-02-17,8,Vegetables,Madurai,1.25,2021.4,True
+2025-02-17,8,Vegetables,Chennai,1.25,2144.4,True
+2025-02-17,8,Vegetables,Erode,1.25,1678.9,True
+2025-02-17,8,Vegetables,Thanjavur,1.25,2024.7,True
+2025-02-17,8,Fruits,Coimbatore,1.25,1566.4,True
+2025-02-17,8,Fruits,Madurai,1.25,1328.7,True
+2025-02-17,8,Fruits,Chennai,1.25,1725.0,True
+2025-02-17,8,Fruits,Erode,1.25,1173.1,True
+2025-02-17,8,Fruits,Thanjavur,1.25,1280.8,True
+2025-02-17,8,Grains & Pulses,Coimbatore,1.25,3461.0,True
+2025-02-17,8,Grains & Pulses,Madurai,1.25,3454.2,True
+2025-02-17,8,Grains & Pulses,Chennai,1.25,4301.0,True
+2025-02-17,8,Grains & Pulses,Erode,1.25,2730.4,True
+2025-02-17,8,Grains & Pulses,Thanjavur,1.25,2805.9,True
+2025-02-17,8,Spices & Herbs,Coimbatore,1.25,638.6,True
+2025-02-17,8,Spices & Herbs,Madurai,1.25,545.6,True
+2025-02-17,8,Spices & Herbs,Chennai,1.25,820.9,True
+2025-02-17,8,Spices & Herbs,Erode,1.25,622.6,True
+2025-02-17,8,Spices & Herbs,Thanjavur,1.25,559.5,True
+2025-02-17,8,Nuts & Oilseeds,Coimbatore,1.25,1116.1,True
+2025-02-17,8,Nuts & Oilseeds,Madurai,1.25,1021.1,True
+2025-02-17,8,Nuts & Oilseeds,Chennai,1.25,1209.4,True
+2025-02-17,8,Nuts & Oilseeds,Erode,1.25,873.2,True
+2025-02-17,8,Nuts & Oilseeds,Thanjavur,1.25,941.4,True
+2025-02-24,9,Vegetables,Coimbatore,1.27,2292.3,True
+2025-02-24,9,Vegetables,Madurai,1.27,2061.0,True
+2025-02-24,9,Vegetables,Chennai,1.27,2792.1,True
+2025-02-24,9,Vegetables,Erode,1.27,1723.2,True
+2025-02-24,9,Vegetables,Thanjavur,1.27,1779.9,True
+2025-02-24,9,Fruits,Coimbatore,1.27,1229.8,True
+2025-02-24,9,Fruits,Madurai,1.27,1387.8,True
+2025-02-24,9,Fruits,Chennai,1.27,1501.3,True
+2025-02-24,9,Fruits,Erode,1.27,1078.0,True
+2025-02-24,9,Fruits,Thanjavur,1.27,1367.0,True
+2025-02-24,9,Grains & Pulses,Coimbatore,1.27,3470.7,True
+2025-02-24,9,Grains & Pulses,Madurai,1.27,3079.4,True
+2025-02-24,9,Grains & Pulses,Chennai,1.27,3818.5,True
+2025-02-24,9,Grains & Pulses,Erode,1.27,2519.1,True
+2025-02-24,9,Grains & Pulses,Thanjavur,1.27,3622.3,True
+2025-02-24,9,Spices & Herbs,Coimbatore,1.27,620.5,True
+2025-02-24,9,Spices & Herbs,Madurai,1.27,673.0,True
+2025-02-24,9,Spices & Herbs,Chennai,1.27,907.1,True
+2025-02-24,9,Spices & Herbs,Erode,1.27,515.9,True
+2025-02-24,9,Spices & Herbs,Thanjavur,1.27,677.0,True
+2025-02-24,9,Nuts & Oilseeds,Coimbatore,1.27,875.7,True
+2025-02-24,9,Nuts & Oilseeds,Madurai,1.27,971.3,True
+2025-02-24,9,Nuts & Oilseeds,Chennai,1.27,1256.4,True
+2025-02-24,9,Nuts & Oilseeds,Erode,1.27,800.7,True
+2025-02-24,9,Nuts & Oilseeds,Thanjavur,1.27,842.2,True
+2025-03-03,10,Vegetables,Coimbatore,1.28,2183.5,True
+2025-03-03,10,Vegetables,Madurai,1.28,2169.0,True
+2025-03-03,10,Vegetables,Chennai,1.28,2145.5,True
+2025-03-03,10,Vegetables,Erode,1.28,1807.0,True
+2025-03-03,10,Vegetables,Thanjavur,1.28,2133.9,True
+2025-03-03,10,Fruits,Coimbatore,1.28,1473.7,True
+2025-03-03,10,Fruits,Madurai,1.28,1411.0,True
+2025-03-03,10,Fruits,Chennai,1.28,1708.3,True
+2025-03-03,10,Fruits,Erode,1.28,1370.5,True
+2025-03-03,10,Fruits,Thanjavur,1.28,1527.6,True
+2025-03-03,10,Grains & Pulses,Coimbatore,1.28,3715.0,True
+2025-03-03,10,Grains & Pulses,Madurai,1.28,3020.4,True
+2025-03-03,10,Grains & Pulses,Chennai,1.28,4062.4,True
+2025-03-03,10,Grains & Pulses,Erode,1.28,2521.3,True
+2025-03-03,10,Grains & Pulses,Thanjavur,1.28,3365.8,True
+2025-03-03,10,Spices & Herbs,Coimbatore,1.28,602.3,True
+2025-03-03,10,Spices & Herbs,Madurai,1.28,539.3,True
+2025-03-03,10,Spices & Herbs,Chennai,1.28,918.6,True
+2025-03-03,10,Spices & Herbs,Erode,1.28,566.1,True
+2025-03-03,10,Spices & Herbs,Thanjavur,1.28,584.7,True
+2025-03-03,10,Nuts & Oilseeds,Coimbatore,1.28,1132.2,True
+2025-03-03,10,Nuts & Oilseeds,Madurai,1.28,1049.3,True
+2025-03-03,10,Nuts & Oilseeds,Chennai,1.28,1072.3,True
+2025-03-03,10,Nuts & Oilseeds,Erode,1.28,723.9,True
+2025-03-03,10,Nuts & Oilseeds,Thanjavur,1.28,1036.5,True
+2025-03-10,11,Vegetables,Coimbatore,1.29,2379.9,True
+2025-03-10,11,Vegetables,Madurai,1.29,1857.1,True
+2025-03-10,11,Vegetables,Chennai,1.29,2370.7,True
+2025-03-10,11,Vegetables,Erode,1.29,1590.8,True
+2025-03-10,11,Vegetables,Thanjavur,1.29,2336.2,True
+2025-03-10,11,Fruits,Coimbatore,1.29,1538.7,True
+2025-03-10,11,Fruits,Madurai,1.29,1343.0,True
+2025-03-10,11,Fruits,Chennai,1.29,1512.4,True
+2025-03-10,11,Fruits,Erode,1.29,1372.7,True
+2025-03-10,11,Fruits,Thanjavur,1.29,1256.2,True
+2025-03-10,11,Grains & Pulses,Coimbatore,1.29,2992.1,True
+2025-03-10,11,Grains & Pulses,Madurai,1.29,2955.7,True
+2025-03-10,11,Grains & Pulses,Chennai,1.29,3811.3,True
+2025-03-10,11,Grains & Pulses,Erode,1.29,2779.7,True
+2025-03-10,11,Grains & Pulses,Thanjavur,1.29,3676.8,True
+2025-03-10,11,Spices & Herbs,Coimbatore,1.29,662.7,True
+2025-03-10,11,Spices & Herbs,Madurai,1.29,643.9,True
+2025-03-10,11,Spices & Herbs,Chennai,1.29,793.1,True
+2025-03-10,11,Spices & Herbs,Erode,1.29,623.6,True
+2025-03-10,11,Spices & Herbs,Thanjavur,1.29,746.0,True
+2025-03-10,11,Nuts & Oilseeds,Coimbatore,1.29,942.3,True
+2025-03-10,11,Nuts & Oilseeds,Madurai,1.29,1014.2,True
+2025-03-10,11,Nuts & Oilseeds,Chennai,1.29,1292.5,True
+2025-03-10,11,Nuts & Oilseeds,Erode,1.29,751.0,True
+2025-03-10,11,Nuts & Oilseeds,Thanjavur,1.29,831.1,True
+2025-03-17,12,Vegetables,Coimbatore,1.3,2287.5,True
+2025-03-17,12,Vegetables,Madurai,1.3,2165.0,True
+2025-03-17,12,Vegetables,Chennai,1.3,2696.5,True
+2025-03-17,12,Vegetables,Erode,1.3,1809.4,True
+2025-03-17,12,Vegetables,Thanjavur,1.3,2310.1,True
+2025-03-17,12,Fruits,Coimbatore,1.3,1650.0,True
+2025-03-17,12,Fruits,Madurai,1.3,1158.4,True
+2025-03-17,12,Fruits,Chennai,1.3,1801.4,True
+2025-03-17,12,Fruits,Erode,1.3,1174.8,True
+2025-03-17,12,Fruits,Thanjavur,1.3,1246.6,True
+2025-03-17,12,Grains & Pulses,Coimbatore,1.3,2957.9,True
+2025-03-17,12,Grains & Pulses,Madurai,1.3,3400.0,True
+2025-03-17,12,Grains & Pulses,Chennai,1.3,3694.9,True
+2025-03-17,12,Grains & Pulses,Erode,1.3,3019.2,True
+2025-03-17,12,Grains & Pulses,Thanjavur,1.3,2943.2,True
+2025-03-17,12,Spices & Herbs,Coimbatore,1.3,772.7,True
+2025-03-17,12,Spices & Herbs,Madurai,1.3,710.7,True
+2025-03-17,12,Spices & Herbs,Chennai,1.3,892.9,True
+2025-03-17,12,Spices & Herbs,Erode,1.3,583.0,True
+2025-03-17,12,Spices & Herbs,Thanjavur,1.3,703.2,True
+2025-03-17,12,Nuts & Oilseeds,Coimbatore,1.3,935.7,True
+2025-03-17,12,Nuts & Oilseeds,Madurai,1.3,904.3,True
+2025-03-17,12,Nuts & Oilseeds,Chennai,1.3,1243.2,True
+2025-03-17,12,Nuts & Oilseeds,Erode,1.3,833.4,True
+2025-03-17,12,Nuts & Oilseeds,Thanjavur,1.3,870.9,True
+2025-03-24,13,Vegetables,Coimbatore,1.3,2401.6,True
+2025-03-24,13,Vegetables,Madurai,1.3,2242.8,True
+2025-03-24,13,Vegetables,Chennai,1.3,2635.7,True
+2025-03-24,13,Vegetables,Erode,1.3,1657.4,True
+2025-03-24,13,Vegetables,Thanjavur,1.3,2148.3,True
+2025-03-24,13,Fruits,Coimbatore,1.3,1288.2,True
+2025-03-24,13,Fruits,Madurai,1.3,1331.1,True
+2025-03-24,13,Fruits,Chennai,1.3,1727.3,True
+2025-03-24,13,Fruits,Erode,1.3,1356.0,True
+2025-03-24,13,Fruits,Thanjavur,1.3,1349.8,True
+2025-03-24,13,Grains & Pulses,Coimbatore,1.3,3251.7,True
+2025-03-24,13,Grains & Pulses,Madurai,1.3,3333.4,True
+2025-03-24,13,Grains & Pulses,Chennai,1.3,4258.6,True
+2025-03-24,13,Grains & Pulses,Erode,1.3,2608.8,True
+2025-03-24,13,Grains & Pulses,Thanjavur,1.3,3533.5,True
+2025-03-24,13,Spices & Herbs,Coimbatore,1.3,680.2,True
+2025-03-24,13,Spices & Herbs,Madurai,1.3,576.8,True
+2025-03-24,13,Spices & Herbs,Chennai,1.3,894.2,True
+2025-03-24,13,Spices & Herbs,Erode,1.3,664.8,True
+2025-03-24,13,Spices & Herbs,Thanjavur,1.3,614.6,True
+2025-03-24,13,Nuts & Oilseeds,Coimbatore,1.3,1015.8,True
+2025-03-24,13,Nuts & Oilseeds,Madurai,1.3,822.2,True
+2025-03-24,13,Nuts & Oilseeds,Chennai,1.3,1319.7,True
+2025-03-24,13,Nuts & Oilseeds,Erode,1.3,960.2,True
+2025-03-24,13,Nuts & Oilseeds,Thanjavur,1.3,829.0,True
+2025-03-31,14,Vegetables,Coimbatore,1.3,2097.3,True
+2025-03-31,14,Vegetables,Madurai,1.3,1980.0,True
+2025-03-31,14,Vegetables,Chennai,1.3,2595.2,True
+2025-03-31,14,Vegetables,Erode,1.3,1842.1,True
+2025-03-31,14,Vegetables,Thanjavur,1.3,2190.8,True
+2025-03-31,14,Fruits,Coimbatore,1.3,1349.1,True
+2025-03-31,14,Fruits,Madurai,1.3,1293.1,True
+2025-03-31,14,Fruits,Chennai,1.3,1650.8,True
+2025-03-31,14,Fruits,Erode,1.3,1357.8,True
+2025-03-31,14,Fruits,Thanjavur,1.3,1523.9,True
+2025-03-31,14,Grains & Pulses,Coimbatore,1.3,2932.5,True
+2025-03-31,14,Grains & Pulses,Madurai,1.3,2702.1,True
+2025-03-31,14,Grains & Pulses,Chennai,1.3,4521.1,True
+2025-03-31,14,Grains & Pulses,Erode,1.3,3266.5,True
+2025-03-31,14,Grains & Pulses,Thanjavur,1.3,3729.2,True
+2025-03-31,14,Spices & Herbs,Coimbatore,1.3,675.7,True
+2025-03-31,14,Spices & Herbs,Madurai,1.3,639.7,True
+2025-03-31,14,Spices & Herbs,Chennai,1.3,804.1,True
+2025-03-31,14,Spices & Herbs,Erode,1.3,577.9,True
+2025-03-31,14,Spices & Herbs,Thanjavur,1.3,660.9,True
+2025-03-31,14,Nuts & Oilseeds,Coimbatore,1.3,987.3,True
+2025-03-31,14,Nuts & Oilseeds,Madurai,1.3,1023.3,True
+2025-03-31,14,Nuts & Oilseeds,Chennai,1.3,1266.7,True
+2025-03-31,14,Nuts & Oilseeds,Erode,1.3,725.4,True
+2025-03-31,14,Nuts & Oilseeds,Thanjavur,1.3,932.1,True
+2025-04-07,15,Vegetables,Coimbatore,1.29,2316.9,True
+2025-04-07,15,Vegetables,Madurai,1.29,2059.1,True
+2025-04-07,15,Vegetables,Chennai,1.29,2538.7,True
+2025-04-07,15,Vegetables,Erode,1.29,1846.1,True
+2025-04-07,15,Vegetables,Thanjavur,1.29,2114.6,True
+2025-04-07,15,Fruits,Coimbatore,1.29,1470.2,True
+2025-04-07,15,Fruits,Madurai,1.29,1168.0,True
+2025-04-07,15,Fruits,Chennai,1.29,1519.8,True
+2025-04-07,15,Fruits,Erode,1.29,1099.6,True
+2025-04-07,15,Fruits,Thanjavur,1.29,1339.3,True
+2025-04-07,15,Grains & Pulses,Coimbatore,1.29,3369.2,True
+2025-04-07,15,Grains & Pulses,Madurai,1.29,2656.4,True
+2025-04-07,15,Grains & Pulses,Chennai,1.29,3988.3,True
+2025-04-07,15,Grains & Pulses,Erode,1.29,3186.9,True
+2025-04-07,15,Grains & Pulses,Thanjavur,1.29,3381.7,True
+2025-04-07,15,Spices & Herbs,Coimbatore,1.29,657.7,True
+2025-04-07,15,Spices & Herbs,Madurai,1.29,573.5,True
+2025-04-07,15,Spices & Herbs,Chennai,1.29,837.7,True
+2025-04-07,15,Spices & Herbs,Erode,1.29,500.9,True
+2025-04-07,15,Spices & Herbs,Thanjavur,1.29,652.3,True
+2025-04-07,15,Nuts & Oilseeds,Coimbatore,1.29,975.3,True
+2025-04-07,15,Nuts & Oilseeds,Madurai,1.29,857.8,True
+2025-04-07,15,Nuts & Oilseeds,Chennai,1.29,1213.9,True
+2025-04-07,15,Nuts & Oilseeds,Erode,1.29,800.4,True
+2025-04-07,15,Nuts & Oilseeds,Thanjavur,1.29,1009.0,True
+2025-04-14,16,Vegetables,Coimbatore,1.28,2115.0,True
+2025-04-14,16,Vegetables,Madurai,1.28,2058.3,True
+2025-04-14,16,Vegetables,Chennai,1.28,2141.8,True
+2025-04-14,16,Vegetables,Erode,1.28,1585.3,True
+2025-04-14,16,Vegetables,Thanjavur,1.28,2282.6,True
+2025-04-14,16,Fruits,Coimbatore,1.28,1608.8,True
+2025-04-14,16,Fruits,Madurai,1.28,1202.0,True
+2025-04-14,16,Fruits,Chennai,1.28,1519.4,True
+2025-04-14,16,Fruits,Erode,1.28,1303.3,True
+2025-04-14,16,Fruits,Thanjavur,1.28,1527.1,True
+2025-04-14,16,Grains & Pulses,Coimbatore,1.28,3743.7,True
+2025-04-14,16,Grains & Pulses,Madurai,1.28,2739.5,True
+2025-04-14,16,Grains & Pulses,Chennai,1.28,3484.4,True
+2025-04-14,16,Grains & Pulses,Erode,1.28,3025.2,True
+2025-04-14,16,Grains & Pulses,Thanjavur,1.28,3687.1,True
+2025-04-14,16,Spices & Herbs,Coimbatore,1.28,758.5,True
+2025-04-14,16,Spices & Herbs,Madurai,1.28,539.3,True
+2025-04-14,16,Spices & Herbs,Chennai,1.28,847.9,True
+2025-04-14,16,Spices & Herbs,Erode,1.28,538.5,True
+2025-04-14,16,Spices & Herbs,Thanjavur,1.28,573.7,True
+2025-04-14,16,Nuts & Oilseeds,Coimbatore,1.28,984.4,True
+2025-04-14,16,Nuts & Oilseeds,Madurai,1.28,781.6,True
+2025-04-14,16,Nuts & Oilseeds,Chennai,1.28,1078.3,True
+2025-04-14,16,Nuts & Oilseeds,Erode,1.28,934.5,True
+2025-04-14,16,Nuts & Oilseeds,Thanjavur,1.28,1030.2,True
+2025-04-21,17,Vegetables,Coimbatore,1.27,2076.6,True
+2025-04-21,17,Vegetables,Madurai,1.27,1699.6,True
+2025-04-21,17,Vegetables,Chennai,1.27,2592.2,True
+2025-04-21,17,Vegetables,Erode,1.27,1849.7,True
+2025-04-21,17,Vegetables,Thanjavur,1.27,1945.1,True
+2025-04-21,17,Fruits,Coimbatore,1.27,1636.1,True
+2025-04-21,17,Fruits,Madurai,1.27,1335.1,True
+2025-04-21,17,Fruits,Chennai,1.27,1611.8,True
+2025-04-21,17,Fruits,Erode,1.27,1168.2,True
+2025-04-21,17,Fruits,Thanjavur,1.27,1226.9,True
+2025-04-21,17,Grains & Pulses,Coimbatore,1.27,2969.7,True
+2025-04-21,17,Grains & Pulses,Madurai,1.27,2751.3,True
+2025-04-21,17,Grains & Pulses,Chennai,1.27,3700.1,True
+2025-04-21,17,Grains & Pulses,Erode,1.27,2987.9,True
+2025-04-21,17,Grains & Pulses,Thanjavur,1.27,3315.9,True
+2025-04-21,17,Spices & Herbs,Coimbatore,1.27,763.9,True
+2025-04-21,17,Spices & Herbs,Madurai,1.27,650.8,True
+2025-04-21,17,Spices & Herbs,Chennai,1.27,711.5,True
+2025-04-21,17,Spices & Herbs,Erode,1.27,652.1,True
+2025-04-21,17,Spices & Herbs,Thanjavur,1.27,562.0,True
+2025-04-21,17,Nuts & Oilseeds,Coimbatore,1.27,1057.1,True
+2025-04-21,17,Nuts & Oilseeds,Madurai,1.27,1016.5,True
+2025-04-21,17,Nuts & Oilseeds,Chennai,1.27,1024.7,True
+2025-04-21,17,Nuts & Oilseeds,Erode,1.27,857.3,True
+2025-04-21,17,Nuts & Oilseeds,Thanjavur,1.27,903.4,True
+2025-04-28,18,Vegetables,Coimbatore,1.25,2032.6,True
+2025-04-28,18,Vegetables,Madurai,1.25,2025.5,True
+2025-04-28,18,Vegetables,Chennai,1.25,2136.9,True
+2025-04-28,18,Vegetables,Erode,1.25,1772.5,True
+2025-04-28,18,Vegetables,Thanjavur,1.25,2119.1,True
+2025-04-28,18,Fruits,Coimbatore,1.25,1218.7,True
+2025-04-28,18,Fruits,Madurai,1.25,1281.9,True
+2025-04-28,18,Fruits,Chennai,1.25,1562.8,True
+2025-04-28,18,Fruits,Erode,1.25,1316.7,True
+2025-04-28,18,Fruits,Thanjavur,1.25,1278.2,True
+2025-04-28,18,Grains & Pulses,Coimbatore,1.25,3530.1,True
+2025-04-28,18,Grains & Pulses,Madurai,1.25,3216.9,True
+2025-04-28,18,Grains & Pulses,Chennai,1.25,3309.2,True
+2025-04-28,18,Grains & Pulses,Erode,1.25,2850.4,True
+2025-04-28,18,Grains & Pulses,Thanjavur,1.25,3147.0,True
+2025-04-28,18,Spices & Herbs,Coimbatore,1.25,697.1,True
+2025-04-28,18,Spices & Herbs,Madurai,1.25,683.5,True
+2025-04-28,18,Spices & Herbs,Chennai,1.25,844.6,True
+2025-04-28,18,Spices & Herbs,Erode,1.25,639.4,True
+2025-04-28,18,Spices & Herbs,Thanjavur,1.25,616.0,True
+2025-04-28,18,Nuts & Oilseeds,Coimbatore,1.25,976.4,True
+2025-04-28,18,Nuts & Oilseeds,Madurai,1.25,1021.7,True
+2025-04-28,18,Nuts & Oilseeds,Chennai,1.25,1127.2,True
+2025-04-28,18,Nuts & Oilseeds,Erode,1.25,810.2,True
+2025-04-28,18,Nuts & Oilseeds,Thanjavur,1.25,837.4,True
+2025-05-05,19,Vegetables,Coimbatore,1.22,2030.3,True
+2025-05-05,19,Vegetables,Madurai,1.22,2148.5,True
+2025-05-05,19,Vegetables,Chennai,1.22,2110.5,True
+2025-05-05,19,Vegetables,Erode,1.22,1745.8,True
+2025-05-05,19,Vegetables,Thanjavur,1.22,1795.3,True
+2025-05-05,19,Fruits,Coimbatore,1.22,1516.7,True
+2025-05-05,19,Fruits,Madurai,1.22,1114.5,True
+2025-05-05,19,Fruits,Chennai,1.22,1628.5,True
+2025-05-05,19,Fruits,Erode,1.22,1184.6,True
+2025-05-05,19,Fruits,Thanjavur,1.22,1456.7,True
+2025-05-05,19,Grains & Pulses,Coimbatore,1.22,2957.3,True
+2025-05-05,19,Grains & Pulses,Madurai,1.22,2891.1,True
+2025-05-05,19,Grains & Pulses,Chennai,1.22,4228.0,True
+2025-05-05,19,Grains & Pulses,Erode,1.22,2791.0,True
+2025-05-05,19,Grains & Pulses,Thanjavur,1.22,3184.2,True
+2025-05-05,19,Spices & Herbs,Coimbatore,1.22,581.0,True
+2025-05-05,19,Spices & Herbs,Madurai,1.22,687.6,True
+2025-05-05,19,Spices & Herbs,Chennai,1.22,851.0,True
+2025-05-05,19,Spices & Herbs,Erode,1.22,551.5,True
+2025-05-05,19,Spices & Herbs,Thanjavur,1.22,588.3,True
+2025-05-05,19,Nuts & Oilseeds,Coimbatore,1.22,924.7,True
+2025-05-05,19,Nuts & Oilseeds,Madurai,1.22,800.9,True
+2025-05-05,19,Nuts & Oilseeds,Chennai,1.22,1118.2,True
+2025-05-05,19,Nuts & Oilseeds,Erode,1.22,783.7,True
+2025-05-05,19,Nuts & Oilseeds,Thanjavur,1.22,982.4,True
+2025-05-12,20,Vegetables,Coimbatore,1.2,1944.1,True
+2025-05-12,20,Vegetables,Madurai,1.2,1922.6,True
+2025-05-12,20,Vegetables,Chennai,1.2,2409.7,True
+2025-05-12,20,Vegetables,Erode,1.2,1482.0,True
+2025-05-12,20,Vegetables,Thanjavur,1.2,2213.7,True
+2025-05-12,20,Fruits,Coimbatore,1.2,1467.3,True
+2025-05-12,20,Fruits,Madurai,1.2,1071.6,True
+2025-05-12,20,Fruits,Chennai,1.2,1514.8,True
+2025-05-12,20,Fruits,Erode,1.2,977.9,True
+2025-05-12,20,Fruits,Thanjavur,1.2,1264.9,True
+2025-05-12,20,Grains & Pulses,Coimbatore,1.2,3362.0,True
+2025-05-12,20,Grains & Pulses,Madurai,1.2,2723.3,True
+2025-05-12,20,Grains & Pulses,Chennai,1.2,3742.9,True
+2025-05-12,20,Grains & Pulses,Erode,1.2,2513.3,True
+2025-05-12,20,Grains & Pulses,Thanjavur,1.2,2737.2,True
+2025-05-12,20,Spices & Herbs,Coimbatore,1.2,652.2,True
+2025-05-12,20,Spices & Herbs,Madurai,1.2,547.1,True
+2025-05-12,20,Spices & Herbs,Chennai,1.2,763.4,True
+2025-05-12,20,Spices & Herbs,Erode,1.2,464.5,True
+2025-05-12,20,Spices & Herbs,Thanjavur,1.2,708.6,True
+2025-05-12,20,Nuts & Oilseeds,Coimbatore,1.2,888.5,True
+2025-05-12,20,Nuts & Oilseeds,Madurai,1.2,909.4,True
+2025-05-12,20,Nuts & Oilseeds,Chennai,1.2,1227.6,True
+2025-05-12,20,Nuts & Oilseeds,Erode,1.2,675.8,True
+2025-05-12,20,Nuts & Oilseeds,Thanjavur,1.2,911.8,True
+2025-05-19,21,Vegetables,Coimbatore,1.17,2226.9,True
+2025-05-19,21,Vegetables,Madurai,1.17,1744.7,True
+2025-05-19,21,Vegetables,Chennai,1.17,2156.2,True
+2025-05-19,21,Vegetables,Erode,1.17,1847.3,True
+2025-05-19,21,Vegetables,Thanjavur,1.17,1809.1,True
+2025-05-19,21,Fruits,Coimbatore,1.17,1246.7,True
+2025-05-19,21,Fruits,Madurai,1.17,1228.4,True
+2025-05-19,21,Fruits,Chennai,1.17,1425.1,True
+2025-05-19,21,Fruits,Erode,1.17,1264.1,True
+2025-05-19,21,Fruits,Thanjavur,1.17,1366.5,True
+2025-05-19,21,Grains & Pulses,Coimbatore,1.17,2697.9,True
+2025-05-19,21,Grains & Pulses,Madurai,1.17,3184.6,True
+2025-05-19,21,Grains & Pulses,Chennai,1.17,3332.2,True
+2025-05-19,21,Grains & Pulses,Erode,1.17,2515.3,True
+2025-05-19,21,Grains & Pulses,Thanjavur,1.17,2538.3,True
+2025-05-19,21,Spices & Herbs,Coimbatore,1.17,703.7,True
+2025-05-19,21,Spices & Herbs,Madurai,1.17,534.1,True
+2025-05-19,21,Spices & Herbs,Chennai,1.17,641.2,True
+2025-05-19,21,Spices & Herbs,Erode,1.17,558.7,True
+2025-05-19,21,Spices & Herbs,Thanjavur,1.17,519.9,True
+2025-05-19,21,Nuts & Oilseeds,Coimbatore,1.17,924.3,True
+2025-05-19,21,Nuts & Oilseeds,Madurai,1.17,880.1,True
+2025-05-19,21,Nuts & Oilseeds,Chennai,1.17,1100.4,True
+2025-05-19,21,Nuts & Oilseeds,Erode,1.17,830.2,True
+2025-05-19,21,Nuts & Oilseeds,Thanjavur,1.17,839.8,True
+2025-05-26,22,Vegetables,Coimbatore,1.14,1656.5,True
+2025-05-26,22,Vegetables,Madurai,1.14,1653.2,True
+2025-05-26,22,Vegetables,Chennai,1.14,2094.3,True
+2025-05-26,22,Vegetables,Erode,1.14,1715.8,True
+2025-05-26,22,Vegetables,Thanjavur,1.14,2000.3,True
+2025-05-26,22,Fruits,Coimbatore,1.14,1281.1,True
+2025-05-26,22,Fruits,Madurai,1.14,1183.8,True
+2025-05-26,22,Fruits,Chennai,1.14,1530.4,True
+2025-05-26,22,Fruits,Erode,1.14,972.2,True
+2025-05-26,22,Fruits,Thanjavur,1.14,1250.3,True
+2025-05-26,22,Grains & Pulses,Coimbatore,1.14,2645.8,True
+2025-05-26,22,Grains & Pulses,Madurai,1.14,2884.5,True
+2025-05-26,22,Grains & Pulses,Chennai,1.14,3950.5,True
+2025-05-26,22,Grains & Pulses,Erode,1.14,2814.5,True
+2025-05-26,22,Grains & Pulses,Thanjavur,1.14,3304.4,True
+2025-05-26,22,Spices & Herbs,Coimbatore,1.14,620.6,True
+2025-05-26,22,Spices & Herbs,Madurai,1.14,614.2,True
+2025-05-26,22,Spices & Herbs,Chennai,1.14,812.3,True
+2025-05-26,22,Spices & Herbs,Erode,1.14,558.0,True
+2025-05-26,22,Spices & Herbs,Thanjavur,1.14,656.6,True
+2025-05-26,22,Nuts & Oilseeds,Coimbatore,1.14,998.5,True
+2025-05-26,22,Nuts & Oilseeds,Madurai,1.14,895.2,True
+2025-05-26,22,Nuts & Oilseeds,Chennai,1.14,939.1,True
+2025-05-26,22,Nuts & Oilseeds,Erode,1.14,840.2,True
+2025-05-26,22,Nuts & Oilseeds,Thanjavur,1.14,802.8,True
+2025-06-02,23,Vegetables,Coimbatore,1.11,1785.8,True
+2025-06-02,23,Vegetables,Madurai,1.11,1561.5,True
+2025-06-02,23,Vegetables,Chennai,1.11,2417.2,True
+2025-06-02,23,Vegetables,Erode,1.11,1625.0,True
+2025-06-02,23,Vegetables,Thanjavur,1.11,1722.3,True
+2025-06-02,23,Fruits,Coimbatore,1.11,1427.7,True
+2025-06-02,23,Fruits,Madurai,1.11,1289.9,True
+2025-06-02,23,Fruits,Chennai,1.11,1408.2,True
+2025-06-02,23,Fruits,Erode,1.11,929.8,True
+2025-06-02,23,Fruits,Thanjavur,1.11,1360.2,True
+2025-06-02,23,Grains & Pulses,Coimbatore,1.11,3342.3,True
+2025-06-02,23,Grains & Pulses,Madurai,1.11,3036.2,True
+2025-06-02,23,Grains & Pulses,Chennai,1.11,3751.9,True
+2025-06-02,23,Grains & Pulses,Erode,1.11,2152.3,True
+2025-06-02,23,Grains & Pulses,Thanjavur,1.11,3195.8,True
+2025-06-02,23,Spices & Herbs,Coimbatore,1.11,571.8,True
+2025-06-02,23,Spices & Herbs,Madurai,1.11,532.2,True
+2025-06-02,23,Spices & Herbs,Chennai,1.11,736.6,True
+2025-06-02,23,Spices & Herbs,Erode,1.11,466.7,True
+2025-06-02,23,Spices & Herbs,Thanjavur,1.11,652.5,True
+2025-06-02,23,Nuts & Oilseeds,Coimbatore,1.11,848.3,True
+2025-06-02,23,Nuts & Oilseeds,Madurai,1.11,761.7,True
+2025-06-02,23,Nuts & Oilseeds,Chennai,1.11,945.4,True
+2025-06-02,23,Nuts & Oilseeds,Erode,1.11,611.8,True
+2025-06-02,23,Nuts & Oilseeds,Thanjavur,1.11,873.3,True
+2025-06-09,24,Vegetables,Coimbatore,1.07,1939.3,True
+2025-06-09,24,Vegetables,Madurai,1.07,1732.1,True
+2025-06-09,24,Vegetables,Chennai,1.07,1871.4,True
+2025-06-09,24,Vegetables,Erode,1.07,1426.4,True
+2025-06-09,24,Vegetables,Thanjavur,1.07,1584.1,True
+2025-06-09,24,Fruits,Coimbatore,1.07,1225.8,True
+2025-06-09,24,Fruits,Madurai,1.07,1082.1,True
+2025-06-09,24,Fruits,Chennai,1.07,1510.9,True
+2025-06-09,24,Fruits,Erode,1.07,1101.6,True
+2025-06-09,24,Fruits,Thanjavur,1.07,1098.4,True
+2025-06-09,24,Grains & Pulses,Coimbatore,1.07,2881.2,True
+2025-06-09,24,Grains & Pulses,Madurai,1.07,2352.9,True
+2025-06-09,24,Grains & Pulses,Chennai,1.07,3734.2,True
+2025-06-09,24,Grains & Pulses,Erode,1.07,2453.8,True
+2025-06-09,24,Grains & Pulses,Thanjavur,1.07,2502.5,True
+2025-06-09,24,Spices & Herbs,Coimbatore,1.07,554.5,True
+2025-06-09,24,Spices & Herbs,Madurai,1.07,551.4,True
+2025-06-09,24,Spices & Herbs,Chennai,1.07,609.6,True
+2025-06-09,24,Spices & Herbs,Erode,1.07,533.6,True
+2025-06-09,24,Spices & Herbs,Thanjavur,1.07,546.5,True
+2025-06-09,24,Nuts & Oilseeds,Coimbatore,1.07,770.0,True
+2025-06-09,24,Nuts & Oilseeds,Madurai,1.07,760.4,True
+2025-06-09,24,Nuts & Oilseeds,Chennai,1.07,1058.6,True
+2025-06-09,24,Nuts & Oilseeds,Erode,1.07,791.0,True
+2025-06-09,24,Nuts & Oilseeds,Thanjavur,1.07,880.8,True
+2025-06-16,25,Vegetables,Coimbatore,1.04,1734.8,True
+2025-06-16,25,Vegetables,Madurai,1.04,1428.6,True
+2025-06-16,25,Vegetables,Chennai,1.04,2043.8,True
+2025-06-16,25,Vegetables,Erode,1.04,1663.3,True
+2025-06-16,25,Vegetables,Thanjavur,1.04,1658.7,True
+2025-06-16,25,Fruits,Coimbatore,1.04,1104.1,True
+2025-06-16,25,Fruits,Madurai,1.04,938.3,True
+2025-06-16,25,Fruits,Chennai,1.04,1251.4,True
+2025-06-16,25,Fruits,Erode,1.04,1054.8,True
+2025-06-16,25,Fruits,Thanjavur,1.04,1104.2,True
+2025-06-16,25,Grains & Pulses,Coimbatore,1.04,2888.8,True
+2025-06-16,25,Grains & Pulses,Madurai,1.04,2659.4,True
+2025-06-16,25,Grains & Pulses,Chennai,1.04,3363.2,True
+2025-06-16,25,Grains & Pulses,Erode,1.04,2549.8,True
+2025-06-16,25,Grains & Pulses,Thanjavur,1.04,2962.5,True
+2025-06-16,25,Spices & Herbs,Coimbatore,1.04,557.1,True
+2025-06-16,25,Spices & Herbs,Madurai,1.04,484.6,True
+2025-06-16,25,Spices & Herbs,Chennai,1.04,690.0,True
+2025-06-16,25,Spices & Herbs,Erode,1.04,470.3,True
+2025-06-16,25,Spices & Herbs,Thanjavur,1.04,459.6,True
+2025-06-16,25,Nuts & Oilseeds,Coimbatore,1.04,802.9,True
+2025-06-16,25,Nuts & Oilseeds,Madurai,1.04,709.2,True
+2025-06-16,25,Nuts & Oilseeds,Chennai,1.04,1062.9,True
+2025-06-16,25,Nuts & Oilseeds,Erode,1.04,722.8,True
+2025-06-16,25,Nuts & Oilseeds,Thanjavur,1.04,732.1,True
+2025-06-23,26,Vegetables,Coimbatore,1.0,1798.5,True
+2025-06-23,26,Vegetables,Madurai,1.0,1495.9,True
+2025-06-23,26,Vegetables,Chennai,1.0,1846.2,True
+2025-06-23,26,Vegetables,Erode,1.0,1487.8,True
+2025-06-23,26,Vegetables,Thanjavur,1.0,1432.7,True
+2025-06-23,26,Fruits,Coimbatore,1.0,1030.8,True
+2025-06-23,26,Fruits,Madurai,1.0,1156.4,True
+2025-06-23,26,Fruits,Chennai,1.0,1440.9,True
+2025-06-23,26,Fruits,Erode,1.0,892.7,True
+2025-06-23,26,Fruits,Thanjavur,1.0,1135.9,True
+2025-06-23,26,Grains & Pulses,Coimbatore,1.0,2276.9,True
+2025-06-23,26,Grains & Pulses,Madurai,1.0,2516.5,True
+2025-06-23,26,Grains & Pulses,Chennai,1.0,3009.8,True
+2025-06-23,26,Grains & Pulses,Erode,1.0,1931.6,True
+2025-06-23,26,Grains & Pulses,Thanjavur,1.0,2834.4,True
+2025-06-23,26,Spices & Herbs,Coimbatore,1.0,546.3,True
+2025-06-23,26,Spices & Herbs,Madurai,1.0,490.1,True
+2025-06-23,26,Spices & Herbs,Chennai,1.0,624.2,True
+2025-06-23,26,Spices & Herbs,Erode,1.0,464.5,True
+2025-06-23,26,Spices & Herbs,Thanjavur,1.0,452.1,True
+2025-06-23,26,Nuts & Oilseeds,Coimbatore,1.0,857.9,True
+2025-06-23,26,Nuts & Oilseeds,Madurai,1.0,804.9,True
+2025-06-23,26,Nuts & Oilseeds,Chennai,1.0,1030.0,True
+2025-06-23,26,Nuts & Oilseeds,Erode,1.0,738.7,True
+2025-06-23,26,Nuts & Oilseeds,Thanjavur,1.0,710.4,True
+2025-06-30,27,Vegetables,Coimbatore,0.96,1388.4,True
+2025-06-30,27,Vegetables,Madurai,0.96,1686.3,True
+2025-06-30,27,Vegetables,Chennai,0.96,1633.1,True
+2025-06-30,27,Vegetables,Erode,0.96,1372.3,True
+2025-06-30,27,Vegetables,Thanjavur,0.96,1500.5,True
+2025-06-30,27,Fruits,Coimbatore,0.96,946.6,True
+2025-06-30,27,Fruits,Madurai,0.96,1052.9,True
+2025-06-30,27,Fruits,Chennai,0.96,1435.7,True
+2025-06-30,27,Fruits,Erode,0.96,787.2,True
+2025-06-30,27,Fruits,Thanjavur,0.96,1053.0,True
+2025-06-30,27,Grains & Pulses,Coimbatore,0.96,2524.9,True
+2025-06-30,27,Grains & Pulses,Madurai,0.96,2491.3,True
+2025-06-30,27,Grains & Pulses,Chennai,0.96,3044.6,True
+2025-06-30,27,Grains & Pulses,Erode,0.96,2128.3,True
+2025-06-30,27,Grains & Pulses,Thanjavur,0.96,2660.9,True
+2025-06-30,27,Spices & Herbs,Coimbatore,0.96,487.0,True
+2025-06-30,27,Spices & Herbs,Madurai,0.96,442.7,True
+2025-06-30,27,Spices & Herbs,Chennai,0.96,689.6,True
+2025-06-30,27,Spices & Herbs,Erode,0.96,378.1,True
+2025-06-30,27,Spices & Herbs,Thanjavur,0.96,449.8,True
+2025-06-30,27,Nuts & Oilseeds,Coimbatore,0.96,664.9,True
+2025-06-30,27,Nuts & Oilseeds,Madurai,0.96,714.9,True
+2025-06-30,27,Nuts & Oilseeds,Chennai,0.96,908.6,True
+2025-06-30,27,Nuts & Oilseeds,Erode,0.96,686.1,True
+2025-06-30,27,Nuts & Oilseeds,Thanjavur,0.96,644.6,True
+2025-07-07,28,Vegetables,Coimbatore,0.93,1407.3,True
+2025-07-07,28,Vegetables,Madurai,0.93,1221.3,True
+2025-07-07,28,Vegetables,Chennai,0.93,1992.3,True
+2025-07-07,28,Vegetables,Erode,0.93,1460.0,True
+2025-07-07,28,Vegetables,Thanjavur,0.93,1460.2,True
+2025-07-07,28,Fruits,Coimbatore,0.93,948.6,True
+2025-07-07,28,Fruits,Madurai,0.93,1026.5,True
+2025-07-07,28,Fruits,Chennai,0.93,1198.4,True
+2025-07-07,28,Fruits,Erode,0.93,867.6,True
+2025-07-07,28,Fruits,Thanjavur,0.93,1156.7,True
+2025-07-07,28,Grains & Pulses,Coimbatore,0.93,2305.2,True
+2025-07-07,28,Grains & Pulses,Madurai,0.93,2426.5,True
+2025-07-07,28,Grains & Pulses,Chennai,0.93,2783.6,True
+2025-07-07,28,Grains & Pulses,Erode,0.93,2313.8,True
+2025-07-07,28,Grains & Pulses,Thanjavur,0.93,2163.2,True
+2025-07-07,28,Spices & Herbs,Coimbatore,0.93,559.2,True
+2025-07-07,28,Spices & Herbs,Madurai,0.93,435.7,True
+2025-07-07,28,Spices & Herbs,Chennai,0.93,522.6,True
+2025-07-07,28,Spices & Herbs,Erode,0.93,414.4,True
+2025-07-07,28,Spices & Herbs,Thanjavur,0.93,498.2,True
+2025-07-07,28,Nuts & Oilseeds,Coimbatore,0.93,716.5,True
+2025-07-07,28,Nuts & Oilseeds,Madurai,0.93,695.2,True
+2025-07-07,28,Nuts & Oilseeds,Chennai,0.93,832.7,True
+2025-07-07,28,Nuts & Oilseeds,Erode,0.93,608.0,True
+2025-07-07,28,Nuts & Oilseeds,Thanjavur,0.93,664.1,True
+2025-07-14,29,Vegetables,Coimbatore,0.89,1460.7,True
+2025-07-14,29,Vegetables,Madurai,0.89,1193.5,True
+2025-07-14,29,Vegetables,Chennai,0.89,1872.0,True
+2025-07-14,29,Vegetables,Erode,0.89,1120.8,True
+2025-07-14,29,Vegetables,Thanjavur,0.89,1315.7,True
+2025-07-14,29,Fruits,Coimbatore,0.89,970.9,True
+2025-07-14,29,Fruits,Madurai,0.89,968.2,True
+2025-07-14,29,Fruits,Chennai,0.89,1228.3,True
+2025-07-14,29,Fruits,Erode,0.89,844.9,True
+2025-07-14,29,Fruits,Thanjavur,0.89,916.2,True
+2025-07-14,29,Grains & Pulses,Coimbatore,0.89,2319.5,True
+2025-07-14,29,Grains & Pulses,Madurai,0.89,2194.6,True
+2025-07-14,29,Grains & Pulses,Chennai,0.89,2606.0,True
+2025-07-14,29,Grains & Pulses,Erode,0.89,2148.7,True
+2025-07-14,29,Grains & Pulses,Thanjavur,0.89,2375.6,True
+2025-07-14,29,Spices & Herbs,Coimbatore,0.89,494.9,True
+2025-07-14,29,Spices & Herbs,Madurai,0.89,394.8,True
+2025-07-14,29,Spices & Herbs,Chennai,0.89,517.8,True
+2025-07-14,29,Spices & Herbs,Erode,0.89,440.7,True
+2025-07-14,29,Spices & Herbs,Thanjavur,0.89,478.5,True
+2025-07-14,29,Nuts & Oilseeds,Coimbatore,0.89,738.8,True
+2025-07-14,29,Nuts & Oilseeds,Madurai,0.89,649.9,True
+2025-07-14,29,Nuts & Oilseeds,Chennai,0.89,779.1,True
+2025-07-14,29,Nuts & Oilseeds,Erode,0.89,553.4,True
+2025-07-14,29,Nuts & Oilseeds,Thanjavur,0.89,594.5,True
+2025-07-21,30,Vegetables,Coimbatore,0.86,1285.1,True
+2025-07-21,30,Vegetables,Madurai,0.86,1449.5,True
+2025-07-21,30,Vegetables,Chennai,0.86,1848.4,True
+2025-07-21,30,Vegetables,Erode,0.86,1137.9,True
+2025-07-21,30,Vegetables,Thanjavur,0.86,1472.2,True
+2025-07-21,30,Fruits,Coimbatore,0.86,981.1,True
+2025-07-21,30,Fruits,Madurai,0.86,1026.4,True
+2025-07-21,30,Fruits,Chennai,0.86,1091.8,True
+2025-07-21,30,Fruits,Erode,0.86,766.0,True
+2025-07-21,30,Fruits,Thanjavur,0.86,915.9,True
+2025-07-21,30,Grains & Pulses,Coimbatore,0.86,2353.9,True
+2025-07-21,30,Grains & Pulses,Madurai,0.86,2239.1,True
+2025-07-21,30,Grains & Pulses,Chennai,0.86,2654.8,True
+2025-07-21,30,Grains & Pulses,Erode,0.86,1865.5,True
+2025-07-21,30,Grains & Pulses,Thanjavur,0.86,2372.9,True
+2025-07-21,30,Spices & Herbs,Coimbatore,0.86,463.1,True
+2025-07-21,30,Spices & Herbs,Madurai,0.86,453.8,True
+2025-07-21,30,Spices & Herbs,Chennai,0.86,574.8,True
+2025-07-21,30,Spices & Herbs,Erode,0.86,402.3,True
+2025-07-21,30,Spices & Herbs,Thanjavur,0.86,467.1,True
+2025-07-21,30,Nuts & Oilseeds,Coimbatore,0.86,584.5,True
+2025-07-21,30,Nuts & Oilseeds,Madurai,0.86,578.5,True
+2025-07-21,30,Nuts & Oilseeds,Chennai,0.86,701.5,True
+2025-07-21,30,Nuts & Oilseeds,Erode,0.86,523.6,True
+2025-07-21,30,Nuts & Oilseeds,Thanjavur,0.86,666.6,True
+2025-07-28,31,Vegetables,Coimbatore,0.83,1270.6,True
+2025-07-28,31,Vegetables,Madurai,0.83,1406.5,True
+2025-07-28,31,Vegetables,Chennai,0.83,1831.1,True
+2025-07-28,31,Vegetables,Erode,0.83,1317.0,True
+2025-07-28,31,Vegetables,Thanjavur,0.83,1487.0,True
+2025-07-28,31,Fruits,Coimbatore,0.83,960.7,True
+2025-07-28,31,Fruits,Madurai,0.83,819.6,True
+2025-07-28,31,Fruits,Chennai,0.83,1047.4,True
+2025-07-28,31,Fruits,Erode,0.83,765.7,True
+2025-07-28,31,Fruits,Thanjavur,0.83,1014.3,True
+2025-07-28,31,Grains & Pulses,Coimbatore,0.83,2068.5,True
+2025-07-28,31,Grains & Pulses,Madurai,0.83,2081.5,True
+2025-07-28,31,Grains & Pulses,Chennai,0.83,2280.8,True
+2025-07-28,31,Grains & Pulses,Erode,0.83,1674.0,True
+2025-07-28,31,Grains & Pulses,Thanjavur,0.83,2413.6,True
+2025-07-28,31,Spices & Herbs,Coimbatore,0.83,472.0,True
+2025-07-28,31,Spices & Herbs,Madurai,0.83,417.5,True
+2025-07-28,31,Spices & Herbs,Chennai,0.83,593.3,True
+2025-07-28,31,Spices & Herbs,Erode,0.83,426.1,True
+2025-07-28,31,Spices & Herbs,Thanjavur,0.83,392.2,True
+2025-07-28,31,Nuts & Oilseeds,Coimbatore,0.83,572.0,True
+2025-07-28,31,Nuts & Oilseeds,Madurai,0.83,574.6,True
+2025-07-28,31,Nuts & Oilseeds,Chennai,0.83,748.7,True
+2025-07-28,31,Nuts & Oilseeds,Erode,0.83,461.5,True
+2025-07-28,31,Nuts & Oilseeds,Thanjavur,0.83,539.0,True
+2025-08-04,32,Vegetables,Coimbatore,0.8,1461.9,True
+2025-08-04,32,Vegetables,Madurai,0.8,1387.3,True
+2025-08-04,32,Vegetables,Chennai,0.8,1369.2,True
+2025-08-04,32,Vegetables,Erode,0.8,1160.7,True
+2025-08-04,32,Vegetables,Thanjavur,0.8,1153.0,True
+2025-08-04,32,Fruits,Coimbatore,0.8,778.0,True
+2025-08-04,32,Fruits,Madurai,0.8,895.8,True
+2025-08-04,32,Fruits,Chennai,0.8,1086.1,True
+2025-08-04,32,Fruits,Erode,0.8,773.6,True
+2025-08-04,32,Fruits,Thanjavur,0.8,980.4,True
+2025-08-04,32,Grains & Pulses,Coimbatore,0.8,2163.1,True
+2025-08-04,32,Grains & Pulses,Madurai,0.8,2127.6,True
+2025-08-04,32,Grains & Pulses,Chennai,0.8,2199.7,True
+2025-08-04,32,Grains & Pulses,Erode,0.8,2017.1,True
+2025-08-04,32,Grains & Pulses,Thanjavur,0.8,2293.3,True
+2025-08-04,32,Spices & Herbs,Coimbatore,0.8,458.4,True
+2025-08-04,32,Spices & Herbs,Madurai,0.8,367.5,True
+2025-08-04,32,Spices & Herbs,Chennai,0.8,454.1,True
+2025-08-04,32,Spices & Herbs,Erode,0.8,347.4,True
+2025-08-04,32,Spices & Herbs,Thanjavur,0.8,367.6,True
+2025-08-04,32,Nuts & Oilseeds,Coimbatore,0.8,697.3,True
+2025-08-04,32,Nuts & Oilseeds,Madurai,0.8,657.8,True
+2025-08-04,32,Nuts & Oilseeds,Chennai,0.8,749.6,True
+2025-08-04,32,Nuts & Oilseeds,Erode,0.8,484.2,True
+2025-08-04,32,Nuts & Oilseeds,Thanjavur,0.8,556.8,True
+2025-08-11,33,Vegetables,Coimbatore,0.78,1243.0,True
+2025-08-11,33,Vegetables,Madurai,0.78,1050.3,True
+2025-08-11,33,Vegetables,Chennai,0.78,1378.0,True
+2025-08-11,33,Vegetables,Erode,0.78,1246.3,True
+2025-08-11,33,Vegetables,Thanjavur,0.78,1175.7,True
+2025-08-11,33,Fruits,Coimbatore,0.78,977.6,True
+2025-08-11,33,Fruits,Madurai,0.78,712.9,True
+2025-08-11,33,Fruits,Chennai,0.78,1167.5,True
+2025-08-11,33,Fruits,Erode,0.78,789.7,True
+2025-08-11,33,Fruits,Thanjavur,0.78,873.5,True
+2025-08-11,33,Grains & Pulses,Coimbatore,0.78,1871.6,True
+2025-08-11,33,Grains & Pulses,Madurai,0.78,2072.8,True
+2025-08-11,33,Grains & Pulses,Chennai,0.78,2517.5,True
+2025-08-11,33,Grains & Pulses,Erode,0.78,1733.2,True
+2025-08-11,33,Grains & Pulses,Thanjavur,0.78,1931.5,True
+2025-08-11,33,Spices & Herbs,Coimbatore,0.78,377.0,True
+2025-08-11,33,Spices & Herbs,Madurai,0.78,358.4,True
+2025-08-11,33,Spices & Herbs,Chennai,0.78,491.4,True
+2025-08-11,33,Spices & Herbs,Erode,0.78,392.5,True
+2025-08-11,33,Spices & Herbs,Thanjavur,0.78,400.1,True
+2025-08-11,33,Nuts & Oilseeds,Coimbatore,0.78,648.9,True
+2025-08-11,33,Nuts & Oilseeds,Madurai,0.78,603.8,True
+2025-08-11,33,Nuts & Oilseeds,Chennai,0.78,618.2,True
+2025-08-11,33,Nuts & Oilseeds,Erode,0.78,466.3,True
+2025-08-11,33,Nuts & Oilseeds,Thanjavur,0.78,644.5,True
+2025-08-18,34,Vegetables,Coimbatore,0.75,1105.3,True
+2025-08-18,34,Vegetables,Madurai,0.75,1103.9,True
+2025-08-18,34,Vegetables,Chennai,0.75,1625.3,True
+2025-08-18,34,Vegetables,Erode,0.75,1062.6,True
+2025-08-18,34,Vegetables,Thanjavur,0.75,1131.5,True
+2025-08-18,34,Fruits,Coimbatore,0.75,892.4,True
+2025-08-18,34,Fruits,Madurai,0.75,865.7,True
+2025-08-18,34,Fruits,Chennai,0.75,1136.7,True
+2025-08-18,34,Fruits,Erode,0.75,732.4,True
+2025-08-18,34,Fruits,Thanjavur,0.75,880.9,True
+2025-08-18,34,Grains & Pulses,Coimbatore,0.75,2070.9,True
+2025-08-18,34,Grains & Pulses,Madurai,0.75,1905.4,True
+2025-08-18,34,Grains & Pulses,Chennai,0.75,2259.9,True
+2025-08-18,34,Grains & Pulses,Erode,0.75,1470.6,True
+2025-08-18,34,Grains & Pulses,Thanjavur,0.75,2152.8,True
+2025-08-18,34,Spices & Herbs,Coimbatore,0.75,444.4,True
+2025-08-18,34,Spices & Herbs,Madurai,0.75,403.5,True
+2025-08-18,34,Spices & Herbs,Chennai,0.75,531.8,True
+2025-08-18,34,Spices & Herbs,Erode,0.75,298.7,True
+2025-08-18,34,Spices & Herbs,Thanjavur,0.75,359.7,True
+2025-08-18,34,Nuts & Oilseeds,Coimbatore,0.75,628.6,True
+2025-08-18,34,Nuts & Oilseeds,Madurai,0.75,608.7,True
+2025-08-18,34,Nuts & Oilseeds,Chennai,0.75,599.8,True
+2025-08-18,34,Nuts & Oilseeds,Erode,0.75,506.3,True
+2025-08-18,34,Nuts & Oilseeds,Thanjavur,0.75,585.7,True
+2025-08-25,35,Vegetables,Coimbatore,0.73,1115.0,True
+2025-08-25,35,Vegetables,Madurai,0.73,1235.0,True
+2025-08-25,35,Vegetables,Chennai,0.73,1437.7,True
+2025-08-25,35,Vegetables,Erode,0.73,1077.2,True
+2025-08-25,35,Vegetables,Thanjavur,0.73,1147.0,True
+2025-08-25,35,Fruits,Coimbatore,0.73,897.4,True
+2025-08-25,35,Fruits,Madurai,0.73,746.2,True
+2025-08-25,35,Fruits,Chennai,0.73,1005.0,True
+2025-08-25,35,Fruits,Erode,0.73,693.2,True
+2025-08-25,35,Fruits,Thanjavur,0.73,806.4,True
+2025-08-25,35,Grains & Pulses,Coimbatore,0.73,2088.1,True
+2025-08-25,35,Grains & Pulses,Madurai,0.73,1673.7,True
+2025-08-25,35,Grains & Pulses,Chennai,0.73,2432.9,True
+2025-08-25,35,Grains & Pulses,Erode,0.73,1413.3,True
+2025-08-25,35,Grains & Pulses,Thanjavur,0.73,1726.5,True
+2025-08-25,35,Spices & Herbs,Coimbatore,0.73,389.1,True
+2025-08-25,35,Spices & Herbs,Madurai,0.73,365.4,True
+2025-08-25,35,Spices & Herbs,Chennai,0.73,525.4,True
+2025-08-25,35,Spices & Herbs,Erode,0.73,338.2,True
+2025-08-25,35,Spices & Herbs,Thanjavur,0.73,368.6,True
+2025-08-25,35,Nuts & Oilseeds,Coimbatore,0.73,581.1,True
+2025-08-25,35,Nuts & Oilseeds,Madurai,0.73,508.1,True
+2025-08-25,35,Nuts & Oilseeds,Chennai,0.73,684.7,True
+2025-08-25,35,Nuts & Oilseeds,Erode,0.73,472.2,True
+2025-08-25,35,Nuts & Oilseeds,Thanjavur,0.73,569.6,True
+2025-09-01,36,Vegetables,Coimbatore,0.72,1362.8,True
+2025-09-01,36,Vegetables,Madurai,0.72,1023.0,True
+2025-09-01,36,Vegetables,Chennai,0.72,1216.4,True
+2025-09-01,36,Vegetables,Erode,0.72,1017.7,True
+2025-09-01,36,Vegetables,Thanjavur,0.72,1329.6,True
+2025-09-01,36,Fruits,Coimbatore,0.72,891.2,True
+2025-09-01,36,Fruits,Madurai,0.72,679.9,True
+2025-09-01,36,Fruits,Chennai,0.72,982.5,True
+2025-09-01,36,Fruits,Erode,0.72,778.4,True
+2025-09-01,36,Fruits,Thanjavur,0.72,798.6,True
+2025-09-01,36,Grains & Pulses,Coimbatore,0.72,1843.1,True
+2025-09-01,36,Grains & Pulses,Madurai,0.72,1631.6,True
+2025-09-01,36,Grains & Pulses,Chennai,0.72,2235.0,True
+2025-09-01,36,Grains & Pulses,Erode,0.72,1607.2,True
+2025-09-01,36,Grains & Pulses,Thanjavur,0.72,1945.2,True
+2025-09-01,36,Spices & Herbs,Coimbatore,0.72,333.6,True
+2025-09-01,36,Spices & Herbs,Madurai,0.72,313.2,True
+2025-09-01,36,Spices & Herbs,Chennai,0.72,393.9,True
+2025-09-01,36,Spices & Herbs,Erode,0.72,363.5,True
+2025-09-01,36,Spices & Herbs,Thanjavur,0.72,350.1,True
+2025-09-01,36,Nuts & Oilseeds,Coimbatore,0.72,518.7,True
+2025-09-01,36,Nuts & Oilseeds,Madurai,0.72,555.6,True
+2025-09-01,36,Nuts & Oilseeds,Chennai,0.72,586.7,True
+2025-09-01,36,Nuts & Oilseeds,Erode,0.72,484.7,True
+2025-09-01,36,Nuts & Oilseeds,Thanjavur,0.72,498.7,True
+2025-09-08,37,Vegetables,Coimbatore,0.71,1045.8,True
+2025-09-08,37,Vegetables,Madurai,0.71,1215.4,True
+2025-09-08,37,Vegetables,Chennai,0.71,1388.6,True
+2025-09-08,37,Vegetables,Erode,0.71,1111.9,True
+2025-09-08,37,Vegetables,Thanjavur,0.71,1308.5,True
+2025-09-08,37,Fruits,Coimbatore,0.71,886.6,True
+2025-09-08,37,Fruits,Madurai,0.71,810.0,True
+2025-09-08,37,Fruits,Chennai,0.71,998.1,True
+2025-09-08,37,Fruits,Erode,0.71,574.7,True
+2025-09-08,37,Fruits,Thanjavur,0.71,782.5,True
+2025-09-08,37,Grains & Pulses,Coimbatore,0.71,1897.5,True
+2025-09-08,37,Grains & Pulses,Madurai,0.71,1574.6,True
+2025-09-08,37,Grains & Pulses,Chennai,0.71,2312.1,True
+2025-09-08,37,Grains & Pulses,Erode,0.71,1586.2,True
+2025-09-08,37,Grains & Pulses,Thanjavur,0.71,2021.6,True
+2025-09-08,37,Spices & Herbs,Coimbatore,0.71,384.8,True
+2025-09-08,37,Spices & Herbs,Madurai,0.71,304.5,True
+2025-09-08,37,Spices & Herbs,Chennai,0.71,461.6,True
+2025-09-08,37,Spices & Herbs,Erode,0.71,310.0,True
+2025-09-08,37,Spices & Herbs,Thanjavur,0.71,415.6,True
+2025-09-08,37,Nuts & Oilseeds,Coimbatore,0.71,480.4,True
+2025-09-08,37,Nuts & Oilseeds,Madurai,0.71,550.4,True
+2025-09-08,37,Nuts & Oilseeds,Chennai,0.71,554.5,True
+2025-09-08,37,Nuts & Oilseeds,Erode,0.71,499.5,True
+2025-09-08,37,Nuts & Oilseeds,Thanjavur,0.71,592.6,True
+2025-09-15,38,Vegetables,Coimbatore,0.7,1173.9,True
+2025-09-15,38,Vegetables,Madurai,0.7,1221.7,True
+2025-09-15,38,Vegetables,Chennai,0.7,1250.2,True
+2025-09-15,38,Vegetables,Erode,0.7,1109.2,True
+2025-09-15,38,Vegetables,Thanjavur,0.7,1095.0,True
+2025-09-15,38,Fruits,Coimbatore,0.7,886.5,True
+2025-09-15,38,Fruits,Madurai,0.7,651.6,True
+2025-09-15,38,Fruits,Chennai,0.7,974.1,True
+2025-09-15,38,Fruits,Erode,0.7,584.0,True
+2025-09-15,38,Fruits,Thanjavur,0.7,709.8,True
+2025-09-15,38,Grains & Pulses,Coimbatore,0.7,2085.7,True
+2025-09-15,38,Grains & Pulses,Madurai,0.7,1924.5,True
+2025-09-15,38,Grains & Pulses,Chennai,0.7,2279.7,True
+2025-09-15,38,Grains & Pulses,Erode,0.7,1604.6,True
+2025-09-15,38,Grains & Pulses,Thanjavur,0.7,1909.4,True
+2025-09-15,38,Spices & Herbs,Coimbatore,0.7,414.5,True
+2025-09-15,38,Spices & Herbs,Madurai,0.7,353.6,True
+2025-09-15,38,Spices & Herbs,Chennai,0.7,415.6,True
+2025-09-15,38,Spices & Herbs,Erode,0.7,304.7,True
+2025-09-15,38,Spices & Herbs,Thanjavur,0.7,407.4,True
+2025-09-15,38,Nuts & Oilseeds,Coimbatore,0.7,575.8,True
+2025-09-15,38,Nuts & Oilseeds,Madurai,0.7,568.7,True
+2025-09-15,38,Nuts & Oilseeds,Chennai,0.7,640.7,True
+2025-09-15,38,Nuts & Oilseeds,Erode,0.7,485.7,True
+2025-09-15,38,Nuts & Oilseeds,Thanjavur,0.7,558.0,True
+2025-09-22,39,Vegetables,Coimbatore,0.7,1266.4,True
+2025-09-22,39,Vegetables,Madurai,0.7,1087.2,True
+2025-09-22,39,Vegetables,Chennai,0.7,1243.2,True
+2025-09-22,39,Vegetables,Erode,0.7,910.5,True
+2025-09-22,39,Vegetables,Thanjavur,0.7,1235.5,True
+2025-09-22,39,Fruits,Coimbatore,0.7,795.8,True
+2025-09-22,39,Fruits,Madurai,0.7,782.4,True
+2025-09-22,39,Fruits,Chennai,0.7,807.4,True
+2025-09-22,39,Fruits,Erode,0.7,618.5,True
+2025-09-22,39,Fruits,Thanjavur,0.7,703.9,True
+2025-09-22,39,Grains & Pulses,Coimbatore,0.7,1661.6,True
+2025-09-22,39,Grains & Pulses,Madurai,0.7,1498.1,True
+2025-09-22,39,Grains & Pulses,Chennai,0.7,1841.6,True
+2025-09-22,39,Grains & Pulses,Erode,0.7,1521.0,True
+2025-09-22,39,Grains & Pulses,Thanjavur,0.7,1591.6,True
+2025-09-22,39,Spices & Herbs,Coimbatore,0.7,427.3,True
+2025-09-22,39,Spices & Herbs,Madurai,0.7,371.4,True
+2025-09-22,39,Spices & Herbs,Chennai,0.7,431.6,True
+2025-09-22,39,Spices & Herbs,Erode,0.7,277.0,True
+2025-09-22,39,Spices & Herbs,Thanjavur,0.7,383.0,True
+2025-09-22,39,Nuts & Oilseeds,Coimbatore,0.7,465.3,True
+2025-09-22,39,Nuts & Oilseeds,Madurai,0.7,464.0,True
+2025-09-22,39,Nuts & Oilseeds,Chennai,0.7,616.7,True
+2025-09-22,39,Nuts & Oilseeds,Erode,0.7,436.4,True
+2025-09-22,39,Nuts & Oilseeds,Thanjavur,0.7,599.1,True
+2025-09-29,40,Vegetables,Coimbatore,0.7,1242.4,True
+2025-09-29,40,Vegetables,Madurai,0.7,1068.1,True
+2025-09-29,40,Vegetables,Chennai,0.7,1542.3,True
+2025-09-29,40,Vegetables,Erode,0.7,912.6,True
+2025-09-29,40,Vegetables,Thanjavur,0.7,1050.0,True
+2025-09-29,40,Fruits,Coimbatore,0.7,779.8,True
+2025-09-29,40,Fruits,Madurai,0.7,718.2,True
+2025-09-29,40,Fruits,Chennai,0.7,801.7,True
+2025-09-29,40,Fruits,Erode,0.7,594.9,True
+2025-09-29,40,Fruits,Thanjavur,0.7,865.3,True
+2025-09-29,40,Grains & Pulses,Coimbatore,0.7,1878.4,True
+2025-09-29,40,Grains & Pulses,Madurai,0.7,1591.0,True
+2025-09-29,40,Grains & Pulses,Chennai,0.7,2128.0,True
+2025-09-29,40,Grains & Pulses,Erode,0.7,1583.5,True
+2025-09-29,40,Grains & Pulses,Thanjavur,0.7,1881.3,True
+2025-09-29,40,Spices & Herbs,Coimbatore,0.7,434.6,True
+2025-09-29,40,Spices & Herbs,Madurai,0.7,325.0,True
+2025-09-29,40,Spices & Herbs,Chennai,0.7,387.3,True
+2025-09-29,40,Spices & Herbs,Erode,0.7,312.5,True
+2025-09-29,40,Spices & Herbs,Thanjavur,0.7,366.1,True
+2025-09-29,40,Nuts & Oilseeds,Coimbatore,0.7,621.9,True
+2025-09-29,40,Nuts & Oilseeds,Madurai,0.7,504.5,True
+2025-09-29,40,Nuts & Oilseeds,Chennai,0.7,705.9,True
+2025-09-29,40,Nuts & Oilseeds,Erode,0.7,460.1,True
+2025-09-29,40,Nuts & Oilseeds,Thanjavur,0.7,473.2,True
+2025-10-06,41,Vegetables,Coimbatore,0.71,1043.9,True
+2025-10-06,41,Vegetables,Madurai,0.71,1097.8,True
+2025-10-06,41,Vegetables,Chennai,0.71,1559.6,True
+2025-10-06,41,Vegetables,Erode,0.71,888.2,True
+2025-10-06,41,Vegetables,Thanjavur,0.71,974.4,True
+2025-10-06,41,Fruits,Coimbatore,0.71,739.3,True
+2025-10-06,41,Fruits,Madurai,0.71,766.3,True
+2025-10-06,41,Fruits,Chennai,0.71,905.1,True
+2025-10-06,41,Fruits,Erode,0.71,634.6,True
+2025-10-06,41,Fruits,Thanjavur,0.71,736.5,True
+2025-10-06,41,Grains & Pulses,Coimbatore,0.71,2052.8,True
+2025-10-06,41,Grains & Pulses,Madurai,0.71,1789.1,True
+2025-10-06,41,Grains & Pulses,Chennai,0.71,1953.0,True
+2025-10-06,41,Grains & Pulses,Erode,0.71,1339.8,True
+2025-10-06,41,Grains & Pulses,Thanjavur,0.71,1783.9,True
+2025-10-06,41,Spices & Herbs,Coimbatore,0.71,369.0,True
+2025-10-06,41,Spices & Herbs,Madurai,0.71,315.6,True
+2025-10-06,41,Spices & Herbs,Chennai,0.71,392.3,True
+2025-10-06,41,Spices & Herbs,Erode,0.71,349.8,True
+2025-10-06,41,Spices & Herbs,Thanjavur,0.71,365.5,True
+2025-10-06,41,Nuts & Oilseeds,Coimbatore,0.71,625.6,True
+2025-10-06,41,Nuts & Oilseeds,Madurai,0.71,523.7,True
+2025-10-06,41,Nuts & Oilseeds,Chennai,0.71,623.7,True
+2025-10-06,41,Nuts & Oilseeds,Erode,0.71,392.6,True
+2025-10-06,41,Nuts & Oilseeds,Thanjavur,0.71,578.5,True
+2025-10-13,42,Vegetables,Coimbatore,0.72,1190.5,True
+2025-10-13,42,Vegetables,Madurai,0.72,993.6,True
+2025-10-13,42,Vegetables,Chennai,0.72,1447.5,True
+2025-10-13,42,Vegetables,Erode,0.72,1000.7,True
+2025-10-13,42,Vegetables,Thanjavur,0.72,1014.8,True
+2025-10-13,42,Fruits,Coimbatore,0.72,814.6,True
+2025-10-13,42,Fruits,Madurai,0.72,653.5,True
+2025-10-13,42,Fruits,Chennai,0.72,1023.4,True
+2025-10-13,42,Fruits,Erode,0.72,592.2,True
+2025-10-13,42,Fruits,Thanjavur,0.72,782.6,True
+2025-10-13,42,Grains & Pulses,Coimbatore,0.72,1688.8,True
+2025-10-13,42,Grains & Pulses,Madurai,0.72,1825.3,True
+2025-10-13,42,Grains & Pulses,Chennai,0.72,2381.1,True
+2025-10-13,42,Grains & Pulses,Erode,0.72,1630.7,True
+2025-10-13,42,Grains & Pulses,Thanjavur,0.72,1760.7,True
+2025-10-13,42,Spices & Herbs,Coimbatore,0.72,397.1,True
+2025-10-13,42,Spices & Herbs,Madurai,0.72,340.4,True
+2025-10-13,42,Spices & Herbs,Chennai,0.72,490.2,True
+2025-10-13,42,Spices & Herbs,Erode,0.72,289.8,True
+2025-10-13,42,Spices & Herbs,Thanjavur,0.72,343.2,True
+2025-10-13,42,Nuts & Oilseeds,Coimbatore,0.72,542.6,True
+2025-10-13,42,Nuts & Oilseeds,Madurai,0.72,494.4,True
+2025-10-13,42,Nuts & Oilseeds,Chennai,0.72,569.9,True
+2025-10-13,42,Nuts & Oilseeds,Erode,0.72,440.3,True
+2025-10-13,42,Nuts & Oilseeds,Thanjavur,0.72,486.9,True
+2025-10-20,43,Vegetables,Coimbatore,0.73,1154.0,True
+2025-10-20,43,Vegetables,Madurai,0.73,982.8,True
+2025-10-20,43,Vegetables,Chennai,0.73,1555.5,True
+2025-10-20,43,Vegetables,Erode,0.73,1047.0,True
+2025-10-20,43,Vegetables,Thanjavur,0.73,1231.9,True
+2025-10-20,43,Fruits,Coimbatore,0.73,807.9,True
+2025-10-20,43,Fruits,Madurai,0.73,741.9,True
+2025-10-20,43,Fruits,Chennai,0.73,1070.5,True
+2025-10-20,43,Fruits,Erode,0.73,658.7,True
+2025-10-20,43,Fruits,Thanjavur,0.73,880.6,True
+2025-10-20,43,Grains & Pulses,Coimbatore,0.73,1651.1,True
+2025-10-20,43,Grains & Pulses,Madurai,0.73,1595.5,True
+2025-10-20,43,Grains & Pulses,Chennai,0.73,2234.2,True
+2025-10-20,43,Grains & Pulses,Erode,0.73,1844.1,True
+2025-10-20,43,Grains & Pulses,Thanjavur,0.73,2106.0,True
+2025-10-20,43,Spices & Herbs,Coimbatore,0.73,342.8,True
+2025-10-20,43,Spices & Herbs,Madurai,0.73,413.6,True
+2025-10-20,43,Spices & Herbs,Chennai,0.73,432.9,True
+2025-10-20,43,Spices & Herbs,Erode,0.73,349.5,True
+2025-10-20,43,Spices & Herbs,Thanjavur,0.73,380.3,True
+2025-10-20,43,Nuts & Oilseeds,Coimbatore,0.73,604.2,True
+2025-10-20,43,Nuts & Oilseeds,Madurai,0.73,539.5,True
+2025-10-20,43,Nuts & Oilseeds,Chennai,0.73,633.5,True
+2025-10-20,43,Nuts & Oilseeds,Erode,0.73,520.9,True
+2025-10-20,43,Nuts & Oilseeds,Thanjavur,0.73,610.8,True
+2025-10-27,44,Vegetables,Coimbatore,0.75,1359.5,True
+2025-10-27,44,Vegetables,Madurai,0.75,1268.5,True
+2025-10-27,44,Vegetables,Chennai,0.75,1372.1,True
+2025-10-27,44,Vegetables,Erode,0.75,1035.2,True
+2025-10-27,44,Vegetables,Thanjavur,0.75,1033.1,True
+2025-10-27,44,Fruits,Coimbatore,0.75,736.0,True
+2025-10-27,44,Fruits,Madurai,0.75,673.2,True
+2025-10-27,44,Fruits,Chennai,0.75,1145.7,True
+2025-10-27,44,Fruits,Erode,0.75,821.6,True
+2025-10-27,44,Fruits,Thanjavur,0.75,805.0,True
+2025-10-27,44,Grains & Pulses,Coimbatore,0.75,1706.8,True
+2025-10-27,44,Grains & Pulses,Madurai,0.75,1862.4,True
+2025-10-27,44,Grains & Pulses,Chennai,0.75,2184.9,True
+2025-10-27,44,Grains & Pulses,Erode,0.75,1616.4,True
+2025-10-27,44,Grains & Pulses,Thanjavur,0.75,1816.1,True
+2025-10-27,44,Spices & Herbs,Coimbatore,0.75,385.0,True
+2025-10-27,44,Spices & Herbs,Madurai,0.75,333.5,True
+2025-10-27,44,Spices & Herbs,Chennai,0.75,458.4,True
+2025-10-27,44,Spices & Herbs,Erode,0.75,301.4,True
+2025-10-27,44,Spices & Herbs,Thanjavur,0.75,376.7,True
+2025-10-27,44,Nuts & Oilseeds,Coimbatore,0.75,617.2,True
+2025-10-27,44,Nuts & Oilseeds,Madurai,0.75,611.4,True
+2025-10-27,44,Nuts & Oilseeds,Chennai,0.75,665.0,True
+2025-10-27,44,Nuts & Oilseeds,Erode,0.75,444.9,True
+2025-10-27,44,Nuts & Oilseeds,Thanjavur,0.75,569.7,True
+2025-11-03,45,Vegetables,Coimbatore,0.78,1134.7,True
+2025-11-03,45,Vegetables,Madurai,0.78,1092.7,True
+2025-11-03,45,Vegetables,Chennai,0.78,1610.1,True
+2025-11-03,45,Vegetables,Erode,0.78,1159.2,True
+2025-11-03,45,Vegetables,Thanjavur,0.78,1171.6,True
+2025-11-03,45,Fruits,Coimbatore,0.78,888.5,True
+2025-11-03,45,Fruits,Madurai,0.78,855.8,True
+2025-11-03,45,Fruits,Chennai,0.78,1095.8,True
+2025-11-03,45,Fruits,Erode,0.78,745.7,True
+2025-11-03,45,Fruits,Thanjavur,0.78,762.1,True
+2025-11-03,45,Grains & Pulses,Coimbatore,0.78,2211.6,True
+2025-11-03,45,Grains & Pulses,Madurai,0.78,2074.8,True
+2025-11-03,45,Grains & Pulses,Chennai,0.78,2167.2,True
+2025-11-03,45,Grains & Pulses,Erode,0.78,1853.2,True
+2025-11-03,45,Grains & Pulses,Thanjavur,0.78,1680.5,True
+2025-11-03,45,Spices & Herbs,Coimbatore,0.78,471.3,True
+2025-11-03,45,Spices & Herbs,Madurai,0.78,398.6,True
+2025-11-03,45,Spices & Herbs,Chennai,0.78,432.2,True
+2025-11-03,45,Spices & Herbs,Erode,0.78,388.6,True
+2025-11-03,45,Spices & Herbs,Thanjavur,0.78,458.9,True
+2025-11-03,45,Nuts & Oilseeds,Coimbatore,0.78,630.4,True
+2025-11-03,45,Nuts & Oilseeds,Madurai,0.78,569.2,True
+2025-11-03,45,Nuts & Oilseeds,Chennai,0.78,614.7,True
+2025-11-03,45,Nuts & Oilseeds,Erode,0.78,460.1,True
+2025-11-03,45,Nuts & Oilseeds,Thanjavur,0.78,533.2,True
+2025-11-10,46,Vegetables,Coimbatore,0.8,1298.8,True
+2025-11-10,46,Vegetables,Madurai,0.8,1141.9,True
+2025-11-10,46,Vegetables,Chennai,0.8,1346.4,True
+2025-11-10,46,Vegetables,Erode,0.8,1055.9,True
+2025-11-10,46,Vegetables,Thanjavur,0.8,1177.5,True
+2025-11-10,46,Fruits,Coimbatore,0.8,1014.7,True
+2025-11-10,46,Fruits,Madurai,0.8,843.8,True
+2025-11-10,46,Fruits,Chennai,0.8,941.4,True
+2025-11-10,46,Fruits,Erode,0.8,647.6,True
+2025-11-10,46,Fruits,Thanjavur,0.8,987.3,True
+2025-11-10,46,Grains & Pulses,Coimbatore,0.8,2182.1,True
+2025-11-10,46,Grains & Pulses,Madurai,0.8,2145.1,True
+2025-11-10,46,Grains & Pulses,Chennai,0.8,2705.2,True
+2025-11-10,46,Grains & Pulses,Erode,0.8,1976.8,True
+2025-11-10,46,Grains & Pulses,Thanjavur,0.8,1741.7,True
+2025-11-10,46,Spices & Herbs,Coimbatore,0.8,422.7,True
+2025-11-10,46,Spices & Herbs,Madurai,0.8,342.6,True
+2025-11-10,46,Spices & Herbs,Chennai,0.8,511.8,True
+2025-11-10,46,Spices & Herbs,Erode,0.8,325.6,True
+2025-11-10,46,Spices & Herbs,Thanjavur,0.8,414.5,True
+2025-11-10,46,Nuts & Oilseeds,Coimbatore,0.8,619.8,True
+2025-11-10,46,Nuts & Oilseeds,Madurai,0.8,567.4,True
+2025-11-10,46,Nuts & Oilseeds,Chennai,0.8,836.1,True
+2025-11-10,46,Nuts & Oilseeds,Erode,0.8,493.0,True
+2025-11-10,46,Nuts & Oilseeds,Thanjavur,0.8,591.1,True
+2025-11-17,47,Vegetables,Coimbatore,0.83,1271.3,True
+2025-11-17,47,Vegetables,Madurai,0.83,1352.8,True
+2025-11-17,47,Vegetables,Chennai,0.83,1751.8,True
+2025-11-17,47,Vegetables,Erode,0.83,1180.8,True
+2025-11-17,47,Vegetables,Thanjavur,0.83,1156.9,True
+2025-11-17,47,Fruits,Coimbatore,0.83,1058.1,True
+2025-11-17,47,Fruits,Madurai,0.83,757.5,True
+2025-11-17,47,Fruits,Chennai,0.83,1095.6,True
+2025-11-17,47,Fruits,Erode,0.83,736.9,True
+2025-11-17,47,Fruits,Thanjavur,0.83,828.4,True
+2025-11-17,47,Grains & Pulses,Coimbatore,0.83,1961.1,True
+2025-11-17,47,Grains & Pulses,Madurai,0.83,2095.7,True
+2025-11-17,47,Grains & Pulses,Chennai,0.83,2279.6,True
+2025-11-17,47,Grains & Pulses,Erode,0.83,2061.5,True
+2025-11-17,47,Grains & Pulses,Thanjavur,0.83,1799.3,True
+2025-11-17,47,Spices & Herbs,Coimbatore,0.83,502.8,True
+2025-11-17,47,Spices & Herbs,Madurai,0.83,459.7,True
+2025-11-17,47,Spices & Herbs,Chennai,0.83,570.0,True
+2025-11-17,47,Spices & Herbs,Erode,0.83,412.7,True
+2025-11-17,47,Spices & Herbs,Thanjavur,0.83,433.0,True
+2025-11-17,47,Nuts & Oilseeds,Coimbatore,0.83,732.6,True
+2025-11-17,47,Nuts & Oilseeds,Madurai,0.83,645.9,True
+2025-11-17,47,Nuts & Oilseeds,Chennai,0.83,724.4,True
+2025-11-17,47,Nuts & Oilseeds,Erode,0.83,523.0,True
+2025-11-17,47,Nuts & Oilseeds,Thanjavur,0.83,530.3,True
+2025-11-24,48,Vegetables,Coimbatore,0.86,1612.1,True
+2025-11-24,48,Vegetables,Madurai,0.86,1235.8,True
+2025-11-24,48,Vegetables,Chennai,0.86,1555.5,True
+2025-11-24,48,Vegetables,Erode,0.86,1365.9,True
+2025-11-24,48,Vegetables,Thanjavur,0.86,1418.7,True
+2025-11-24,48,Fruits,Coimbatore,0.86,1122.7,True
+2025-11-24,48,Fruits,Madurai,0.86,938.6,True
+2025-11-24,48,Fruits,Chennai,0.86,1054.3,True
+2025-11-24,48,Fruits,Erode,0.86,715.5,True
+2025-11-24,48,Fruits,Thanjavur,0.86,965.4,True
+2025-11-24,48,Grains & Pulses,Coimbatore,0.86,1942.6,True
+2025-11-24,48,Grains & Pulses,Madurai,0.86,2336.2,True
+2025-11-24,48,Grains & Pulses,Chennai,0.86,2569.5,True
+2025-11-24,48,Grains & Pulses,Erode,0.86,2023.8,True
+2025-11-24,48,Grains & Pulses,Thanjavur,0.86,2302.8,True
+2025-11-24,48,Spices & Herbs,Coimbatore,0.86,517.8,True
+2025-11-24,48,Spices & Herbs,Madurai,0.86,438.8,True
+2025-11-24,48,Spices & Herbs,Chennai,0.86,518.2,True
+2025-11-24,48,Spices & Herbs,Erode,0.86,398.2,True
+2025-11-24,48,Spices & Herbs,Thanjavur,0.86,394.0,True
+2025-11-24,48,Nuts & Oilseeds,Coimbatore,0.86,605.7,True
+2025-11-24,48,Nuts & Oilseeds,Madurai,0.86,627.6,True
+2025-11-24,48,Nuts & Oilseeds,Chennai,0.86,806.3,True
+2025-11-24,48,Nuts & Oilseeds,Erode,0.86,497.6,True
+2025-11-24,48,Nuts & Oilseeds,Thanjavur,0.86,651.5,True
+2025-12-01,49,Vegetables,Coimbatore,0.89,1648.9,True
+2025-12-01,49,Vegetables,Madurai,0.89,1331.2,True
+2025-12-01,49,Vegetables,Chennai,0.89,1781.9,True
+2025-12-01,49,Vegetables,Erode,0.89,1200.2,True
+2025-12-01,49,Vegetables,Thanjavur,0.89,1625.7,True
+2025-12-01,49,Fruits,Coimbatore,0.89,884.1,True
+2025-12-01,49,Fruits,Madurai,0.89,964.0,True
+2025-12-01,49,Fruits,Chennai,0.89,1096.0,True
+2025-12-01,49,Fruits,Erode,0.89,800.8,True
+2025-12-01,49,Fruits,Thanjavur,0.89,914.2,True
+2025-12-01,49,Grains & Pulses,Coimbatore,0.89,2436.2,True
+2025-12-01,49,Grains & Pulses,Madurai,0.89,1950.9,True
+2025-12-01,49,Grains & Pulses,Chennai,0.89,2731.9,True
+2025-12-01,49,Grains & Pulses,Erode,0.89,1911.3,True
+2025-12-01,49,Grains & Pulses,Thanjavur,0.89,2183.0,True
+2025-12-01,49,Spices & Herbs,Coimbatore,0.89,478.5,True
+2025-12-01,49,Spices & Herbs,Madurai,0.89,433.7,True
+2025-12-01,49,Spices & Herbs,Chennai,0.89,522.5,True
+2025-12-01,49,Spices & Herbs,Erode,0.89,450.4,True
+2025-12-01,49,Spices & Herbs,Thanjavur,0.89,442.0,True
+2025-12-01,49,Nuts & Oilseeds,Coimbatore,0.89,733.4,True
+2025-12-01,49,Nuts & Oilseeds,Madurai,0.89,646.2,True
+2025-12-01,49,Nuts & Oilseeds,Chennai,0.89,876.2,True
+2025-12-01,49,Nuts & Oilseeds,Erode,0.89,536.8,True
+2025-12-01,49,Nuts & Oilseeds,Thanjavur,0.89,765.1,True
+2025-12-08,50,Vegetables,Coimbatore,0.93,1385.4,True
+2025-12-08,50,Vegetables,Madurai,0.93,1440.2,True
+2025-12-08,50,Vegetables,Chennai,0.93,1736.3,True
+2025-12-08,50,Vegetables,Erode,0.93,1286.6,True
+2025-12-08,50,Vegetables,Thanjavur,0.93,1407.2,True
+2025-12-08,50,Fruits,Coimbatore,0.93,933.3,True
+2025-12-08,50,Fruits,Madurai,0.93,949.7,True
+2025-12-08,50,Fruits,Chennai,0.93,1133.5,True
+2025-12-08,50,Fruits,Erode,0.93,942.7,True
+2025-12-08,50,Fruits,Thanjavur,0.93,1138.8,True
+2025-12-08,50,Grains & Pulses,Coimbatore,0.93,2260.1,True
+2025-12-08,50,Grains & Pulses,Madurai,0.93,2114.5,True
+2025-12-08,50,Grains & Pulses,Chennai,0.93,3193.8,True
+2025-12-08,50,Grains & Pulses,Erode,0.93,2282.8,True
+2025-12-08,50,Grains & Pulses,Thanjavur,0.93,2142.7,True
+2025-12-08,50,Spices & Herbs,Coimbatore,0.93,502.0,True
+2025-12-08,50,Spices & Herbs,Madurai,0.93,449.7,True
+2025-12-08,50,Spices & Herbs,Chennai,0.93,509.6,True
+2025-12-08,50,Spices & Herbs,Erode,0.93,420.7,True
+2025-12-08,50,Spices & Herbs,Thanjavur,0.93,551.7,True
+2025-12-08,50,Nuts & Oilseeds,Coimbatore,0.93,703.3,True
+2025-12-08,50,Nuts & Oilseeds,Madurai,0.93,650.0,True
+2025-12-08,50,Nuts & Oilseeds,Chennai,0.93,942.7,True
+2025-12-08,50,Nuts & Oilseeds,Erode,0.93,599.9,True
+2025-12-08,50,Nuts & Oilseeds,Thanjavur,0.93,713.3,True
+2025-12-15,51,Vegetables,Coimbatore,0.96,1413.6,True
+2025-12-15,51,Vegetables,Madurai,0.96,1349.5,True
+2025-12-15,51,Vegetables,Chennai,0.96,1626.8,True
+2025-12-15,51,Vegetables,Erode,0.96,1495.7,True
+2025-12-15,51,Vegetables,Thanjavur,0.96,1672.8,True
+2025-12-15,51,Fruits,Coimbatore,0.96,1216.6,True
+2025-12-15,51,Fruits,Madurai,0.96,864.0,True
+2025-12-15,51,Fruits,Chennai,0.96,1291.5,True
+2025-12-15,51,Fruits,Erode,0.96,836.7,True
+2025-12-15,51,Fruits,Thanjavur,0.96,1066.6,True
+2025-12-15,51,Grains & Pulses,Coimbatore,0.96,2523.2,True
+2025-12-15,51,Grains & Pulses,Madurai,0.96,2452.8,True
+2025-12-15,51,Grains & Pulses,Chennai,0.96,3344.6,True
+2025-12-15,51,Grains & Pulses,Erode,0.96,2316.0,True
+2025-12-15,51,Grains & Pulses,Thanjavur,0.96,2291.9,True
+2025-12-15,51,Spices & Herbs,Coimbatore,0.96,510.0,True
+2025-12-15,51,Spices & Herbs,Madurai,0.96,439.4,True
+2025-12-15,51,Spices & Herbs,Chennai,0.96,643.8,True
+2025-12-15,51,Spices & Herbs,Erode,0.96,456.9,True
+2025-12-15,51,Spices & Herbs,Thanjavur,0.96,568.2,True
+2025-12-15,51,Nuts & Oilseeds,Coimbatore,0.96,747.2,True
+2025-12-15,51,Nuts & Oilseeds,Madurai,0.96,774.4,True
+2025-12-15,51,Nuts & Oilseeds,Chennai,0.96,817.0,True
+2025-12-15,51,Nuts & Oilseeds,Erode,0.96,572.6,True
+2025-12-15,51,Nuts & Oilseeds,Thanjavur,0.96,795.1,True
+2025-12-22,52,Vegetables,Coimbatore,1.0,1717.3,True
+2025-12-22,52,Vegetables,Madurai,1.0,1455.1,True
+2025-12-22,52,Vegetables,Chennai,1.0,1756.9,True
+2025-12-22,52,Vegetables,Erode,1.0,1209.8,True
+2025-12-22,52,Vegetables,Thanjavur,1.0,1505.7,True
+2025-12-22,52,Fruits,Coimbatore,1.0,1041.8,True
+2025-12-22,52,Fruits,Madurai,1.0,1078.2,True
+2025-12-22,52,Fruits,Chennai,1.0,1245.4,True
+2025-12-22,52,Fruits,Erode,1.0,845.5,True
+2025-12-22,52,Fruits,Thanjavur,1.0,1193.7,True
+2025-12-22,52,Grains & Pulses,Coimbatore,1.0,2318.2,True
+2025-12-22,52,Grains & Pulses,Madurai,1.0,2383.4,True
+2025-12-22,52,Grains & Pulses,Chennai,1.0,2784.0,True
+2025-12-22,52,Grains & Pulses,Erode,1.0,2120.9,True
+2025-12-22,52,Grains & Pulses,Thanjavur,1.0,2151.4,True
+2025-12-22,52,Spices & Herbs,Coimbatore,1.0,556.5,True
+2025-12-22,52,Spices & Herbs,Madurai,1.0,554.5,True
+2025-12-22,52,Spices & Herbs,Chennai,1.0,676.3,True
+2025-12-22,52,Spices & Herbs,Erode,1.0,504.5,True
+2025-12-22,52,Spices & Herbs,Thanjavur,1.0,580.7,True
+2025-12-22,52,Nuts & Oilseeds,Coimbatore,1.0,881.9,True
+2025-12-22,52,Nuts & Oilseeds,Madurai,1.0,747.1,True
+2025-12-22,52,Nuts & Oilseeds,Chennai,1.0,971.5,True
+2025-12-22,52,Nuts & Oilseeds,Erode,1.0,584.1,True
+2025-12-22,52,Nuts & Oilseeds,Thanjavur,1.0,746.1,True

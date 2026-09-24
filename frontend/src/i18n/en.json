@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "brand": "FarmDirect AI",
+    "marketplace": "Marketplace",
+    "dashboard": "Dashboard",
+    "myOrders": "My Orders",
+    "routeMap": "Logistics Route",
+    "aiTools": "AI Forecast & Price",
+    "notifications": "Notifications",
+    "login": "Sign In",
+    "register": "Register",
+    "logout": "Sign Out"
+  },
+  "hero": {
+    "title": "Farm Fresh. Fair Prices. Direct from Farmers.",
+    "subtitle": "Connecting local farmers directly with consumers and bulk buyers with AI-driven demand forecasting, fair price guidance, and route-optimized logistics.",
+    "explore": "Explore Marketplace",
+    "joinFarmer": "Join as a Farmer"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "farmerRole": "Farmer / FPO Dashboard",
+    "buyerRole": "Consumer & Bulk Buyer Dashboard",
+    "logisticsRole": "Logistics Partner Dashboard",
+    "adminRole": "Platform Administration Dashboard",
+    "totalEarnings": "Total Earnings",
+    "activeListings": "Active Listings",
+    "pendingOrders": "Pending Orders",
+    "deliveredOrders": "Delivered Orders",
+    "farmerUplift": "Est. Farmer Price Uplift",
+    "consumerSavings": "Est. Consumer Savings",
+    "routeKmSaved": "Route Distance Saved (km)"
+  },
+  "product": {
+    "addProduct": "Add New Harvest Product",
+    "editProduct": "Edit Product Details",
+    "name": "Product Name",
+    "category": "Category",
+    "pricePerUnit": "Price per Unit (₹)",
+    "quantity": "Available Quantity",
+    "unit": "Unit (kg, quintal, ton)",
+    "location": "Farm Location (District/State)",
+    "organic": "Organic Certified",
+    "harvestDate": "Harvest Date",
+    "aiPriceGuidance": "Get AI Price Guidance"
+  },
+  "order": {
+    "title": "Order Details",
+    "status": "Order Status",
+    "placed": "Order Placed",
+    "confirmed": "Confirmed by Farmer",
+    "packed": "Packed & Ready",
+    "inTransit": "In Transit",
+    "delivered": "Delivered",
+    "trackOrder": "Track Order Timeline"
+  },
+  "common": {
+    "demoDisclaimer": "Demo / Simulated Data",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
+

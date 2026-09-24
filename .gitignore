@@ -1,0 +1,24 @@
+# Dependencies & Virtual Envs
+node_modules/
+backend/venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Databases & Local Logs
+*.db
+*.sqlite3
+*.log
+
+# Build outputs & caches
+frontend/dist/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & OS files
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db

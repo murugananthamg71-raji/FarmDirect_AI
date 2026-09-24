@@ -1,12 +1,33 @@
+from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
 from app.api.v1 import auth, products, cart, orders, ai, logistics, reviews_reports, notifications, admin, dashboards
 
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    try:
+        from app.core.database import engine, Base, SessionLocal
+        Base.metadata.create_all(bind=engine)
+        db = SessionLocal()
+        try:
+            from app.db.models import User
+            if db.query(User).first() is None:
+                from app.db.seed import seed_database
+                seed_database()
+        except Exception as seed_err:
+            print("Auto-seed error:", seed_err)
+        finally:
+            db.close()
+    except Exception as e:
+        print("Startup DB error:", e)
+    yield
+
 app = FastAPI(
     title=settings.PROJECT_NAME,
     openapi_url=f"{settings.API_V1_STR}/openapi.json",
-    description="FarmDirect AI Direct-to-Consumer Agricultural Marketplace API (SIH26033)"
+    description="FarmDirect AI Direct-to-Consumer Agricultural Marketplace API (SIH26033)",
+    lifespan=lifespan
 )
 
 # CORS Configuration
@@ -29,24 +50,6 @@ app.include_router(reviews_reports.router, prefix=f"{settings.API_V1_STR}", tags
 app.include_router(notifications.router, prefix=f"{settings.API_V1_STR}/notifications", tags=["Notifications"])
 app.include_router(admin.router, prefix=f"{settings.API_V1_STR}/admin", tags=["Admin & Impact"])
 app.include_router(dashboards.router, prefix=f"{settings.API_V1_STR}/dashboard", tags=["Dashboards"])
-
-@app.on_event("startup")
-def on_startup():
-    try:
-        from app.core.database import engine, Base, SessionLocal
-        Base.metadata.create_all(bind=engine)
-        db = SessionLocal()
-        try:
-            from app.db.models import User
-            if db.query(User).count() == 0:
-                from app.db.seed import seed_database
-                seed_database()
-        except Exception as seed_err:
-            print("Auto-seed info:", seed_err)
-        finally:
-            db.close()
-    except Exception as e:
-        print("Startup DB init error:", e)
 
 @app.get("/api/health")
 def health_check():

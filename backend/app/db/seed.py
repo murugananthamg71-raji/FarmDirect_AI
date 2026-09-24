@@ -9,7 +9,6 @@ from app.db.models import (
 )
 
 def seed_database():
-    Base.metadata.drop_all(bind=engine)
     Base.metadata.create_all(bind=engine)
     db: Session = SessionLocal()
 
